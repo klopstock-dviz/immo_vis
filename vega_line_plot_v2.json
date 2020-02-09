@@ -1,0 +1,132 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 500,
+  "height": 200,
+  "padding": 5,
+
+  "signals": [
+    {
+      "name": "Ville",
+      "value": "toulouse",
+      "bind": {
+        "input": "select",
+        "options": [
+          "nice",
+          "toulouse",
+          "montpellier",
+          "bordeaux",
+          "cannes",
+          "toulon",
+          "aix-en-provence",
+          "nimes",
+          "lille",
+          "paris-16eme",
+          "rouen"
+        ]
+      }
+    }
+  ],
+
+  "data": [
+    {
+      "name": "table",
+      "url": "https://raw.githubusercontent.com/klopstock-dviz/immo_vis/master/dataset_vega.csv",
+      "format": {"type": "csv", "delimiter": ","}
+    },
+
+  {
+    "name": "data_filtre1",
+    "source": "table",      
+    "transform": 
+    [
+      {"type": "filter", "expr":  "datum.type_annonceur != 'Constructeur maisons' "},
+      {"type": "filter", "expr":  "datum.type_annonceur != '' "},
+      {"type": "filter", "expr":  "indexof([\"Vente\",\"prestige\", \"investment\"], datum[\"typedetransaction\"]) !== -1"},
+      {"type": "filter", "expr":  "datum.ville === Ville"},
+      {"type": "formula", "as": "prix_m_2", "expr": "(datum.prix_bien) / datum.surface"}
+    ]
+  },    
+
+      {
+        "name": "prix_m2_med_par_nb_pieces",
+        "source": "data_filtre1",      
+        "transform": [
+          {
+          "type": "aggregate",
+          "groupby": ["ville","type_annonceur", "nb_pieces"],
+          "fields": ["prix_m_2", "nb_pieces", "surface"],
+          "ops": ["median", "count", "median"],
+          "as": ["prix_m2_median", "nb_log"]
+          },
+          {
+          "type": "collect",
+          "sort": {"field": ["nb_pieces"]}
+          },
+          {"type": "filter", "expr":  "datum.nb_log > 2"}
+        ]
+      }
+  ],
+
+  "scales": [
+    {
+      "name": "x",
+      "type": "point",
+      "range": "width",
+      "domain": {"data": "prix_m2_med_par_nb_pieces", "field": "nb_pieces"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "zero": true,
+      "domain": {"data": "prix_m2_med_par_nb_pieces", "field": "prix_m2_median"}
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "range": "category",
+      "domain": {"data": "prix_m2_med_par_nb_pieces", "field": "type_annonceur"}
+    }
+  ],
+
+  "axes": [
+    {"orient": "bottom", "scale": "x"},
+    {"orient": "left", "scale": "y"}
+  ],
+
+  "marks": [
+    {
+      "type": "group",
+      "from": {
+        "facet": {
+          "name": "series",
+          "data": "prix_m2_med_par_nb_pieces",
+          "groupby": "type_annonceur"
+        }
+      },
+      "marks": [
+        {
+          "type": "line",
+          "from": {"data": "series"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "nb_pieces"},
+              "x2": {"scale": "x", "value": 0},
+              "y": {"scale": "y", "field": "prix_m2_median"},
+              "stroke": {"scale": "color", "field": "type_annonceur"},
+              "strokeWidth": {"value": 2}
+            },
+            "update": {
+              "Ville": {"signal": "Ville"},
+              "fillOpacity": {"value": 1}
+            },
+            "hover": {
+              "fillOpacity": {"value": 0.5}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
