@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v5.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-tooltip"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+  
+  <!-- leaflet -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+  
+  <script type="text/javascript" src="load_data.js"></script>
+  <script type="text/javascript" src="gestionMap_2.js"></script>
+  <script type="text/javascript" src="gestionLayer_3.js"></script>
+
+</head>
+
+<body>  
+  <div id="vis"></div>
+  <label for="Quartier">Quartier</label><br />
+  <select name="list_quartiers" id="list_quartiers"></select>
+  
+  <script>
+    const vlSpec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+      
+      "padding": 5,
+      "data": {"url": "https://raw.githubusercontent.com/klopstock-dviz/immo_vis/master/immo_group.json"},
+
+       "transform": [    
+        
+      {"bin": true, "field": "surface_mediane", "as": "surface_bin"},
+      {"filter": "datum.nb_pieces <= 10"}
+        
+
+
+        ],
+       
+       
+     
+      "hconcat":[
+      {
+        "vconcat": [
+          {
+          "height": 20,
+          "width": 150,
+          "mark": {"type":"bar", "tooltip":true},
+          "title": "filtrer par surface",
+          "selection": {
+          "brush_surface": {"type": "interval", "encodings": ["x"]}
+        },
+          "transform": [
+          {"filter": {"selection": "brush"}},
+          {"filter": {"selection": "brush_0"}},
+          {"filter": {"selection": "clic_ville"}},
+          {"filter": {"selection": "clic_nb_pieces"}},
+          {"filter": {"selection": "clic_quartier"}},
+          {"filter": {"selection": "legend_quartiers"}}
+
+          
+
+          ],
+          "encoding": {
+          "x": {
+          "field": "surface_bin", "type":   "quantitative", "axis":{"tickCount": 4}}
+          
+          }
+        },
+
+
+        { "transform": [{"filter": {"selection": "clic_ville"}},
+        {"filter": {"selection": "clic_nb_pieces"}},
+        {"filter": {"selection": "clic_quartier"}},
+        {"filter": {"selection": "brush_0"}},
+        {"filter": {"selection": "brush_surface"}},
+        {"filter": {"selection": "legend_quartiers"}}
+        ],
+        "selection": {
+          "brush": {"type": "interval", "encodings": ["x"]}
+        },
+          "mark": {"type":"bar", "interpolate": "monotone"},
+          "width": 500,
+          "title": "Nb d'annonces sur les 12 derniers mois",
+          "encoding": {
+          "x": {"field": "mois", 
+          "type": "quantitative",
+          
+          
+          "axis": {"title": "mois"}}, 
+          
+          "y": {"aggregate": "sum", "field": "nb_annonces", "type": "quantitative"
+          }
+          }
+        },
+        
+        {
+          "width": 500,"height": 250,
+          "mark": {"type": "circle", "tooltip":true},
+          "title": "Prix au M² selon le nb de pièces du logement et les quartiers",
+          "selection": {
+          "brush_0": {"type": "interval"},
+          "legend_quartiers": {
+            "type": "multi", "fields": ["nomQuartier"], "bind":         "legend"}
+        },
+        "transform": [
+          {"filter": {"selection": "brush"}},
+          {"filter": {"selection": "clic_ville"}},
+          {"filter": {"selection": "clic_nb_pieces"}},
+          {"filter": {"selection": "clic_quartier"}},
+          {"filter": {"selection": "brush_surface"}}
+          
+          
+          ],
+          "encoding": {
+          "x": {"field": "nb_pieces", "type": "ordinal"},
+          "y": {
+            "field": "prix_m2_median", "type":   "quantitative"
+          , "scale":{"type":"linear"}},
+          "color":{
+            "condition":{"selection": "brush_0",
+            "field": "nomQuartier",
+            "type":"nominal"},
+            "value": "#eeedef"
+          },
+          "opacity": {
+          "condition": {"selection": "legend_quartiers", "value": 1},
+          "value": 0
+          }
+          
+          }
+        }
+      ]
+      },
+
+
+      {   
+       "vconcat": [
+          {
+          "height": 20,
+          "width": 150,
+          "mark": {"type":"bar", "tooltip":true},
+          "title": "Nb d'annonces observées",
+          "transform": [
+          {"filter": {"selection": "brush"}},
+          {"filter": {"selection": "brush_0"}},
+          {"filter": {"selection": "clic_ville"}},
+          {"filter": {"selection": "clic_nb_pieces"}},
+          {"filter": {"selection": "clic_quartier"}},
+          {"filter": {"selection": "brush_surface"}},
+          {"filter": {"selection": "legend_quartiers"}}
+          
+
+          ],
+          "encoding": {
+          "x": {
+          "aggregate": "sum", "field": "nb_annonces", "type":   "quantitative", "axis":{"tickCount": 4}}
+          
+          }
+        },
+
+
+          {
+          "height": 150,
+          "width": 250,
+          "selection": {
+          "clic_nb_pieces": {"fields": ["nb_pieces"], "on": "click", "type": "multi"}
+          },
+          "mark": {"type":"bar", "tooltip":true},
+          "title": "Nb d'annonces selon le nb de pièces du logement",
+          "transform": [
+          {"filter": {"selection": "brush"}},
+          {"filter": {"selection": "clic_ville"}},
+          {"filter": {"selection": "brush_0"}},
+          {"filter": {"selection": "clic_quartier"}},
+          {"filter": {"selection": "brush_surface"}},
+          {"filter": {"selection": "legend_quartiers"}}
+          
+          
+          
+          ],
+          "encoding": {
+          "x": {"field": "nb_pieces", "type": "ordinal"},   
+          "y": {
+          "aggregate": "sum", "field": "nb_annonces", "type":   "quantitative"},
+          
+          "color":{
+          "condition":{"selection": "clic_nb_pieces",
+          "field": "nb_pieces",
+          "type":"nominal"},
+          "value": "#eeedef"
+        }
+          }
+        },
+        {
+          "height": 150,
+          "width": 250,
+          "selection": {
+          "clic_ville": {"fields": ["ville"], "on": "click", "type": "multi"}
+          },
+          
+          "mark": {"type":"bar", "tooltip":true},
+          "title": "Nb d'annonces selon la ville",
+          "transform": [
+          {"filter": {"selection": "brush"}},
+          {"filter": {"selection": "brush_0"}},
+          {"filter": {"selection": "clic_nb_pieces"}},
+          {"filter": {"selection": "clic_quartier"}},
+          {"filter": {"selection": "brush_surface"}},
+          {"filter": {"selection": "legend_quartiers"}}
+          
+          
+          ],
+          "encoding": {
+          "x": {
+          "aggregate": "sum", "field": "nb_annonces", "type":   "quantitative"},   
+          "y": {"field": "ville", "type": "ordinal"},
+          
+          "color":{
+            "condition":{"selection": "clic_ville",
+            "field": "ville",
+            "type":"nominal"},
+            "value": "#eeedef"
+          }
+          }
+        },
+
+
+        {
+          "height": 350,
+          "width": 250,
+          "selection": {
+          "clic_quartier": {"fields": ["nomQuartier"], "on": "click", "type": "multi"}
+          },
+          
+          "mark": {"type":"bar", "tooltip":true},
+          "title": "Nb d'annonces selon quartier",
+          "transform": [
+          {"filter": {"selection": "brush"}},
+          {"filter": {"selection": "brush_0"}},
+          {"filter": {"selection": "clic_nb_pieces"}},
+          {"filter": {"selection": "clic_ville"}},
+          {"filter": {"selection": "brush_surface"}},
+          {"filter": {"selection": "legend_quartiers"}}
+          
+          
+          ],
+          "encoding": {
+          "x": {
+          "aggregate": "sum", "field": "nb_annonces", "type":   "quantitative"},   
+          "y": {"field": "nomQuartier", "type": "ordinal"},
+          
+          "color":{
+            "condition":{"selection": "clic_quartier",
+            "field": "nomQuartier",
+            "type":"nominal",
+            "legend": false},
+            "value": "#eeedef",
+            "legend": false
+          }
+          }
+        }
+
+
+        
+      ],
+      "resolve": {"scale": {"color": "independent"}}
+      }
+      
+  ]
+};
+
+  
+
+    var vgSpec = vegaLite.compile(vlSpec).spec;
+
+    var tooltipOptions = {
+    theme: 'light'
+    };
+    
+    var handler = new vegaTooltip.Handler(tooltipOptions);
+    var runtime = vega.parse(vgSpec);
+    var view = new vega.View(runtime)
+      .renderer('canvas')  // set renderer (canvas or svg)
+      .tooltip(handler.call)  // note that you have to use `handler.call`!
+      .initialize('#vis') // initialize view within parent DOM container
+      .hover()             // enable hover encode set processing
+      .run()              // run the dataflow and render the view
+      
+
+    
+    let promise = new Promise(function(resolve, reject) {     
+        setTimeout(() => resolve(view.runAsync()), 200);
+      });
+
+
+  var v = []; var q=[]
+  var list_noms_villes = []; var nom_ville = "";var list_noms_quartiers = []; var nom_quartier = "";
+
+  //fonction pour créer la liste des quartiers
+  function setOptionList_quartiers(list_quartiers) {
+    list_noms_quartiers=[];
+    for (let i = 0; i < list_quartiers.length;) {
+      list_noms_quartiers.push(list_quartiers[i].nomQuartier);
+      i++;
+    };
+
+    //enlever doublons
+    let list_quartiers_sans_doublons = new Set(list_noms_quartiers)
+    list_noms_quartiers = Array.from(list_quartiers_sans_doublons)
+
+    var select = document.getElementById('list_quartiers');
+
+    select.length = 0;
+    var opt0 =  (document.createElement('option')); opt0.innerHTML = "--"; select.appendChild(opt0);
+    for (item in list_noms_quartiers) {
+      var opt = document.createElement('option'), quartier = "";
+      quartier = list_noms_quartiers[item];
+      opt.value = quartier;
+      opt.innerHTML = quartier;
+      select.appendChild(opt);
+      
+    }
+
+  }
+
+
+  //extraire liste quartiers
+  // let list_quartiers = promise.then(function setView() {
+  //   v = view.data("data_7");
+    
+    
+  //   for (let i = 0; i < v.length;) {
+  //     list_noms_quartiers.push(v[i].nomQuartier);
+  //     i++;
+  //   }
+    
+  //   var select = document.getElementById('list_quartiers');
+
+  //   for (item in list_noms_villes) {
+  //     var opt = document.createElement('option'), ville = "";
+  //     ville = list_noms_villes[item];
+  //     opt.value = ville;
+  //     opt.innerHTML = ville;
+  //     select.appendChild(opt);
+      
+  //   }
+
+  //   return v
+  // }
+  // );
+
+
+  var list_quartiers = "";
+  view.addDataListener('data_9', function(name, value) {
+    console.log(name, value)
+    list_quartiers = (name, value);
+    setOptionList_quartiers(list_quartiers)
+  });
+
+    let clic_quartier_vega = [];    
+    view.addDataListener('clic_quartier_store', function(name, value) {
+      console.log(name, value)
+      clic_quartier_vega = (name, value);
+
+    //convertir liste quartiers filtrés en liste exploitable
+    clic_quartier = [];
+    for (i in clic_quartier_vega) {
+      
+      clic_quartier.push(clic_quartier_vega[i]["values"][0]);
+
+      };
+
+    //maj map
+    gestionLayer();
+    
+  });
+
+
+
+
+    //vegaEmbed("#vis", spec)
+      // result.view provides access to the Vega View API
+      //.then(result => console.log(result))
+      //.catch(console.warn);
+  </script>
+
+
+  
+  <h2>Une carte sans serveur local</h2><br>
+      <input type="text" id="saisie" value="saisir">recherche experimentale</input><br>
+      <div id="mapid-1" style="width: 600px; height: 400px;"></div>
+      
+      <script>
+
+      list_quartiers_test = [
+        {x_y : [48.815046, 2.299543], msg: "pop"},
+        {x_y : [48.82, 2.31], msg: "poA"},
+        {x_y : [48.903726, 2.386053], msg: "poI"},
+        {x_y : [48.897225, 2.218098], msg: "poC"}
+        ];
+          var s = document.getElementById('saisie');
+          var sValue = s.value
+          
+          s.addEventListener('change', gestionLayer)
+
+
+
+
+      </script>
+
+
+
+
+</body>
