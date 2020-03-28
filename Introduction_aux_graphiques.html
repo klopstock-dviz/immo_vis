@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Introduction aux graphiques</title>
+</head>
+<body>
+
+<div style="margin-left: 10px">
+	<h2>Les types de données à représenter</h2>
+	<p>Sur un graphique nous pouvons représenter 3 types de données, ou variables:<br>
+	*Des données quantitatives continues, tels que les prix, les surfaces, nombre d'habitants, taux de chômage ...<br>
+	*Des données qualitatives, appelées aussi catégorielles, qui se distinguent en:
+	<div style="margin-left: 20px">	-Données nominales:<br>
+			<div style="margin-left: 20px">
+			Telles que des noms de villes, des codes postaux, un type de logement (appartement/maison) ... <br>
+			Aucun ordre particulier, intrinsèque à la donnée, ne permet de la trier ou de la classer selon un critère d'importance, de taille ... <br>
+			Pour cela il faut la combiner à une donnée quantitative (nombre de logements, prix au m², nombre d'habitants...)<br>
+			</div><br>
+		-Données ordinales:
+			<div style="margin-left: 20px; margin-top: 10px">
+			Telles que le DPE (A, B, C...), la taille des logements (le nombre de pièces), les intervalles de classes (les surfaces de 0-20m², de 20-40m²...)
+			Un ordre particulier est attaché à la donnée, qui permet de la trier sans devoir la combiner à une donnée quantitative
+			</div>
+	</div><br>
+	*Des données temporelles (années, mois, semaines ...)</p>
+</div>
+<br>
+<div style="margin-left: 10px">
+	<h2>Structure d'un graphique</h2>
+	<h4>1.Diagramme à barres</h4>
+	<p>Sur ce type de graphiques nous pouvons représenter les données sur 2 axes:
+		<div style="margin-left: 20px">
+		*Un axe horizontal, ou axe x, qui accueille en général une donnée qualitative<br>
+		*Un axe vertical, ou axe y, qui accueille en général une donnée quantitative, détérminant la hauteur des barres
+		</div><br>
+	Ces axes peuvent être renversés<br><br>
+
+	Deux modes de représentation pour enrichir le diagramme:<br>
+	En associant la donnée qualitative initiale (axe x) à une seconde donnée qualitative, nous pouvons affiner la représentation de 2 façons:<br>
+		<div style="margin-left: 10px; margin-top: 10px">
+		1.Empilement:<br>
+			<el style="margin-left: 20px; margin-top: 10px">Empilement des barres pour représenter des proportions, avec une couleur associée à chaque pile</el><br>
+		2.Regroupement:<br>
+			<el style="margin-left: 20px; margin-top: 10px">Mettre les barres côte à côte pour représenter des comparaisons, avec une couleur associée à chaque barre</el>
+		</div>
+		</p>
+	<h4>Exemple:</h4>
+	<img src="img/exemple_bar_chart.PNG"><br>
+	<p>Dans l'exemple ci dessus, concernant Bordeaux, nous voyons que la majorité des logements sont des 1 pièce et des 2 pièces <br>
+		La majorité des 1 pièce font entre 15 et 30m²<br>
+		La majorité des 2 pièces font entre 30 et 45m², un peu moins de la moitié entre 45 et 60m², et aux extrêmes une petite portion entre 15 et 30m² et au dessus de 75 m² <br>
+		</p>
+
+
+	<h4>2.Nuage de points</h4>
+	<p>Dans ce type de graphique, nous représentons aussi les données sur les 2 axes x et y, et ces données sont très souvent de type qualitatif<br>
+	Chaque point correspond à une observation élémentaire (une annonce immobilière précise), et sa localisation sur les 2 axes correspond à l'intersection des 2 variables quantitatives<br><br>
+	Deux encodages permettent d'étendre la richesse de la représentation:
+	<div style="margin-left: 10px; margin-top: 10px">
+		1.La couleur du point (par exemple le quartier où se situe l'annonce)<br>
+		2.La taille du point (par exemple la taille du logement, le nombre de pièces qu'il contient)
+	</div><br>
+	Les nuages de points permettent de mettre en évidence le degré de corrélation entre deux variables<br><br>
+
+	La forme du nuage permet de déterminer :
+	<div style="margin-left: 10px; margin-top: 10px">
+		-Des tendances<br>
+		-Des dépendances<br>
+		-Des relations positives, négatives<br>
+		-Des répartitions plus ou moins homogènes des points<br>
+		-Des données aberrantes ou extrêmes s'écartant des zones de concentration<br>
+	</div>
+	</p>
+	<h4>Exemple:</h4>
+	<img src="img/exemple_scaterplot.PNG"><br>
+	<p>Dans l'exemple ci dessus, concernant encore Bordeaux, nous voyons que les logements les plus chers à la location selon le prix au m² sont<br>
+		des petites surfaces (quadrant 2 en haut à gauche)<br>
+		A mesure que la surface augmente, la taille du logement augmente aussi, mais son loyer au m² diminue<br>
+		Nous sommes sur une relation négative entre prix au m² et surface, avec une répartitions homogène des points, ainsi qu'une valeur abérante <br>
+		visible en vert sous la fenêtre (30€ du m², surface entre 140 et 160€)<br>
+		En observant un graphique pareil, nous comprenons à quel point les moyennes de prix au m² par ville détruisent l'information, en gommant les  <br>
+		disparités entre les quartiers et les logements de différentes tailles
+	</p>
+
+
+</div>
+
+</body>
+</html>
