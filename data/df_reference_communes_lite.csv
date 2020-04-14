@@ -2982,98 +2982,384 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 13215;Marseille 15e Arrondissement;00759;93;13
 13216;Marseille 16e Arrondissement;00759;93;13
 14001;Ablon;00363;28;14
+14005;Valambray;14000;28;14
+14006;Amayé-sur-Orne;14000;28;14
+14007;Amayé-sur-Seulles;14000;28;14
+14009;Amfreville;14000;28;14
+14011;Aurseulles;14000;28;14
+14012;Angerville;14103;28;14
+14014;Colomby-Anguerny;14000;28;14
+14015;Anisy;14000;28;14
 14016;Annebault;14000;28;14
+14020;Argences;14204;28;14
+14021;Arromanches-les-Bains;14000;28;14
+14022;Asnelles;14000;28;14
+14024;Auberville;14402;28;14
+14025;Aubigny;14000;28;14
+14026;Audrieu;14000;28;14
+14027;Les Monts d'Aunay;14113;28;14
+14030;Authie;14000;28;14
 14033;Auvillars;14000;28;14
+14034;Avenay;14000;28;14
+14035;Balleroy-sur-Drôme;14000;28;14
+14036;Banneville-la-Campagne;14000;28;14
+14037;Malherbe-sur-Ajon;14000;28;14
+14038;Banville;14000;28;14
+14039;Barbery;14000;28;14
 14041;Barneville-la-Bertran;14000;28;14
+14042;Baron-sur-Odon;14601;28;14
+14044;Basly;14000;28;14
+14046;Bavent;14000;28;14
+14047;Bayeux;14303;28;14
+14050;La Bazoque;14000;28;14
+14054;Beaumesnil;14000;28;14
 14055;Beaumont-en-Auge;14000;28;14
+14057;Bellengreville;14204;28;14
 14059;Benerville-sur-Mer;14402;28;14
+14060;Bénouville;14000;28;14
+14061;Souleuvre en Bocage;14000;28;14
+14062;Bény-sur-Mer;14000;28;14
+14064;Bernières-d'Ailly;14000;28;14
+14066;Bernières-sur-Mer;14302;28;14
+14068;Biéville-Beuville;14106;28;14
 14069;Beuvillers;14401;28;14
+14070;Beuvron-en-Auge;14000;28;14
+14076;Blainville-sur-Orne;14202;28;14
 14077;Blangy-le-Château;14000;28;14
 14079;Blonville-sur-Mer;14402;28;14
 14082;La Boissière;14000;28;14
 14083;Bonnebosq;14000;28;14
+14084;Bonnemaison;14000;28;14
 14085;Bonneville-la-Louvet;14000;28;14
 14086;Bonneville-sur-Touques;14402;28;14
+14088;Bons-Tassilly;14000;28;14
+14089;Bougy;14000;28;14
+14090;Boulon;14000;28;14
 14091;Bourgeauville;14000;28;14
+14092;Bourguébus;14000;28;14
 14093;Branville;14000;28;14
+14098;Thue et Mue;14208;28;14
+14100;Bretteville-sur-Laize;14000;28;14
+14101;Bretteville-sur-Odon;14601;28;14
 14102;Le Breuil-en-Auge;14000;28;14
+14103;Le Breuil-en-Bessin;14114;28;14
+14106;Bréville-les-Monts;14000;28;14
+14117;Cabourg;14402;28;14
+14118;Caen;14601;28;14
+14119;Cagny;14112;28;14
+14120;Cahagnes;14000;28;14
+14121;Cahagnolles;14000;28;14
+14123;Cairon;14108;28;14
+14124;La Cambe;14000;28;14
+14125;Cambes-en-Plaine;14000;28;14
 14126;Cambremer;14000;28;14
+14127;Campagnolles;14000;28;14
 14131;Canapville;14402;28;14
+14132;Canchy;14000;28;14
+14134;Canteloup;14000;28;14
+14135;Carcagny;14000;28;14
+14137;Carpiquet;14601;28;14
+14138;Cartigny-l'Épinay;14000;28;14
+14140;Castillon;14000;28;14
+14143;Caumont-sur-Aure;14000;28;14
+14145;Cauvicourt;14000;28;14
+14146;Cauville;14000;28;14
+14149;Cesny-aux-Vignes;14000;28;14
+14150;Cesny-les-Sources;14000;28;14
+14160;Cintheaux;14000;28;14
 14161;Clarbec;14000;28;14
+14162;Clécy;14000;28;14
+14163;Cléville;14000;28;14
+14165;Colleville-sur-Mer;14000;28;14
+14166;Colleville-Montgomery;14000;28;14
+14167;Colombelles;14601;28;14
+14168;Colombières;14000;28;14
+14172;Commes;14000;28;14
+14173;Condé-sur-Ifs;14000;28;14
+14174;Condé-en-Normandie;00262;28;14
 14177;Coquainvilliers;14000;28;14
+14181;Cormelles-le-Royal;14601;28;14
+14182;Cormolain;14000;28;14
+14190;Courcy;14000;28;14
+14191;Courseulles-sur-Mer;14118;28;14
 14193;Courtonne-la-Meurdrac;14401;28;14
 14194;Courtonne-les-Deux-Églises;14000;28;14
+14195;Courvaudon;14000;28;14
+14196;Crépon;14000;28;14
+14197;Cresserons;14000;28;14
+14200;Creully sur Seulles;14000;28;14
 14202;Cricqueboeuf;14402;28;14
+14203;Cricqueville-en-Auge;14000;28;14
+14206;Crocy;14000;28;14
+14209;Crouay;14000;28;14
+14215;Cuverville;14601;28;14
+14216;Damblainville;14000;28;14
 14220;Deauville;14402;28;14
+14221;Démouville;14601;28;14
+14225;Dives-sur-Mer;14402;28;14
+14227;Douville-en-Auge;14000;28;14
+14228;Douvres-la-Délivrande;14302;28;14
+14229;Dozulé;14103;28;14
 14231;Beaufour-Druval;14000;28;14
+14237;Émiéville;14000;28;14
 14238;Englesqueville-en-Auge;14402;28;14
+14240;Épaney;14000;28;14
+14241;Épinay-sur-Odon;14116;28;14
+14242;Épron;14601;28;14
 14243;Équemauville;00363;28;14
+14244;Eraines;14000;28;14
+14245;Ernes;14000;28;14
+14246;Escoville;14000;28;14
+14249;Esquay-Notre-Dame;14110;28;14
+14250;Esquay-sur-Seulles;14000;28;14
+14251;Esson;14000;28;14
+14254;Éterville;14000;28;14
+14257;Évrecy;14110;28;14
+14258;Falaise;14205;28;14
 14260;Fauguernon;14000;28;14
 14261;Le Faulq;14000;28;14
+14266;Feuguerolles-Bully;14000;28;14
 14270;Firfol;14000;28;14
+14271;Fleury-sur-Orne;14601;28;14
+14272;La Folie;14000;28;14
 14273;La Folletière-Abenon;14000;28;14
+14274;Fontaine-Étoupefour;14601;28;14
+14275;Fontaine-Henry;14000;28;14
+14277;Fontenay-le-Marmion;14000;28;14
+14278;Fontenay-le-Pesnel;14000;28;14
+14281;Formigny La Bataille;14000;28;14
+14282;Foulognes;14000;28;14
+14287;Frénouville;14112;28;14
+14288;Le Fresne-Camilly;14000;28;14
+14290;Fresney-le-Puceux;14000;28;14
+14297;Gavrus;14000;28;14
 14299;Genneville;00363;28;14
 14300;Gerrots;14000;28;14
+14301;Giberville;14601;28;14
 14304;Gonneville-sur-Honfleur;00363;28;14
+14305;Gonneville-sur-Mer;14402;28;14
+14308;Goustranville;14000;28;14
+14309;Gouvix;14000;28;14
+14310;Grainville-Langannerie;14000;28;14
+14311;Grainville-sur-Odon;14000;28;14
+14312;Grandcamp-Maisy;14000;28;14
+14316;Grangues;14000;28;14
+14318;Graye-sur-Mer;14000;28;14
+14319;Grentheville;14000;28;14
+14322;Guéron;14000;28;14
+14325;Hermanville-sur-Mer;14201;28;14
+14327;Hérouville-Saint-Clair;14601;28;14
+14328;Hérouvillette;14111;28;14
+14332;La Hoguette;14000;28;14
 14333;Honfleur;00363;28;14
 14334;L'Hôtellerie;14000;28;14
+14335;Hotot-en-Auge;14000;28;14
 14337;La Houblonnière;14000;28;14
+14338;Houlgate;14402;28;14
+14341;Ifs;14601;28;14
+14342;Isigny-sur-Mer;14109;28;14
+14344;Janville;14000;28;14
+14345;Jort;14000;28;14
+14346;Juaye-Mondaye;14000;28;14
+14347;Dialan sur Chaîne;14000;28;14
+14349;Laize-Clinchamps;14000;28;14
+14352;Landelles-et-Coupigny;14000;28;14
+14353;Landes-sur-Ajon;14000;28;14
+14354;Langrune-sur-Mer;14302;28;14
+14355;Ponts sur Seulles;14000;28;14
+14357;Terres de Druance;14000;28;14
 14358;Léaupartie;14000;28;14
+14364;Lingèvres;14000;28;14
+14365;Lion-sur-Mer;14201;28;14
 14366;Lisieux;14401;28;14
+14367;Lison;14000;28;14
 14368;Lisores;00166;28;14
+14369;Litteau;14000;28;14
+14370;Le Molay-Littry;14114;28;14
 14371;Livarot-Pays-d'Auge;14207;28;14
+14378;Longueville;14000;28;14
+14379;Longvillers;14000;28;14
+14380;Loucelles;14000;28;14
+14383;Louvigny;14107;28;14
+14384;Luc-sur-Mer;14302;28;14
+14393;Maizet;14000;28;14
+14394;Maizières;14000;28;14
+14396;Maltot;14000;28;14
 14398;Manerbe;14000;28;14
 14399;Manneville-la-Pipard;14000;28;14
 14403;Marolles;14000;28;14
+14405;Martigny-sur-l'Ante;14000;28;14
+14406;Moulins en Bessin;14000;28;14
+14407;Mathieu;14000;28;14
+14408;May-sur-Orne;14203;28;14
+14409;Merville-Franceville-Plage;14000;28;14
+14411;Meslay;14000;28;14
 14419;Le Mesnil-Eudes;14000;28;14
 14421;Le Mesnil-Guillaume;14401;28;14
 14426;Le Mesnil-sur-Blangy;14000;28;14
+14427;Le Mesnil-Villement;14000;28;14
 14431;Mézidon Vallée d'Auge;14211;28;14
+14436;Monceaux-en-Bessin;14303;28;14
+14437;Mondeville;14601;28;14
+14452;Morteaux-Couliboeuf;14000;28;14
+14453;Mosles;14000;28;14
+14454;Mouen;14601;28;14
+14455;Moulines;14000;28;14
+14456;Moult-Chicheboville;14204;28;14
+14458;Les Moutiers-en-Cinglais;14000;28;14
 14460;Moyaux;14000;28;14
+14461;Mutrécy;14000;28;14
 14466;Norolles;14401;28;14
+14467;Noron-l'Abbaye;14000;28;14
+14468;Noron-la-Poterie;14000;28;14
 14473;Notre-Dame-de-Livaye;14000;28;14
+14475;Val d'Arry;14000;28;14
 14478;Orbec;14115;28;14
+14480;Osmanville;14000;28;14
+14483;Ouffières;14000;28;14
+14486;Ouilly-le-Tesson;14000;28;14
 14487;Ouilly-le-Vicomte;14401;28;14
+14488;Ouistreham;14206;28;14
+14491;Parfouru-sur-Odon;14000;28;14
+14494;Périers-en-Auge;14000;28;14
+14495;Périers-sur-le-Dan;14000;28;14
+14497;Perrières;14000;28;14
+14498;Pertheville-Ners;14000;28;14
+14499;Petiville;14000;28;14
 14500;Pierrefitte-en-Auge;14000;28;14
+14501;Pierrefitte-en-Cinglais;14000;28;14
 14504;Le Pin;14000;28;14
+14506;Planquery;14000;28;14
+14509;Plumetot;14000;28;14
+14511;Pont-Bellanger;14000;28;14
+14512;Pontécoulant;14000;28;14
 14514;Pont-l'Évêque;14120;28;14
+14515;Port-en-Bessin-Huppain;14101;28;14
+14516;Potigny;14000;28;14
 14520;Le Pré-d'Auge;14000;28;14
 14522;Prêtreville;14000;28;14
+14524;Putot-en-Auge;14000;28;14
 14527;Belle Vie en Auge;14000;28;14
 14528;Quetteville;14000;28;14
+14530;Ranville;14111;28;14
+14531;Rapilly;14000;28;14
 14534;Reux;14000;28;14
+14535;Reviers;14000;28;14
 14536;La Rivière-Saint-Sauveur;00363;28;14
+14542;Rosel;14108;28;14
+14543;Rots;14601;28;14
+14552;Ryes;14000;28;14
+14554;Le Castelet;14000;28;14
 14555;Saint-André-d'Hébertot;14000;28;14
+14556;Saint-André-sur-Orne;14203;28;14
 14557;Saint-Arnoult;14402;28;14
+14558;Saint-Aubin-d'Arquenay;14000;28;14
+14559;Saint-Aubin-des-Bois;14000;28;14
+14562;Saint-Aubin-sur-Mer;14302;28;14
+14565;Saint-Côme-de-Fresné;14000;28;14
+14566;Saint-Contest;14000;28;14
 14570;Valorbiquet;14000;28;14
 14571;Saint-Denis-de-Mailloc;14401;28;14
+14572;Saint-Denis-de-Méré;14000;28;14
 14574;Saint-Désir;14401;28;14
 14575;Saint-Étienne-la-Thillaye;14000;28;14
 14578;Saint-Gatien-des-Bois;14000;28;14
+14579;Seulline;14000;28;14
 14582;Saint-Germain-de-Livet;14000;28;14
+14586;Saint-Germain-du-Pert;14000;28;14
+14587;Saint-Germain-la-Blanche-Herbe;14601;28;14
+14589;Saint-Germain-le-Vasson;14000;28;14
+14591;Aure sur Mer;14000;28;14
+14592;Sainte-Honorine-du-Fay;14000;28;14
 14593;Saint-Hymer;14000;28;14
 14595;Saint-Jean-de-Livet;14401;28;14
+14598;Saint-Jouin;14000;28;14
 14601;Saint-Julien-sur-Calonne;14000;28;14
+14603;Saint-Laurent-de-Condel;14000;28;14
+14605;Saint-Laurent-sur-Mer;14000;28;14
+14610;Saint-Manvieu-Norrey;14000;28;14
+14614;Sainte-Marguerite-d'Elle;14000;28;14
 14620;Saint-Martin-aux-Chartrains;14402;28;14
 14621;Saint-Martin-de-Bienfaite-la-Cressonnière;14000;28;14
+14623;Saint-Martin-de-Fontenay;14203;28;14
 14625;Saint-Martin-de-la-Lieue;14000;28;14
 14626;Saint-Martin-de-Mailloc;14401;28;14
+14627;Saint-Martin-de-Mieux;14000;28;14
+14630;Saint-Martin-des-Entrées;14303;28;14
+14637;Saint-Ouen-du-Mesnil-Oger;14000;28;14
 14639;Saint-Ouen-le-Pin;14000;28;14
+14640;Saint-Pair;14209;28;14
+14643;Saint-Paul-du-Vernay;14000;28;14
 14644;Saint-Philbert-des-Champs;14000;28;14
 14645;Saint-Pierre-Azif;14000;28;14
+14646;Saint-Pierre-Canivet;14000;28;14
 14648;Saint-Pierre-des-Ifs;14000;28;14
+14651;Saint-Pierre-du-Jonquet;14000;28;14
 14654;Saint-Pierre-en-Auge;14210;28;14
+14656;Saint-Rémy;14000;28;14
+14657;Saint-Samson;14000;28;14
+14658;Noues de Sienne;14000;28;14
+14659;Saint-Sylvain;14000;28;14
+14660;Saint-Vaast-en-Auge;14402;28;14
+14663;Saint-Vigor-le-Grand;14303;28;14
+14664;Sallen;14000;28;14
+14665;Sallenelles;14000;28;14
+14669;Sassy;14000;28;14
+14672;Val de Drôme;14000;28;14
+14674;Soignolles;14000;28;14
+14675;Soliers;14102;28;14
+14676;Sommervieu;14000;28;14
+14677;Soulangy;14000;28;14
+14678;Soumont-Saint-Quentin;14000;28;14
+14679;Subles;14000;28;14
+14680;Sully;14000;28;14
 14682;Surville;14120;28;14
+14685;Thaon;14000;28;14
 14687;Le Theil-en-Auge;14000;28;14
+14689;Le Hom;14000;28;14
+14692;Tilly-sur-Seulles;14000;28;14
 14694;Le Torquesne;14000;28;14
+14698;Touffréville;14000;28;14
 14699;Touques;14402;28;14
 14701;Tourgéville;14402;28;14
+14707;Tourville-sur-Odon;14601;28;14
+14709;Tracy-sur-Mer;14000;28;14
+14711;Trévières;14000;28;14
+14712;Saline;14209;28;14
+14714;Le Tronquay;14000;28;14
 14715;Trouville-sur-Mer;14402;28;14
+14719;Urville;14000;28;14
+14720;Ussy;14000;28;14
+14721;Vacognes-Neuilly;14000;28;14
+14724;Varaville;14402;28;14
+14726;Valdallière;14000;28;14
+14728;Vaucelles;14303;28;14
 14731;Vauville;14000;28;14
+14732;Vaux-sur-Aure;14000;28;14
+14733;Vaux-sur-Seulles;14000;28;14
+14735;Vendeuvre;14000;28;14
+14737;Versainville;14000;28;14
+14738;Verson;14601;28;14
+14739;Ver-sur-Mer;14000;28;14
 14740;La Vespière-Friardel;14115;28;14
+14742;Vicques;14000;28;14
+14743;Victot-Pontfol;14000;28;14
+14744;Vienne-en-Bessin;14000;28;14
+14745;Vierville-sur-Mer;14000;28;14
+14747;Vieux;14000;28;14
 14748;Vieux-Bourg;14000;28;14
+14751;Vignats;14000;28;14
+14752;Villers-Bocage;14116;28;14
+14753;Villers-Canivet;14000;28;14
 14754;Villers-sur-Mer;14402;28;14
 14755;Villerville;14402;28;14
+14756;La Villette;14000;28;14
+14758;Villons-les-Buissons;14000;28;14
+14759;Villy-lez-Falaise;14000;28;14
+14760;Villy-Bocage;14000;28;14
+14761;Vimont;14204;28;14
+14762;Vire Normandie;14301;28;14
+14764;Pont-d'Ouilly;14000;28;14
 15001;Allanche;15000;84;15
 15002;Alleuze;15000;84;15
 15003;Ally;15000;84;15
@@ -3234,25 +3520,42 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16007;Alloue;16000;75;16
 16008;Ambérac;16000;75;16
 16009;Ambernac;16000;75;16
+16010;Ambleville;16000;75;16
 16011;Anais;16000;75;16
+16012;Angeac-Champagne;16000;75;16
+16013;Angeac-Charente;16000;75;16
+16014;Angeduc;16000;75;16
 16015;Angoulême;16601;75;16
 16016;Ansac-sur-Vienne;16000;75;16
+16018;Ars;16000;75;16
 16019;Asnières-sur-Nouère;16000;75;16
 16020;Aubeterre-sur-Dronne;16000;75;16
 16023;Aunac-sur-Charente;16000;75;16
 16024;Aussac-Vadalle;16000;75;16
+16025;Baignes-Sainte-Radegonde;16000;75;16
 16026;Balzac;16601;75;16
+16028;Barbezieux-Saint-Hilaire;16107;75;16
+16030;Barret;16000;75;16
+16032;Bassac;16000;75;16
 16035;Beaulieu-sur-Sonnette;16000;75;16
 16038;Benest;16000;75;16
+16040;Berneuil;16000;75;16
 16042;Bessé;16000;75;16
 16044;Bioussac;16000;75;16
 16046;Coteaux-du-Blanzacais;16000;75;16
+16048;Boisbreteau;16000;75;16
 16049;Bonnes;16000;75;16
+16050;Bonneuil;16000;75;16
 16055;Bouëx;16000;75;16
+16056;Bourg-Charente;16000;75;16
+16057;Bouteville;16000;75;16
+16058;Boutiers-Saint-Trojan;16401;75;16
 16059;Brettes;16000;75;16
+16060;Bréville;16000;75;16
 16061;Brie;16000;75;16
 16064;Brigueuil;16000;75;16
 16065;Brillac;16000;75;16
+16066;Brossac;16000;75;16
 16067;Bunzac;16000;75;16
 16068;Cellefrouin;16000;75;16
 16069;Cellettes;16000;75;16
@@ -3260,33 +3563,46 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16071;Chabrac;16000;75;16
 16072;Chadurie;16000;75;16
 16073;Chalais;16000;75;16
+16074;Challignac;16000;75;16
 16075;Champagne-Vigny;16000;75;16
 16076;Champagne-Mouton;16000;75;16
 16077;Champmillon;16000;75;16
 16078;Champniers;16000;75;16
+16079;Chantillac;16000;75;16
 16081;La Chapelle;16000;75;16
 16082;Boisné-La Tude;16000;75;16
 16083;Charmé;16000;75;16
 16084;Charras;16000;75;16
 16085;Chasseneuil-sur-Bonnieure;16103;75;16
 16086;Chassenon;16000;75;16
+16088;Chassors;16000;75;16
+16089;Châteaubernard;16401;75;16
+16090;Châteauneuf-sur-Charente;16105;75;16
 16093;Chazelles;16000;75;16
 16095;Chenon;16000;75;16
 16096;Cherves-Châtelars;16000;75;16
+16097;Cherves-Richemont;16000;75;16
+16099;Chillac;16000;75;16
 16100;Chirac;16000;75;16
 16101;Claix;16000;75;16
+16102;Cognac;16401;75;16
 16103;Combiers;16000;75;16
 16104;Condac;16106;75;16
+16105;Condéon;16000;75;16
 16106;Confolens;16102;75;16
 16107;Coulgens;16000;75;16
 16108;Coulonges;16000;75;16
+16109;Courbillac;16000;75;16
 16110;Courcôme;16000;75;16
 16113;La Couronne;16601;75;16
 16114;Couture;16000;75;16
+16116;Criteuil-la-Magdeleine;16000;75;16
 16117;Curac;16000;75;16
 16119;Dignac;16000;75;16
 16120;Dirac;16000;75;16
+16121;Douzat;16000;75;16
 16122;Ébréon;16000;75;16
+16123;Échallat;16000;75;16
 16124;Écuras;16000;75;16
 16128;Épenède;16000;75;16
 16131;Esse;16000;75;16
@@ -3295,60 +3611,88 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16134;Exideuil-sur-Vienne;16000;75;16
 16137;Feuillade;16000;75;16
 16138;Fléac;16601;75;16
+16139;Fleurac;16000;75;16
 16140;Fontclaireau;16000;75;16
 16141;Fontenille;16000;75;16
 16143;Fouquebrune;16000;75;16
 16144;Fouqueure;16000;75;16
+16145;Foussignac;16000;75;16
 16146;Garat;16000;75;16
 16147;Gardes-le-Pontaroux;16000;75;16
 16148;Genac-Bignac;16000;75;16
+16150;Gensac-la-Pallue;16000;75;16
+16151;Genté;16000;75;16
+16152;Gimeux;16000;75;16
+16153;Mainxe-Gondeville;16000;75;16
 16154;Gond-Pontouvre;16601;75;16
 16157;Le Grand-Madieu;16000;75;16
 16158;Grassac;16000;75;16
+16160;Guimps;16000;75;16
 16163;Hiersac;16000;75;16
 16164;Hiesse;16000;75;16
+16165;Houlette;16000;75;16
 16166;L'Isle-d'Espagnac;16601;75;16
+16167;Jarnac;16108;75;16
 16168;Jauldes;16000;75;16
 16170;Juignac;16000;75;16
+16171;Juillac-le-Coq;16000;75;16
+16174;Julienne;16000;75;16
+16175;Val des Vignes;16000;75;16
+16176;Lachaise;16000;75;16
+16177;Ladiville;16000;75;16
 16180;Laprade;16000;75;16
 16181;Lessac;16000;75;16
 16182;Lesterps;16000;75;16
+16186;Lignières-Sonneville;16000;75;16
 16187;Linars;16601;75;16
 16188;Le Lindois;16000;75;16
 16189;Londigny;16000;75;16
+16190;Longré;16000;75;16
 16191;Lonnes;16000;75;16
 16192;Terres-de-Haute-Charente;16101;75;16
+16193;Louzac-Saint-André;16000;75;16
 16195;Lussac;16000;75;16
 16196;Luxé;16000;75;16
 16199;Magnac-sur-Touvre;16601;75;16
 16200;Maine-de-Boixe;16000;75;16
+16204;Bellevigne;16000;75;16
 16205;Manot;16000;75;16
 16206;Mansle;16000;75;16
 16207;Marcillac-Lanville;16000;75;16
+16208;Mareuil;16000;75;16
 16209;Marillac-le-Franc;16000;75;16
 16210;Marsac;16000;75;16
 16211;Marthon;16000;75;16
 16212;Massignac;16000;75;16
 16213;Mazerolles;16000;75;16
 16215;Médillac;16000;75;16
+16216;Mérignac;16000;75;16
+16218;Mesnac;16000;75;16
+16221;Mons;16000;75;16
 16222;Montboyer;16000;75;16
 16223;Montbron;16000;75;16
+16224;Montmérac;16000;75;16
 16225;Montemboeuf;16000;75;16
 16226;Montignac-Charente;16000;75;16
 16227;Montignac-le-Coq;16000;75;16
 16230;Montmoreau;16000;75;16
 16231;Montrollet;16000;75;16
 16232;Mornac;16601;75;16
+16233;Mosnac;16000;75;16
+16234;Moulidars;16000;75;16
 16236;Mouthiers-sur-Boëme;16000;75;16
 16238;Moutonneau;16000;75;16
 16239;Mouzon;16000;75;16
 16241;Nanclars;16000;75;16
 16242;Nanteuil-en-Vallée;16000;75;16
+16243;Nercillac;16000;75;16
 16244;Nersac;16601;75;16
 16245;Nieuil;16000;75;16
 16246;Nonac;16000;75;16
+16248;Oradour;16000;75;16
 16249;Oradour-Fanais;16000;75;16
 16250;Orgedeuil;16000;75;16
+16251;Oriolles;16000;75;16
 16253;Paizay-Naudouin-Embourie;16000;75;16
 16258;Pérignac;16000;75;16
 16260;Pillac;16000;75;16
@@ -3359,12 +3703,16 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16270;Pressignac;16000;75;16
 16271;Puymoyen;16601;75;16
 16273;Raix;16000;75;16
+16275;Ranville-Breuillaud;16000;75;16
+16276;Reignac;16000;75;16
+16277;Réparsac;16000;75;16
 16280;Rivières;16000;75;16
 16281;La Rochefoucauld-en-Angoumois;16104;75;16
 16282;La Rochette;16000;75;16
 16283;Ronsenac;16000;75;16
 16284;Rouffiac;16000;75;16
 16285;Rougnac;16000;75;16
+16286;Rouillac;16000;75;16
 16287;Roullet-Saint-Estèphe;16000;75;16
 16289;Roussines;16000;75;16
 16290;Rouzède;16000;75;16
@@ -3372,31 +3720,51 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16292;Ruffec;16106;75;16
 16293;Saint-Adjutory;16000;75;16
 16295;Saint-Amant-de-Boixe;16000;75;16
+16297;Graves-Saint-Amant;16000;75;16
 16300;Val-de-Bonnieure;16000;75;16
+16301;Saint-Aulais-la-Chapelle;16000;75;16
 16302;Saint-Avit;16000;75;16
+16303;Saint-Bonnet;16000;75;16
+16304;Saint-Brice;16401;75;16
 16306;Saint-Christophe;16000;75;16
 16307;Saint-Ciers-sur-Bonnieure;16000;75;16
 16308;Saint-Claud;16000;75;16
 16310;Saint-Coutant;16000;75;16
+16312;Saint-Cybardeaux;16000;75;16
+16316;Saint-Fort-sur-le-Né;16000;75;16
 16317;Saint-Fraigne;16000;75;16
 16318;Saint-Front;16000;75;16
 16320;Saint-Genis-d'Hiersac;16000;75;16
 16323;Saint-Germain-de-Montbron;16000;75;16
 16325;Saint-Gourson;16000;75;16
 16329;Saint-Laurent-de-Céris;16000;75;16
+16330;Saint-Laurent-de-Cognac;16000;75;16
 16331;Saint-Laurent-des-Combes;16000;75;16
 16337;Saint-Maurice-des-Lions;16000;75;16
+16338;Saint-Médard;16000;75;16
+16339;Val-d'Auge;16000;75;16
+16340;Saint-Même-les-Carrières;16000;75;16
 16341;Saint-Michel;16601;75;16
+16342;Saint-Palais-du-Né;16000;75;16
 16347;Saint-Romain;16000;75;16
 16348;Saint-Saturnin;16000;75;16
+16349;Sainte-Sévère;16000;75;16
 16350;Saint-Séverin;16000;75;16
+16351;Saint-Simeux;16000;75;16
+16352;Saint-Simon;16000;75;16
 16353;Saint-Sornin;16000;75;16
+16354;Sainte-Souline;16000;75;16
+16355;Saint-Sulpice-de-Cognac;16000;75;16
 16356;Saint-Sulpice-de-Ruffec;16000;75;16
 16358;Saint-Yrieix-sur-Charente;16601;75;16
+16359;Salles-d'Angles;16000;75;16
+16360;Salles-de-Barbezieux;16000;75;16
 16361;Salles-de-Villefagnan;16000;75;16
 16362;Salles-Lavalette;16000;75;16
 16363;Saulgond;16000;75;16
+16366;Segonzac;16000;75;16
 16368;Sers;16000;75;16
+16369;Sigogne;16000;75;16
 16370;Sireuil;16000;75;16
 16372;Souffrignac;16000;75;16
 16373;Souvigné;16000;75;16
@@ -3407,14 +3775,19 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16381;Theil-Rabier;16000;75;16
 16382;Torsac;16000;75;16
 16383;Tourriers;16000;75;16
+16384;Touvérac;16000;75;16
 16385;Touvre;16601;75;16
+16387;Triac-Lautrait;16108;75;16
 16388;Trois-Palis;16601;75;16
 16390;Tusson;16000;75;16
 16392;Valence;16000;75;16
 16393;Vars;16000;75;16
+16395;Vaux-Rouillac;16000;75;16
 16396;Ventouse;16000;75;16
+16397;Verdille;16000;75;16
 16398;Verneuil;16000;75;16
 16400;Verteuil-sur-Charente;16000;75;16
+16402;Vibrac;16000;75;16
 16404;Vieux-Ruffec;16000;75;16
 16406;Moulins-sur-Tardoire;16000;75;16
 16408;Villebois-Lavalette;16000;75;16
@@ -3430,7 +3803,418 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 16422;Vouzan;16000;75;16
 16423;Xambes;16000;75;16
 16425;Yvrac-et-Malleyrand;16000;75;16
+17002;Agudelle;17000;75;17
+17003;Aigrefeuille-d'Aunis;17113;75;17
+17004;Île-d'Aix;17000;75;17
+17006;Allas-Champagne;17000;75;17
+17008;Andilly;17000;75;17
+17009;Angliers;17000;75;17
+17010;Angoulins;17601;75;17
+17011;Annepont;17000;75;17
+17013;Antezant-la-Chapelle;17000;75;17
+17015;Arces;17000;75;17
+17016;Archiac;17000;75;17
+17017;Archingeay;17000;75;17
+17018;Ardillières;17000;75;17
+17019;Ars-en-Ré;17118;75;17
+17020;Arthenac;17000;75;17
+17021;Arvert;17301;75;17
+17022;Asnières-la-Giraud;17000;75;17
+17023;Aujac;17000;75;17
+17024;Aulnay;17000;75;17
+17026;Authon-Ébéon;17000;75;17
+17027;Avy;17000;75;17
+17028;Aytré;17601;75;17
+17030;Balanzac;17000;75;17
+17031;Ballans;17000;75;17
+17033;La Barde;17000;75;17
+17034;Barzan;17000;75;17
+17035;Bazauges;17000;75;17
+17036;Beaugeay;17000;75;17
+17037;Beauvais-sur-Matha;17000;75;17
+17041;Benon;17000;75;17
+17042;Bercloux;17000;75;17
+17043;Bernay-Saint-Martin;17000;75;17
+17044;Berneuil;17000;75;17
+17045;Beurlay;17000;75;17
+17046;Bignay;17000;75;17
+17047;Biron;17000;75;17
+17048;Blanzac-lès-Matha;17000;75;17
+17049;Blanzay-sur-Boutonne;17000;75;17
+17050;Bois;17000;75;17
+17051;Le Bois-Plage-en-Ré;17104;75;17
+17052;Boisredon;17000;75;17
+17053;Bords;17000;75;17
+17054;Boresse-et-Martron;17000;75;17
+17056;Bougneau;17000;75;17
+17057;Bouhet;17000;75;17
+17058;Bourcefranc-le-Chapus;17206;75;17
+17059;Bourgneuf;17000;75;17
+17060;Boutenac-Touvent;17000;75;17
+17061;Bran;17000;75;17
+17062;Bresdon;17000;75;17
+17063;Breuil-la-Réorte;17000;75;17
+17064;Breuillet;17108;75;17
+17065;Breuil-Magné;17403;75;17
+17067;Brie-sous-Matha;17000;75;17
+17068;Brie-sous-Mortagne;17000;75;17
+17069;Brives-sur-Charente;17000;75;17
+17070;Brizambourg;17000;75;17
+17071;La Brousse;17000;75;17
+17072;Burie;17000;75;17
+17073;Bussac-sur-Charente;17000;75;17
+17074;Bussac-Forêt;17000;75;17
+17075;Cabariot;17000;75;17
+17076;Celles;17000;75;17
+17077;Cercoux;17000;75;17
+17079;Chaillevette;17301;75;17
+17080;Chambon;17000;75;17
+17081;Chamouillac;17000;75;17
+17082;Champagnac;17000;75;17
+17083;Champagne;17000;75;17
+17084;Champagnolles;17000;75;17
+17085;Champdolent;17000;75;17
+17086;Chaniers;17000;75;17
+17087;Chantemerle-sur-la-Soie;17000;75;17
+17089;La Chapelle-des-Pots;17000;75;17
+17091;Charron;17000;75;17
+17093;Le Château-d'Oléron;17114;75;17
+17094;Châtelaillon-Plage;17601;75;17
+17095;Chatenet;17000;75;17
+17096;Chaunac;17000;75;17
+17097;Le Chay;17000;75;17
+17098;Chenac-Saint-Seurin-d'Uzet;17000;75;17
+17099;Chepniers;17000;75;17
+17100;Chérac;17000;75;17
+17101;Cherbonnières;17000;75;17
+17102;Chermignac;17000;75;17
+17104;Chevanceaux;17000;75;17
+17105;Chives;17000;75;17
+17107;Ciré-d'Aunis;17000;75;17
+17108;Clam;17000;75;17
+17109;Clavette;17000;75;17
+17110;Clérac;17000;75;17
+17111;Clion;17000;75;17
+17112;La Clisse;17000;75;17
+17113;La Clotte;17000;75;17
+17117;Contré;17000;75;17
+17118;Corignac;17000;75;17
+17119;Corme-Écluse;17000;75;17
+17120;Corme-Royal;17000;75;17
+17121;La Couarde-sur-Mer;17118;75;17
+17122;Coulonges;17000;75;17
+17124;Courant;17000;75;17
+17125;Courcelles;17000;75;17
+17126;Courcerac;17000;75;17
+17127;Courçon;17000;75;17
+17128;Courcoury;17000;75;17
+17129;Courpignac;17000;75;17
+17130;Coux;17000;75;17
+17131;Cozes;17000;75;17
+17132;Cramchaban;17000;75;17
+17133;Cravans;17000;75;17
+17134;Crazannes;17000;75;17
+17136;Croix-Chapeau;17000;75;17
+17138;Dampierre-sur-Boutonne;17000;75;17
+17139;Doeuil-sur-le-Mignon;17000;75;17
+17140;Dolus-d'Oléron;17000;75;17
+17141;Dompierre-sur-Charente;17000;75;17
+17142;Dompierre-sur-Mer;17601;75;17
+17143;Le Douhet;17000;75;17
+17145;Échebrune;17000;75;17
+17146;Échillais;17403;75;17
+17147;Écoyeux;17000;75;17
+17148;Écurat;17000;75;17
+17150;Les Églises-d'Argenteuil;17000;75;17
+17151;L'Éguille;17000;75;17
+17152;Épargnes;17000;75;17
+17153;Esnandes;17000;75;17
+17154;Les Essards;17000;75;17
+17155;Étaules;17301;75;17
+17158;Ferrières;17000;75;17
+17159;Fléac-sur-Seugne;17000;75;17
+17160;Floirac;17000;75;17
+17161;La Flotte;17202;75;17
+17162;Fontaine-Chalendray;17000;75;17
+17163;Fontaines-d'Ozillac;17000;75;17
+17164;Fontcouverte;17401;75;17
+17165;Fontenet;17000;75;17
+17166;Forges;17000;75;17
+17167;Le Fouilloux;17000;75;17
+17168;Fouras;17115;75;17
+17171;Geay;17000;75;17
+17172;Gémozac;17000;75;17
+17173;La Genétouze;17000;75;17
+17174;Genouillé;17000;75;17
+17175;Germignac;17000;75;17
+17176;Gibourne;17000;75;17
+17177;Le Gicq;17000;75;17
+17179;Les Gonds;17401;75;17
+17180;Gourvillette;17000;75;17
+17181;Grandjean;17000;75;17
+17182;La Grève-sur-Mignon;17000;75;17
+17183;Grézac;17000;75;17
+17184;La Gripperie-Saint-Symphorien;17000;75;17
+17185;Le Gua;17000;75;17
+17186;Le Gué-d'Alleré;17000;75;17
+17187;Guitinières;17000;75;17
+17188;Haimps;17000;75;17
+17190;L'Houmeau;17000;75;17
+17191;La Jard;17000;75;17
+17192;Jarnac-Champagne;17000;75;17
+17193;La Jarne;17102;75;17
+17194;La Jarrie;17109;75;17
+17195;La Jarrie-Audouin;17000;75;17
+17196;Jazennes;17000;75;17
+17197;Jonzac;17201;75;17
+17200;Lagord;17601;75;17
+17201;La Laigne;17000;75;17
+17202;Landes;17000;75;17
+17203;Landrais;17000;75;17
+17204;Léoville;17000;75;17
+17206;Loiré-sur-Nie;17000;75;17
+17207;Loix;17118;75;17
+17208;Longèves;17000;75;17
+17209;Lonzac;17000;75;17
+17210;Lorignac;17000;75;17
+17211;Loulay;17000;75;17
+17212;Louzignac;17000;75;17
+17214;Luchat;17000;75;17
+17216;Lussant;17000;75;17
+17217;Macqueville;17000;75;17
+17218;Marans;17119;75;17
+17219;Marennes-Hiers-Brouage;17206;75;17
+17220;Marignac;17000;75;17
+17221;Marsais;17000;75;17
+17222;Marsilly;17107;75;17
+17224;Matha;17101;75;17
+17225;Les Mathes;17000;75;17
+17226;Mazeray;17000;75;17
+17228;Médis;17000;75;17
+17229;Mérignac;17000;75;17
+17230;Meschers-sur-Gironde;17402;75;17
+17232;Meursac;17000;75;17
+17234;Migré;17000;75;17
+17235;Migron;17000;75;17
+17236;Mirambeau;17000;75;17
+17237;Moëze;17000;75;17
+17239;Mons;17000;75;17
+17240;Montendre;17112;75;17
+17241;Montguyon;17000;75;17
+17242;Montils;17000;75;17
+17243;Montlieu-la-Garde;17000;75;17
+17244;Montpellier-de-Médillan;17000;75;17
+17245;Montroy;17000;75;17
+17246;Moragne;17000;75;17
+17247;Mornac-sur-Seudre;17000;75;17
+17248;Mortagne-sur-Gironde;17000;75;17
+17250;Mosnac;17000;75;17
+17252;Le Mung;17000;75;17
+17253;Muron;17000;75;17
+17254;Nachamps;17000;75;17
+17255;Nancras;17000;75;17
+17256;Nantillé;17000;75;17
+17257;Néré;17000;75;17
+17258;Neuillac;17000;75;17
+17261;Neuvicq-le-Château;17000;75;17
+17262;Nieul-lès-Saintes;17000;75;17
+17263;Nieul-le-Virouil;17000;75;17
+17264;Nieul-sur-Mer;17601;75;17
+17265;Nieulle-sur-Seudre;17000;75;17
+17266;Les Nouillers;17000;75;17
+17267;Nuaillé-d'Aunis;17000;75;17
+17268;Nuaillé-sur-Boutonne;17000;75;17
+17269;Orignolles;17000;75;17
+17270;Ozillac;17000;75;17
+17273;Pérignac;17000;75;17
+17274;Périgny;17601;75;17
+17275;Pessines;17000;75;17
+17277;Essouvert;17000;75;17
+17278;Pisany;17000;75;17
+17279;Plassac;17000;75;17
+17280;Plassay;17000;75;17
+17281;Polignac;17000;75;17
+17282;Pommiers-Moulons;17000;75;17
+17283;Pons;17116;75;17
+17284;Pont-l'Abbé-d'Arnoult;17000;75;17
+17285;Port-d'Envaux;17000;75;17
+17286;Les Portes-en-Ré;17118;75;17
+17287;Pouillac;17000;75;17
+17288;Poursay-Garnaud;17000;75;17
+17289;Préguillac;17000;75;17
+17291;Puilboreau;17601;75;17
+17292;Puy-du-Lac;17000;75;17
+17293;Puyravault;17000;75;17
+17294;Puyrolland;17000;75;17
+17295;Réaux sur Trèfle;17000;75;17
+17296;Rétaud;17000;75;17
+17297;Rivedoux-Plage;17103;75;17
+17298;Rioux;17000;75;17
+17299;Rochefort;17403;75;17
+17300;La Rochelle;17601;75;17
+17301;Romazières;17000;75;17
+17302;Romegoux;17000;75;17
+17303;La Ronde;17000;75;17
+17304;Rouffiac;17000;75;17
+17305;Rouffignac;17000;75;17
+17306;Royan;17402;75;17
+17307;Sablonceaux;17000;75;17
+17308;Saint-Agnant;17105;75;17
 17309;Saint-Aigulin;00170;75;17
+17310;Saint-André-de-Lidon;17000;75;17
+17311;Saint-Augustin;17402;75;17
+17312;Saint-Bonnet-sur-Gironde;17000;75;17
+17313;Saint-Bris-des-Bois;17000;75;17
+17314;Saint-Césaire;17000;75;17
+17315;Saint-Christophe;17000;75;17
+17316;Saint-Ciers-Champagne;17000;75;17
+17317;Saint-Ciers-du-Taillon;17000;75;17
+17318;Saint-Clément-des-Baleines;17118;75;17
+17319;Sainte-Colombe;17000;75;17
+17320;Saint-Coutant-le-Grand;17000;75;17
+17321;Saint-Crépin;17000;75;17
+17322;Saint-Cyr-du-Doret;17000;75;17
+17323;Saint-Denis-d'Oléron;17000;75;17
+17324;Saint-Dizant-du-Bois;17000;75;17
+17325;Saint-Dizant-du-Gua;17000;75;17
+17327;Saint-Félix;17000;75;17
+17328;Saint-Fort-sur-Gironde;17000;75;17
+17329;Saint-Froult;17000;75;17
+17330;Sainte-Gemme;17000;75;17
+17331;Saint-Genis-de-Saintonge;17000;75;17
+17332;Saint-Georges-Antignac;17000;75;17
+17333;Saint-Georges-de-Didonne;17402;75;17
+17334;Saint-Georges-de-Longuepierre;17000;75;17
+17335;Saint-Georges-des-Agoûts;17000;75;17
+17336;Saint-Georges-des-Coteaux;17000;75;17
+17337;Saint-Georges-d'Oléron;17000;75;17
+17338;Saint-Georges-du-Bois;17000;75;17
+17339;Saint-Germain-de-Lusignan;17201;75;17
+17340;Saint-Pierre-La-Noue;17000;75;17
+17341;Saint-Germain-de-Vibrac;17000;75;17
+17342;Saint-Germain-du-Seudre;17000;75;17
+17343;Saint-Grégoire-d'Ardennes;17000;75;17
+17344;Saint-Hilaire-de-Villefranche;17000;75;17
+17345;Saint-Hilaire-du-Bois;17000;75;17
+17346;Saint-Hippolyte;17000;75;17
+17347;Saint-Jean-d'Angély;17207;75;17
+17348;Saint-Jean-d'Angle;17000;75;17
+17349;Saint-Jean-de-Liversay;17000;75;17
+17350;Saint-Julien-de-l'Escap;17207;75;17
+17351;Saint-Just-Luzac;17000;75;17
+17353;Saint-Laurent-de-la-Prée;17000;75;17
+17354;Saint-Léger;17000;75;17
+17355;Sainte-Lheurine;17000;75;17
+17356;Saint-Loup;17000;75;17
+17357;Saint-Maigrin;17000;75;17
+17358;Saint-Mandé-sur-Brédoire;17000;75;17
+17359;Saint-Mard;17000;75;17
+17360;Sainte-Marie-de-Ré;17111;75;17
+17361;Saint-Martial;17000;75;17
+17362;Saint-Martial-de-Mirambeau;17000;75;17
+17363;Saint-Martial-de-Vitaterne;17201;75;17
+17364;Saint-Martial-sur-Né;17000;75;17
+17365;Saint-Martin-d'Ary;17000;75;17
+17366;Saint-Martin-de-Coux;17000;75;17
+17369;Saint-Martin-de-Ré;17202;75;17
+17373;Saint-Médard-d'Aunis;17000;75;17
+17374;Sainte-Même;17000;75;17
+17375;Saint-Nazaire-sur-Charente;17110;75;17
+17376;Saint-Ouen-d'Aunis;17000;75;17
+17377;Saint-Ouen-la-Thène;17000;75;17
+17378;Saint-Palais-de-Négrignac;17000;75;17
+17379;Saint-Palais-de-Phiolin;17000;75;17
+17380;Saint-Palais-sur-Mer;17402;75;17
+17381;Saint-Pardoult;17000;75;17
+17382;Saint-Pierre-d'Amilly;17000;75;17
+17383;Saint-Pierre-de-Juillers;17000;75;17
+17385;Saint-Pierre-d'Oléron;17204;75;17
+17386;Saint-Pierre-du-Palais;17000;75;17
+17387;Saint-Porchaire;17000;75;17
+17388;Saint-Quantin-de-Rançanne;17000;75;17
+17389;Sainte-Radegonde;17000;75;17
+17390;Sainte-Ramée;17000;75;17
+17391;Saint-Rogatien;17000;75;17
+17393;Saint-Romain-de-Benet;17000;75;17
+17394;Saint-Saturnin-du-Bois;17000;75;17
+17395;Saint-Sauvant;17000;75;17
+17396;Saint-Sauveur-d'Aunis;17000;75;17
+17397;Saint-Savinien;17000;75;17
+17400;Saint-Sever-de-Saintonge;17000;75;17
+17401;Saint-Séverin-sur-Boutonne;17000;75;17
+17402;Saint-Sigismond-de-Clermont;17000;75;17
+17403;Saint-Simon-de-Bordes;17000;75;17
+17404;Saint-Simon-de-Pellouaille;17000;75;17
+17405;Saint-Sorlin-de-Conac;17000;75;17
+17406;Saint-Sornin;17000;75;17
+17407;Sainte-Soulle;17000;75;17
+17408;Saint-Sulpice-d'Arnoult;17000;75;17
+17409;Saint-Sulpice-de-Royan;17000;75;17
+17410;Saint-Thomas-de-Conac;17000;75;17
+17411;Saint-Trojan-les-Bains;17106;75;17
+17412;Saint-Vaize;17000;75;17
+17413;Saint-Vivien;17000;75;17
+17414;Saint-Xandre;17117;75;17
+17415;Saintes;17401;75;17
+17417;Salignac-de-Mirambeau;17000;75;17
+17418;Salignac-sur-Charente;17000;75;17
+17420;Salles-sur-Mer;17601;75;17
+17421;Saujon;17205;75;17
+17423;Semillac;17000;75;17
+17424;Semoussac;17000;75;17
+17425;Semussac;17000;75;17
+17426;Le Seure;17000;75;17
+17427;Siecq;17000;75;17
+17428;Sonnac;17000;75;17
+17429;Soubise;17000;75;17
+17430;Soubran;17000;75;17
+17431;Soulignonne;17000;75;17
+17432;Souméras;17112;75;17
+17434;Surgères;17203;75;17
+17435;Taillant;17000;75;17
+17436;Taillebourg;17000;75;17
+17437;Talmont-sur-Gironde;17000;75;17
+17438;Tanzac;17000;75;17
+17439;Taugon;17000;75;17
+17440;Ternant;17207;75;17
+17441;Tesson;17000;75;17
+17442;Thaims;17000;75;17
+17443;Thairé;17000;75;17
+17444;Thénac;17000;75;17
+17445;Thézac;17000;75;17
+17446;Thors;17000;75;17
+17447;Le Thou;17000;75;17
+17448;Tonnay-Boutonne;17000;75;17
+17449;Tonnay-Charente;17403;75;17
+17450;Torxé;17000;75;17
+17451;Les Touches-de-Périgny;17000;75;17
+17452;La Tremblade;17301;75;17
+17453;Trizay;17000;75;17
+17454;Tugéras-Saint-Maurice;17000;75;17
+17455;La Vallée;17000;75;17
+17457;La Devise;17000;75;17
+17459;Varaize;17000;75;17
+17460;Varzay;17000;75;17
+17461;Vaux-sur-Mer;17402;75;17
+17462;Vénérand;17000;75;17
+17463;Vergeroux;17403;75;17
+17465;La Vergne;17000;75;17
+17466;Vérines;17000;75;17
+17468;Vibrac;17000;75;17
+17469;Villars-en-Pons;17000;75;17
+17470;Villars-les-Bois;17000;75;17
+17471;La Villedieu;17000;75;17
+17472;Villedoux;17000;75;17
+17473;Villemorin;17000;75;17
+17474;Villeneuve-la-Comtesse;17000;75;17
+17477;Villiers-Couture;17000;75;17
+17478;Vinax;17000;75;17
+17479;Virollet;17000;75;17
+17482;Vouhé;17000;75;17
+17483;Yves;17000;75;17
+17484;Port-des-Barques;17110;75;17
+17485;Le Grand-Village-Plage;17106;75;17
+17486;La Brée-les-Bains;17000;75;17
 18001;Achères;18000;24;18
 18002;Ainay-le-Vieil;18000;24;18
 18003;Les Aix-d'Angillon;18000;24;18
@@ -4266,6 +5050,306 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 21715;Voudenay;21000;27;21
 21716;Vougeot;21000;27;21
 21717;Voulaines-les-Templiers;21000;27;21
+22001;Allineuc;22000;53;22
+22002;Andel;22000;53;22
+22003;Aucaleuc;22000;53;22
+22004;Bégard;22118;53;22
+22005;Belle-Isle-en-Terre;22000;53;22
+22008;Bobital;22402;53;22
+22011;Boqueho;22000;53;22
+22012;La Bouillie;22000;53;22
+22013;Bourbriac;22000;53;22
+22014;Bourseul;22000;53;22
+22015;Bréhand;22000;53;22
+22016;Île-de-Bréhat;22000;53;22
+22018;Brélidy;22000;53;22
+22019;Bringolo;22000;53;22
+22020;Broons;22000;53;22
+22021;Brusvily;22000;53;22
+22023;Bulat-Pestivien;22000;53;22
+22024;Calanhel;22000;53;22
+22025;Callac;22000;53;22
+22026;Calorguen;22000;53;22
+22027;Le Cambout;22000;53;22
+22028;Camlez;22000;53;22
+22030;Caouënnec-Lanvézéac;22000;53;22
+22031;Carnoët;22000;53;22
+22032;Caulnes;22000;53;22
+22033;Caurel;22000;53;22
+22034;Cavan;22000;53;22
+22035;Les Champs-Géraux;22000;53;22
+22037;La Chapelle-Neuve;22000;53;22
+22039;La Chèze;22000;53;22
+22040;Coadout;22000;53;22
+22042;Coatréven;22000;53;22
+22043;Coëtlogon;22000;53;22
+22044;Coëtmieux;22107;53;22
+22046;Le Mené;22000;53;22
+22047;Corlay;22000;53;22
+22048;Corseul;22000;53;22
+22049;Créhen;22000;53;22
+22050;Dinan;22402;53;22
+22052;Duault;22000;53;22
+22053;Éréac;22000;53;22
+22054;Erquy;22114;53;22
+22055;Binic-Étables-sur-Mer;22302;53;22
+22056;Évran;22000;53;22
+22057;Le Faouët;22000;53;22
+22059;Le Foeil;22000;53;22
+22061;Glomel;22000;53;22
+22062;Gomené;22000;53;22
+22063;Gommenec'h;22000;53;22
+22064;Gouarec;22000;53;22
+22065;Goudelin;22000;53;22
+22067;Grâces;22401;53;22
+22069;Guenroc;22000;53;22
+22070;Guingamp;22401;53;22
+22075;Hémonstoir;22000;53;22
+22076;Hénanbihen;22000;53;22
+22077;Hénansal;22000;53;22
+22079;Hénon;22000;53;22
+22081;Hillion;22116;53;22
+22082;Le Hinglé;22402;53;22
+22083;Illifaut;22000;53;22
+22084;Jugon-les-Lacs - Commune nouvelle;22000;53;22
+22086;Kerfot;22303;53;22
+22087;Kergrist-Moëlou;22000;53;22
+22088;Kerien;22000;53;22
+22091;Kermoroc'h;22000;53;22
+22092;Kerpert;22000;53;22
+22093;Lamballe-Armor;22301;53;22
+22094;Lancieux;00458;53;22
+22096;Landébia;22000;53;22
+22097;La Landec;22000;53;22
+22098;Landéhen;22000;53;22
+22099;Lanfains;22000;53;22
+22101;Langoat;22112;53;22
+22103;Langrolay-sur-Rance;22000;53;22
+22104;Languédias;22000;53;22
+22105;Languenan;22000;53;22
+22106;Langueux;22501;53;22
+22110;Lanmérin;22000;53;22
+22113;Lannion;22403;53;22
+22114;Lanrelas;22000;53;22
+22115;Lanrivain;22000;53;22
+22116;Lanrodec;22000;53;22
+22117;Lantic;22000;53;22
+22118;Lanvallay;22402;53;22
+22121;Lanvollon;22106;53;22
+22122;Laurenan;22000;53;22
+22124;Lescouët-Gouarec;22000;53;22
+22127;Lézardrieux;22303;53;22
+22128;Locarn;22000;53;22
+22131;Loguivy-Plougras;22000;53;22
+22132;Lohuec;22000;53;22
+22133;Loscouët-sur-Meu;22000;53;22
+22134;Louannec;22403;53;22
+22135;Louargat;22000;53;22
+22136;Loudéac;22205;53;22
+22137;Maël-Carhaix;22000;53;22
+22138;Maël-Pestivien;22000;53;22
+22139;Magoar;22000;53;22
+22140;La Malhoure;22000;53;22
+22143;Matignon;22000;53;22
+22144;La Méaugon;22000;53;22
+22145;Mégrit;22000;53;22
+22146;Mellionnec;22000;53;22
+22147;Merdrignac;22103;53;22
+22148;Mérillac;22000;53;22
+22149;Merléac;22000;53;22
+22150;Le Merzer;22000;53;22
+22153;Moncontour;22000;53;22
+22155;La Motte;22000;53;22
+22156;Moustéru;22000;53;22
+22157;Le Moustoir;22000;53;22
+22158;Guerlédan;22000;53;22
+22161;Pabu;22401;53;22
+22162;Paimpol;22303;53;22
+22163;Paule;22000;53;22
+22164;Pédernec;22000;53;22
+22165;Penguily;22000;53;22
+22166;Penvénan;22403;53;22
+22168;Perros-Guirec;22403;53;22
+22169;Peumerit-Quintin;22000;53;22
+22170;Plaine-Haute;22000;53;22
+22171;Plaintel;22202;53;22
+22172;Plancoët;22119;53;22
+22174;Pléboulle;22000;53;22
+22175;Plédéliac;22000;53;22
+22176;Plédran;22203;53;22
+22177;Pléguien;22106;53;22
+22178;Pléhédel;22000;53;22
+22179;Fréhel;22000;53;22
+22180;Plélan-le-Petit;22000;53;22
+22181;Plélauff;22000;53;22
+22182;Plélo;22000;53;22
+22183;Plémet;22102;53;22
+22184;Plémy;22000;53;22
+22185;Plénée-Jugon;22000;53;22
+22186;Pléneuf-Val-André;22115;53;22
+22187;Plérin;22501;53;22
+22188;Plerneuf;22501;53;22
+22190;Pleslin-Trigavou;00458;53;22
+22193;Plestan;22000;53;22
+22194;Plestin-les-Grèves;00251;53;22
+22195;Pleubian;22303;53;22
+22196;Pleudaniel;22000;53;22
+22197;Pleudihen-sur-Rance;22000;53;22
+22198;Pleumeur-Bodou;22403;53;22
+22199;Pleumeur-Gautier;22000;53;22
+22200;Pléven;22000;53;22
+22201;Plévenon;22000;53;22
+22202;Plévin;22000;53;22
+22203;Ploeuc-L'Hermitage;22000;53;22
+22204;Ploëzal;22000;53;22
+22205;Plorec-sur-Arguenon;22000;53;22
+22206;Châtelaudren-Plouagat;22108;53;22
+22207;Plouaret;22109;53;22
+22208;Plouasne;22000;53;22
+22209;Beaussais-sur-Mer;00458;53;22
+22210;Ploubazlanec;22303;53;22
+22211;Ploubezre;22403;53;22
+22212;Plouëc-du-Trieux;22000;53;22
+22213;Plouër-sur-Rance;22104;53;22
+22214;Plouézec;22105;53;22
+22215;Ploufragan;22501;53;22
+22216;Plougonver;22000;53;22
+22218;Plougrescant;22000;53;22
+22219;Plouguenast-Langast;22000;53;22
+22220;Plouguernével;22000;53;22
+22221;Plouguiel;22204;53;22
+22222;Plouha;22117;53;22
+22223;Plouisy;22401;53;22
+22224;Ploulec'h;22403;53;22
+22225;Ploumagoar;22401;53;22
+22226;Ploumilliau;22000;53;22
+22227;Plounérin;22000;53;22
+22228;Plounévez-Moëdec;22000;53;22
+22229;Plounévez-Quintin;22000;53;22
+22231;Plourac'h;22000;53;22
+22232;Plourhan;22302;53;22
+22233;Plourivo;22303;53;22
+22234;Plouvara;22000;53;22
+22236;Pludual;22000;53;22
+22237;Pluduno;22119;53;22
+22239;Plumaudan;22000;53;22
+22240;Plumaugat;22000;53;22
+22241;Plumieux;22000;53;22
+22242;Plurien;22000;53;22
+22243;Plusquellec;22000;53;22
+22244;Plussulien;22000;53;22
+22245;Pluzunet;22000;53;22
+22248;Pommerit-le-Vicomte;22000;53;22
+22249;Pont-Melvez;22000;53;22
+22250;Pontrieux;22000;53;22
+22251;Pordic;22201;53;22
+22254;Prat;22000;53;22
+22255;La Prénessaye;22000;53;22
+22256;Quemper-Guézennec;22000;53;22
+22257;Quemperven;22000;53;22
+22258;Quessoy;22000;53;22
+22259;Quévert;22402;53;22
+22260;Le Quillio;22000;53;22
+22261;Quintenic;22000;53;22
+22262;Quintin;22101;53;22
+22263;Le Quiou;22000;53;22
+22264;La Roche-Jaudy;22112;53;22
+22265;Rospez;22000;53;22
+22266;Rostrenen;22110;53;22
+22267;Rouillac;22000;53;22
+22268;Ruca;22000;53;22
+22271;Saint-Adrien;22000;53;22
+22272;Saint-Agathon;22401;53;22
+22273;Saint-Alban;22000;53;22
+22274;Saint-André-des-Eaux;22000;53;22
+22275;Saint-Barnabé;22000;53;22
+22277;Saint-Brandan;22000;53;22
+22278;Saint-Brieuc;22501;53;22
+22280;Saint-Carné;22402;53;22
+22281;Saint-Carreuc;22000;53;22
+22282;Saint-Cast-le-Guildo;22111;53;22
+22283;Saint-Clet;22000;53;22
+22284;Saint-Connan;22000;53;22
+22285;Saint-Connec;22000;53;22
+22286;Saint-Denoual;22000;53;22
+22287;Saint-Donan;22000;53;22
+22288;Saint-Étienne-du-Gué-de-l'Isle;22000;53;22
+22289;Saint-Fiacre;22000;53;22
+22293;Saint-Gilles-les-Bois;22000;53;22
+22295;Saint-Gilles-Vieux-Marché;22000;53;22
+22296;Saint-Glen;22000;53;22
+22299;Saint-Hélen;22000;53;22
+22300;Saint-Hervé;22000;53;22
+22302;Saint-Jacut-de-la-Mer;22000;53;22
+22304;Saint-Jean-Kerdaniel;22000;53;22
+22305;Saint-Jouan-de-l'Isle;22000;53;22
+22306;Saint-Judoce;22000;53;22
+22307;Saint-Julien;22202;53;22
+22308;Saint-Juvat;22000;53;22
+22311;Saint-Lormel;22000;53;22
+22312;Saint-Maden;22000;53;22
+22313;Saint-Martin-des-Prés;22000;53;22
+22315;Saint-Maudez;22000;53;22
+22316;Saint-Mayeux;22000;53;22
+22317;Saint-Méloir-des-Bois;22000;53;22
+22318;Saint-Michel-de-Plélan;22000;53;22
+22319;Saint-Michel-en-Grève;22000;53;22
+22320;Saint-Nicodème;22000;53;22
+22321;Saint-Nicolas-du-Pélem;22000;53;22
+22323;Saint-Pôtan;22000;53;22
+22324;Saint-Quay-Perros;22403;53;22
+22325;Saint-Quay-Portrieux;22302;53;22
+22327;Saint-Samson-sur-Rance;22000;53;22
+22328;Saint-Servais;22000;53;22
+22330;Saint-Thélo;22000;53;22
+22332;Saint-Trimoël;22000;53;22
+22333;Saint-Vran;22000;53;22
+22335;Senven-Léhart;22000;53;22
+22337;Sévignac;22000;53;22
+22338;Squiffiec;22000;53;22
+22339;Taden;22000;53;22
+22340;Tonquédec;22000;53;22
+22341;Tramain;22000;53;22
+22342;Trébédan;22000;53;22
+22343;Trébeurden;22113;53;22
+22344;Trébrivan;22000;53;22
+22345;Trébry;22000;53;22
+22346;Trédaniel;22000;53;22
+22347;Trédarzec;22204;53;22
+22348;Trédias;22000;53;22
+22349;Trédrez-Locquémeau;22000;53;22
+22351;Treffrin;00271;53;22
+22352;Tréfumel;22000;53;22
+22353;Trégastel;22403;53;22
+22354;Tréglamus;22000;53;22
+22356;Trégomeur;22000;53;22
+22359;Trégrom;22000;53;22
+22360;Trégueux;22501;53;22
+22361;Tréguidel;22000;53;22
+22362;Tréguier;22204;53;22
+22363;Trélévern;22403;53;22
+22364;Trélivan;22402;53;22
+22365;Trémargat;22000;53;22
+22366;Trémel;22000;53;22
+22368;Tréméreuc;00458;53;22
+22369;Trémeur;22000;53;22
+22371;Trémorel;22000;53;22
+22372;Trémuson;22501;53;22
+22373;Tréogan;22000;53;22
+22376;Trévé;22000;53;22
+22377;Tréveneuc;22302;53;22
+22378;Trévérec;22000;53;22
+22379;Trévou-Tréguignec;22403;53;22
+22380;Trévron;22000;53;22
+22381;Trézény;22000;53;22
+22383;Troguéry;22112;53;22
+22384;Uzel;22000;53;22
+22385;La Vicomté-sur-Rance;22000;53;22
+22387;Le Vieux-Marché;22109;53;22
+22388;Vildé-Guingalan;22000;53;22
+22389;Yffiniac;22501;53;22
+22390;Yvias;22000;53;22
+22391;Yvignac-la-Tour;22000;53;22
 23001;Ahun;23000;75;23
 23002;Ajain;23000;75;23
 23003;Alleyrat;23000;75;23
@@ -6125,6 +7209,245 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 28424;Yèvres;28201;24;28
 28425;Ymeray;28202;24;28
 28426;Ymonville;28000;24;28
+29001;Argol;29000;53;29
+29002;Arzano;29000;53;29
+29003;Audierne;29213;53;29
+29004;Bannalec;29202;53;29
+29005;Baye;29000;53;29
+29006;Bénodet;29402;53;29
+29008;Beuzec-Cap-Sizun;29000;53;29
+29010;Bodilis;29000;53;29
+29011;Bohars;29701;53;29
+29012;Bolazec;29000;53;29
+29015;Bourg-Blanc;29109;53;29
+29016;Brasparts;29000;53;29
+29017;Brélès;29125;53;29
+29018;Brennilis;29000;53;29
+29019;Brest;29701;53;29
+29020;Briec;29208;53;29
+29021;Plounéour-Brignogan-plages;29000;53;29
+29022;Camaret-sur-Mer;29104;53;29
+29023;Carantec;29124;53;29
+29024;Carhaix-Plouguer;00271;53;29
+29025;Cast;29000;53;29
+29026;Châteaulin;29204;53;29
+29027;Châteauneuf-du-Faou;29116;53;29
+29028;Cléden-Cap-Sizun;29000;53;29
+29029;Cléden-Poher;29000;53;29
+29030;Cléder;29119;53;29
+29031;Clohars-Carnoët;29121;53;29
+29032;Clohars-Fouesnant;29402;53;29
+29033;Le Cloître-Pleyben;29000;53;29
+29034;Le Cloître-Saint-Thégonnec;29000;53;29
+29035;Coat-Méal;29000;53;29
+29036;Collorec;29000;53;29
+29037;Combrit;29306;53;29
+29038;Commana;29000;53;29
+29039;Concarneau;29404;53;29
+29040;Le Conquet;29103;53;29
+29042;Crozon;29212;53;29
+29043;Daoulas;29000;53;29
+29044;Dinéault;29000;53;29
+29045;Dirinon;29000;53;29
+29046;Douarnenez;29307;53;29
+29047;Le Drennec;29303;53;29
+29048;Edern;29208;53;29
+29049;Elliant;29000;53;29
+29051;Ergué-Gabéric;29501;53;29
+29053;Le Faou;29000;53;29
+29055;Le Folgoët;29303;53;29
+29056;La Forest-Landerneau;29000;53;29
+29057;La Forêt-Fouesnant;29402;53;29
+29058;Fouesnant;29402;53;29
+29059;Garlan;29000;53;29
+29060;Gouesnach;29402;53;29
+29061;Gouesnou;29701;53;29
+29062;Gouézec;29000;53;29
+29064;Goulven;29000;53;29
+29066;Guengat;29000;53;29
+29067;Guerlesquin;29000;53;29
+29068;Guiclan;29000;53;29
+29069;Guilers;29209;53;29
+29071;Guilligomarc'h;29000;53;29
+29072;Guilvinec;29401;53;29
+29073;Guimaëc;29000;53;29
+29074;Guimiliau;29000;53;29
+29075;Guipavas;29701;53;29
+29076;Milizac-Guipronvel;29000;53;29
+29077;Guissény;29000;53;29
+29078;Hanvec;29000;53;29
+29079;Henvic;29124;53;29
+29080;Hôpital-Camfrout;29000;53;29
+29081;Huelgoat;29000;53;29
+29082;Île-de-Batz;29000;53;29
+29085;Île-Tudy;29306;53;29
+29086;Irvillac;29000;53;29
+29087;Le Juch;29000;53;29
+29089;Kergloff;29000;53;29
+29091;Kerlouan;29102;53;29
+29093;Kernilis;29000;53;29
+29094;Kernouës;29303;53;29
+29095;Kersaint-Plabennec;29000;53;29
+29097;Lampaul-Guimiliau;29301;53;29
+29098;Lampaul-Plouarzel;29101;53;29
+29099;Lampaul-Ploudalmézeau;29000;53;29
+29101;Landéda;29112;53;29
+29102;Landeleau;29000;53;29
+29103;Landerneau;29308;53;29
+29104;Landévennec;29000;53;29
+29105;Landivisiau;29301;53;29
+29106;Landrévarzec;29000;53;29
+29107;Landudal;29000;53;29
+29108;Landudec;29000;53;29
+29109;Landunvez;29125;53;29
+29110;Langolen;29000;53;29
+29111;Lanhouarneau;29000;53;29
+29112;Lanildut;29125;53;29
+29113;Lanmeur;29000;53;29
+29115;Lannédern;29000;53;29
+29117;Lannilis;29302;53;29
+29119;Lanrivoaré;29000;53;29
+29120;Lanvéoc;29000;53;29
+29122;Laz;29000;53;29
+29124;Lesneven;29303;53;29
+29130;Locmaria-Plouzané;29126;53;29
+29131;Locmélar;29000;53;29
+29132;Locquénolé;29000;53;29
+29133;Locquirec;00251;53;29
+29134;Locronan;29000;53;29
+29135;Loctudy;29401;53;29
+29136;Locunolé;29000;53;29
+29137;Logonna-Daoulas;29000;53;29
+29140;Loperhet;29111;53;29
+29142;Lothey;29000;53;29
+29144;La Martyre;29000;53;29
+29146;Melgven;29000;53;29
+29147;Mellac;29000;53;29
+29148;Mespaul;29000;53;29
+29150;Moëlan-sur-Mer;29206;53;29
+29151;Morlaix;29403;53;29
+29152;Motreff;29000;53;29
+29153;Névez;29000;53;29
+29156;Pencran;29308;53;29
+29158;Penmarch;29401;53;29
+29159;Peumerit;29000;53;29
+29160;Plabennec;29211;53;29
+29161;Pleuven;29402;53;29
+29162;Pleyben;29115;53;29
+29163;Pleyber-Christ;29108;53;29
+29165;Plobannalec-Lesconil;29401;53;29
+29167;Plogastel-Saint-Germain;29000;53;29
+29168;Plogoff;29000;53;29
+29169;Plogonnec;29000;53;29
+29170;Plomelin;29501;53;29
+29171;Plomeur;29401;53;29
+29172;Plomodiern;29000;53;29
+29173;Plonéis;29000;53;29
+29174;Plonéour-Lanvern;29203;53;29
+29175;Plonévez-du-Faou;29000;53;29
+29176;Plonévez-Porzay;29000;53;29
+29177;Plouarzel;29000;53;29
+29178;Ploudalmézeau;29205;53;29
+29179;Ploudaniel;29000;53;29
+29180;Ploudiry;29000;53;29
+29181;Plouédern;29000;53;29
+29182;Plouégat-Guérand;29000;53;29
+29184;Plouénan;29000;53;29
+29185;Plouescat;29118;53;29
+29186;Plouezoc'h;29403;53;29
+29187;Plougar;29000;53;29
+29188;Plougasnou;29120;53;29
+29189;Plougastel-Daoulas;29701;53;29
+29190;Plougonvelin;29113;53;29
+29191;Plougonven;29000;53;29
+29192;Plougoulm;29000;53;29
+29195;Plouguerneau;29302;53;29
+29196;Plouguin;29000;53;29
+29197;Plouhinec;29213;53;29
+29198;Plouider;29000;53;29
+29199;Plouigneau;29123;53;29
+29201;Ploumoguer;29000;53;29
+29202;Plounéour-Ménez;29000;53;29
+29204;Plounéventer;29000;53;29
+29205;Plounévézel;00271;53;29
+29206;Plounévez-Lochrist;29000;53;29
+29207;Plourin-lès-Morlaix;29403;53;29
+29208;Plourin;29000;53;29
+29209;Plouvien;29114;53;29
+29210;Plouvorn;29000;53;29
+29211;Plouyé;29000;53;29
+29212;Plouzané;29701;53;29
+29213;Plouzévédé;29000;53;29
+29214;Plovan;29000;53;29
+29215;Plozévet;29106;53;29
+29216;Pluguffan;29501;53;29
+29217;Pont-Aven;29107;53;29
+29218;Pont-Croix;29000;53;29
+29220;Pont-l'Abbé;29306;53;29
+29221;Porspoder;29125;53;29
+29224;Pouldergat;29000;53;29
+29225;Pouldreuzic;29000;53;29
+29227;Poullaouen;29000;53;29
+29229;Quéménéven;29000;53;29
+29230;Querrien;29000;53;29
+29232;Quimper;29501;53;29
+29233;Quimperlé;29304;53;29
+29234;Rédené;29000;53;29
+29235;Le Relecq-Kerhuon;29701;53;29
+29236;Riec-sur-Bélon;29122;53;29
+29237;La Roche-Maurice;29000;53;29
+29238;Roscanvel;29000;53;29
+29239;Roscoff;29305;53;29
+29240;Rosnoën;29000;53;29
+29241;Rosporden;29207;53;29
+29243;Saint-Coulitz;29000;53;29
+29244;Saint-Derrien;29000;53;29
+29245;Saint-Divy;29105;53;29
+29247;Saint-Évarzec;29110;53;29
+29248;Saint-Frégant;29000;53;29
+29249;Saint-Goazec;29000;53;29
+29250;Saint-Hernin;29000;53;29
+29251;Saint-Jean-du-Doigt;29120;53;29
+29252;Saint-Jean-Trolimon;29401;53;29
+29254;Saint-Martin-des-Champs;29403;53;29
+29256;Saint-Nic;29000;53;29
+29257;Saint-Pabu;29000;53;29
+29259;Saint-Pol-de-Léon;29305;53;29
+29260;Saint-Renan;29210;53;29
+29262;Saint-Sauveur;29000;53;29
+29263;Saint-Ségal;29000;53;29
+29264;Saint-Servais;29000;53;29
+29266;Saint-Thégonnec Loc-Eguiner;29000;53;29
+29267;Saint-Thois;29000;53;29
+29268;Saint-Thonan;29105;53;29
+29269;Saint-Thurien;29000;53;29
+29270;Saint-Urbain;29000;53;29
+29271;Saint-Vougay;29000;53;29
+29272;Saint-Yvi;29000;53;29
+29273;Santec;29305;53;29
+29274;Scaër;29201;53;29
+29275;Scrignac;29000;53;29
+29276;Sibiril;29000;53;29
+29277;Sizun;29000;53;29
+29278;Spézet;29000;53;29
+29279;Taulé;29000;53;29
+29280;Telgruc-sur-Mer;29000;53;29
+29281;Tourch;29000;53;29
+29284;Treffiagat;29401;53;29
+29286;Tréflévénez;29000;53;29
+29287;Tréflez;29000;53;29
+29288;Trégarantec;29000;53;29
+29290;Tréglonou;29000;53;29
+29291;Trégourez;29000;53;29
+29292;Tréguennec;29000;53;29
+29293;Trégunc;29404;53;29
+29294;Le Tréhou;29000;53;29
+29295;Trémaouézan;29000;53;29
+29296;Tréméoc;29306;53;29
+29297;Tréméven;29304;53;29
+29298;Tréogat;29000;53;29
+29300;Le Trévoux;29000;53;29
+29302;Pont-de-Buis-lès-Quimerch;29117;53;29
 2A001;Afa;2A105;94;2A
 2A004;Ajaccio;2A501;94;2A
 2A006;Alata;2A000;94;2A
@@ -7036,13 +8359,17 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 31589;Villenouvelle;31000;76;31
 31592;Larra;31000;76;31
 32001;Aignan;32000;76;32
+32004;Arblade-le-Bas;32000;76;32
+32005;Arblade-le-Haut;32000;76;32
 32007;Ardizas;32000;76;32
 32008;Armentieux;32000;76;32
 32009;Armous-et-Cau;32000;76;32
 32012;Aubiet;32000;76;32
 32013;Auch;32401;76;32
 32016;Auradé;32000;76;32
+32017;Aurensan;32000;76;32
 32019;Auterive;32000;76;32
+32027;Barcelonne-du-Gers;00263;76;32
 32028;Barcugnan;32000;76;32
 32029;Barran;32000;76;32
 32032;Bassoues;32000;76;32
@@ -7055,6 +8382,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32060;Boucagnères;32000;76;32
 32063;Bouzon-Gellenave;32000;76;32
 32065;Le Brouilh-Monbert;32000;76;32
+32070;Cahuzac-sur-Adour;32000;76;32
 32071;Caillavet;32000;76;32
 32075;Cassaigne;32000;76;32
 32076;Castelnau-Barbarens;32000;76;32
@@ -7063,7 +8391,9 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32082;Castéra-Lectourois;32000;76;32
 32083;Castéra-Verduzan;32000;76;32
 32085;Castet-Arrouy;32000;76;32
+32094;Caupenne-d'Armagnac;32000;76;32
 32095;Caussens;32000;76;32
+32096;Cazaubon;32000;76;32
 32098;Cazaux-Savès;32000;76;32
 32101;Céran;32000;76;32
 32102;Cézan;32000;76;32
@@ -7075,6 +8405,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32119;Eauze;32103;76;32
 32121;Endoufielle;32000;76;32
 32123;Escorneboeuf;32000;76;32
+32127;Estang;32000;76;32
 32131;Flamarens;32000;76;32
 32132;Fleurance;32201;76;32
 32133;Fourcès;32000;76;32
@@ -7084,7 +8415,9 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32147;Gimont;32101;76;32
 32149;Gondrin;32000;76;32
 32150;Goutz;32000;76;32
+32151;Goux;32000;76;32
 32152;Haget;32000;76;32
+32155;Le Houga;32000;76;32
 32159;L'Isle-de-Noé;32000;76;32
 32160;L'Isle-Jourdain;32202;76;32
 32162;Jegun;32000;76;32
@@ -7098,6 +8431,9 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32182;Lahas;32000;76;32
 32184;Lalanne;32000;76;32
 32187;Lamazère;32000;76;32
+32191;Lanne-Soubiran;32000;76;32
+32192;Lannux;32000;76;32
+32193;Larée;32000;76;32
 32194;Larressingle;32000;76;32
 32196;Larroque-Saint-Sernin;32000;76;32
 32197;Larroque-sur-l'Osse;32000;76;32
@@ -7110,6 +8446,8 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32213;Lombez;32000;76;32
 32218;Loussous-Débat;32000;76;32
 32219;Lupiac;32000;76;32
+32220;Luppé-Violles;32000;76;32
+32222;Magnan;32000;76;32
 32224;Maignaut-Tauzia;32000;76;32
 32225;Malabat;32000;76;32
 32231;Marambat;32104;76;32
@@ -7119,6 +8457,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32239;Marsolan;32000;76;32
 32241;Mas-d'Auvignon;32000;76;32
 32242;Masseube;32000;76;32
+32243;Mauléon-d'Armagnac;32000;76;32
 32249;Mauvezin;32000;76;32
 32252;Miélan;32000;76;32
 32253;Miradoux;32000;76;32
@@ -7126,9 +8465,11 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32256;Mirande;32105;76;32
 32261;Monblanc;32000;76;32
 32262;Monbrun;32000;76;32
+32264;Monclar;32000;76;32
 32266;Moncorneil-Grazan;32000;76;32
 32268;Monferran-Savès;32000;76;32
 32269;Monfort;32000;76;32
+32271;Monguilhem;32000;76;32
 32282;Montégut;32000;76;32
 32283;Montégut-Arros;32000;76;32
 32285;Montesquiou;32000;76;32
@@ -7136,10 +8477,13 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32288;Montiron;32000;76;32
 32289;Montpézat;32000;76;32
 32290;Montréal;32000;76;32
+32291;Mormès;32000;76;32
 32292;Mouchan;32000;76;32
+32296;Nogaro;32000;76;32
 32298;Nougaroulet;32000;76;32
 32300;Orbessan;32000;76;32
 32301;Ordan-Larroque;32000;76;32
+32305;Panjas;32000;76;32
 32306;Pauilhac;32000;76;32
 32307;Pavie;32401;76;32
 32312;Pessan;32000;76;32
@@ -7147,30 +8491,36 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32319;Plaisance;32000;76;32
 32322;Pompiac;32000;76;32
 32325;Pouydraguin;32000;76;32
+32330;Préchac-sur-Adour;32000;76;32
 32331;Preignan;32000;76;32
 32334;Pujaudran;32000;76;32
 32335;Puycasquier;32000;76;32
 32336;Puylausic;32000;76;32
 32339;Razengues;32000;76;32
 32340;Réans;32000;76;32
+32344;Riscle;32000;76;32
 32345;La Romieu;32000;76;32
 32357;Sainte-Anne;32000;76;32
 32361;Saint-Arroman;32000;76;32
 32367;Saint-Christaud;32000;76;32
 32368;Sainte-Christie;32000;76;32
+32369;Sainte-Christie-d'Armagnac;32000;76;32
 32370;Saint-Clar;32000;76;32
 32372;Saint-Cricq;32000;76;32
 32375;Saint-Élix-Theux;32000;76;32
 32377;Saint-Georges;32000;76;32
+32378;Saint-Germé;32000;76;32
 32379;Saint-Germier;32000;76;32
 32382;Saint-Jean-Poutge;32000;76;32
 32386;Saint-Lizier-du-Planté;32000;76;32
 32387;Saint-Loube;32000;76;32
 32388;Sainte-Marie;32000;76;32
 32389;Saint-Martin;32105;76;32
+32390;Saint-Martin-d'Armagnac;32000;76;32
 32391;Saint-Martin-de-Goyne;32000;76;32
 32395;Sainte-Mère;32000;76;32
 32397;Saint-Michel;32000;76;32
+32398;Saint-Mont;32000;76;32
 32399;Saint-Orens;32000;76;32
 32400;Saint-Orens-Pouy-Petit;32000;76;32
 32404;Saint-Puy;32000;76;32
@@ -7178,13 +8528,16 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32410;Samatan;32000;76;32
 32412;Saramon;32000;76;32
 32413;Sarcos;32000;76;32
+32414;Sarragachies;32000;76;32
 32415;Sarraguzan;32000;76;32
 32416;Sarrant;32000;76;32
 32417;La Sauvetat;32000;76;32
 32420;Sauvimont;32000;76;32
+32424;Ségos;32000;76;32
 32425;Ségoufielle;32000;76;32
 32426;Seissan;32000;76;32
 32433;Simorre;32000;76;32
+32437;Sorbets;32000;76;32
 32440;Tasque;32000;76;32
 32442;Terraube;32000;76;32
 32445;Tieste-Uragnoux;32000;76;32
@@ -7196,60 +8549,491 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 32452;Tournecoupe;32000;76;32
 32455;Troncens;32000;76;32
 32459;Valence-sur-Baïse;32000;76;32
+32460;Vergoignan;32000;76;32
+32461;Verlus;32000;76;32
 32462;Vic-Fezensac;32104;76;32
+32463;Viella;32000;76;32
 32464;Villecomtal-sur-Arros;32000;76;32
 32465;Villefranche;32000;76;32
 32466;Viozan;32000;76;32
+33001;Abzac;33000;75;33
+33002;Aillas;33000;75;33
+33003;Ambarès-et-Lagrave;33701;75;33
+33004;Ambès;33105;75;33
+33005;Andernos-les-Bains;33305;75;33
+33006;Anglade;33000;75;33
+33007;Arbanats;33120;75;33
+33008;Porte-de-Benauge;33000;75;33
+33009;Arcachon;33501;75;33
+33010;Arcins;33000;75;33
+33011;Arès;33203;75;33
+33012;Arsac;33106;75;33
+33013;Artigues-près-Bordeaux;33701;75;33
+33014;Les Artigues-de-Lussac;33000;75;33
+33015;Arveyres;33701;75;33
+33016;Asques;33123;75;33
+33017;Aubiac;33000;75;33
+33018;Val de Virvée;33306;75;33
+33019;Audenge;33304;75;33
+33021;Auros;33000;75;33
+33022;Avensan;33000;75;33
+33023;Ayguemorte-les-Graves;33207;75;33
+33024;Bagas;33206;75;33
+33025;Baigneaux;33000;75;33
+33026;Balizac;33000;75;33
+33027;Barie;33000;75;33
+33028;Baron;33102;75;33
+33029;Le Barp;33118;75;33
+33030;Barsac;33000;75;33
+33031;Bassanne;33000;75;33
+33032;Bassens;33701;75;33
+33033;Baurech;33701;75;33
+33034;Bayas;33000;75;33
+33035;Bayon-sur-Gironde;33124;75;33
+33036;Bazas;33122;75;33
+33037;Beautiran;33207;75;33
+33038;Bégadan;33000;75;33
+33039;Bègles;33701;75;33
+33040;Béguey;33121;75;33
+33042;Belin-Béliet;33115;75;33
+33043;Bellebat;33000;75;33
+33044;Bellefond;33000;75;33
+33045;Belvès-de-Castillon;33000;75;33
+33046;Bernos-Beaulac;33000;75;33
+33047;Berson;33000;75;33
+33049;Beychac-et-Caillau;33000;75;33
+33050;Bieujac;33000;75;33
+33051;Biganos;33304;75;33
+33052;Les Billaux;33401;75;33
+33054;Blaignac;33000;75;33
+33055;Blaignan-Prignac;33000;75;33
+33056;Blanquefort;33701;75;33
+33057;Blasimon;33000;75;33
+33058;Blaye;33301;75;33
+33059;Blésignac;33000;75;33
+33060;Bommes;33000;75;33
+33061;Bonnetan;33701;75;33
+33062;Bonzac;33000;75;33
+33063;Bordeaux;33701;75;33
+33065;Bouliac;33701;75;33
 33066;Bourdelles;33000;75;33
+33067;Bourg;33124;75;33
+33069;Le Bouscat;33701;75;33
+33070;Brach;33000;75;33
+33071;Branne;33000;75;33
+33073;Braud-et-Saint-Louis;33000;75;33
+33075;Bruges;33701;75;33
+33076;Budos;33000;75;33
+33077;Cabanac-et-Villagrains;33000;75;33
+33078;Cabara;33000;75;33
+33079;Cadarsac;33701;75;33
+33080;Cadaujac;33701;75;33
+33081;Cadillac;33121;75;33
+33082;Cadillac-en-Fronsadais;33123;75;33
+33083;Camarsac;33102;75;33
+33084;Cambes;33701;75;33
+33085;Camblanes-et-Meynac;33701;75;33
+33086;Camiac-et-Saint-Denis;33000;75;33
+33087;Camiran;33206;75;33
+33088;Camps-sur-l'Isle;33202;75;33
+33089;Campugnan;33000;75;33
+33090;Canéjan;33701;75;33
+33093;Capian;33000;75;33
 33094;Caplong;33000;75;33
+33095;Captieux;33000;75;33
+33096;Carbon-Blanc;33701;75;33
+33097;Carcans;33000;75;33
+33098;Cardan;33000;75;33
+33099;Carignan-de-Bordeaux;33701;75;33
+33100;Cars;33301;75;33
+33101;Cartelègue;33301;75;33
+33102;Casseuil;33000;75;33
+33104;Castelnau-de-Médoc;33111;75;33
+33105;Castelviel;33000;75;33
+33106;Castets et Castillon;33000;75;33
+33108;Castillon-la-Bataille;00257;75;33
+33109;Castres-Gironde;33207;75;33
+33111;Caudrot;33000;75;33
+33112;Caumont;33000;75;33
+33113;Cauvignac;33000;75;33
+33114;Cavignac;33210;75;33
+33116;Cazats;33000;75;33
 33117;Cazaugitat;33000;75;33
+33118;Cénac;33701;75;33
+33119;Cenon;33701;75;33
+33120;Cérons;33000;75;33
+33121;Cessac;33000;75;33
+33122;Cestas;33701;75;33
+33123;Cézac;33210;75;33
+33124;Chamadelle;33000;75;33
+33125;Cissac-Médoc;33000;75;33
+33126;Civrac-de-Blaye;33000;75;33
+33127;Civrac-sur-Dordogne;33000;75;33
+33128;Civrac-en-Médoc;33000;75;33
+33129;Cleyrac;33000;75;33
+33130;Coimères;33000;75;33
+33131;Coirac;33000;75;33
+33132;Comps;33124;75;33
 33133;Coubeyrac;33000;75;33
+33134;Couquèques;33000;75;33
 33136;Cours-de-Monségur;33000;75;33
+33138;Coutras;33302;75;33
+33140;Créon;33114;75;33
+33141;Croignon;33102;75;33
+33142;Cubnezais;33210;75;33
+33143;Cubzac-les-Ponts;33306;75;33
+33144;Cudos;33000;75;33
+33145;Cursan;33000;75;33
+33146;Cussac-Fort-Médoc;33000;75;33
+33147;Daignac;33000;75;33
 33150;Dieulivol;33000;75;33
+33151;Donnezac;33000;75;33
+33153;Doulezon;33000;75;33
+33154;Les Églisottes-et-Chalaures;33302;75;33
+33156;Escoussans;33000;75;33
+33157;Espiet;33000;75;33
+33158;Les Esseintes;33000;75;33
+33159;Étauliers;33000;75;33
 33160;Eynesse;33000;75;33
+33161;Eyrans;33000;75;33
+33162;Eysines;33701;75;33
+33163;Faleyras;33000;75;33
+33164;Fargues;33303;75;33
+33165;Fargues-Saint-Hilaire;33701;75;33
+33166;Le Fieu;33000;75;33
+33167;Floirac;33701;75;33
 33168;Flaujagues;33000;75;33
+33169;Floudès;33000;75;33
+33170;Fontet;33000;75;33
 33171;Fossès-et-Baleyssac;33000;75;33
+33172;Fours;33301;75;33
 33173;Francs;33000;75;33
+33174;Fronsac;33000;75;33
+33175;Frontenac;33000;75;33
+33177;Gaillan-en-Médoc;33208;75;33
+33178;Gajac;33000;75;33
+33179;Galgon;33000;75;33
+33180;Gans;33000;75;33
+33181;Gardegan-et-Tourtirac;33000;75;33
+33182;Gauriac;33124;75;33
+33183;Gauriaguet;33210;75;33
+33184;Générac;33000;75;33
+33185;Génissac;33000;75;33
 33186;Gensac;33000;75;33
+33187;Gironde-sur-Dropt;33206;75;33
+33189;Gornac;33000;75;33
+33190;Goualade;33000;75;33
 33191;Gours;00354;75;33
+33192;Gradignan;33701;75;33
+33193;Grayan-et-l'Hôpital;33000;75;33
+33194;Grézillac;33000;75;33
+33195;Grignols;33000;75;33
+33196;Guillac;33000;75;33
+33197;Guillos;33000;75;33
+33198;Guîtres;33000;75;33
+33199;Gujan-Mestras;33501;75;33
+33200;Le Haillan;33701;75;33
+33201;Haux;33000;75;33
+33202;Hostens;33000;75;33
+33203;Hourtin;33103;75;33
+33205;Illats;33000;75;33
+33206;Isle-Saint-Georges;33000;75;33
+33207;Izon;33701;75;33
+33208;Jau-Dignac-et-Loirac;33000;75;33
+33209;Jugazan;33000;75;33
 33210;Juillac;33000;75;33
+33213;La Brède;33109;75;33
+33214;Lacanau;33000;75;33
+33215;Ladaux;33000;75;33
+33216;Lados;33000;75;33
+33218;Lagorce;33000;75;33
+33219;La Lande-de-Fronsac;33123;75;33
+33220;Lamarque;33000;75;33
 33221;Lamothe-Landerron;00455;75;33
+33222;Lalande-de-Pomerol;33401;75;33
 33223;Landerrouat;33000;75;33
+33224;Landerrouet-sur-Ségur;33000;75;33
+33225;Landiras;33000;75;33
+33226;Langoiran;33701;75;33
+33227;Langon;33303;75;33
+33228;Lansac;33000;75;33
+33229;Lanton;33305;75;33
+33230;Lapouyade;33000;75;33
+33231;Laroque;33000;75;33
+33233;Laruscade;33000;75;33
+33234;Latresne;33701;75;33
+33235;Lavazan;33000;75;33
+33236;Lège-Cap-Ferret;33209;75;33
+33237;Léogeats;33000;75;33
+33238;Léognan;33701;75;33
+33239;Lerm-et-Musset;33000;75;33
+33240;Lesparre-Médoc;33208;75;33
+33241;Lestiac-sur-Garonne;33701;75;33
 33242;Les Lèves-et-Thoumeyragues;33000;75;33
+33243;Libourne;33401;75;33
+33244;Lignan-de-Bazas;33000;75;33
+33245;Lignan-de-Bordeaux;33701;75;33
 33246;Ligueux;33000;75;33
 33247;Listrac-de-Durèze;33000;75;33
+33248;Listrac-Médoc;33000;75;33
+33249;Lormont;33701;75;33
+33250;Loubens;33000;75;33
+33252;Loupes;33000;75;33
+33253;Loupiac;33121;75;33
+33254;Loupiac-de-la-Réole;33000;75;33
+33256;Ludon-Médoc;33113;75;33
+33257;Lugaignac;33000;75;33
+33258;Lugasson;33000;75;33
+33259;Lugon-et-l'Île-du-Carnay;33000;75;33
+33260;Lugos;33000;75;33
+33261;Lussac;33000;75;33
+33262;Macau;33108;75;33
+33263;Madirac;33000;75;33
+33264;Maransin;33000;75;33
+33266;Marcenais;33000;75;33
+33268;Margaux-Cantenac;33116;75;33
 33269;Margueron;33000;75;33
+33270;Marimbault;33000;75;33
+33271;Marions;33000;75;33
+33272;Marsas;33210;75;33
+33273;Martignas-sur-Jalle;33701;75;33
+33274;Martillac;33701;75;33
 33277;Massugas;33000;75;33
+33278;Mauriac;33000;75;33
+33279;Mazères;33000;75;33
+33280;Mazion;33301;75;33
+33281;Mérignac;33701;75;33
+33282;Mérignas;33000;75;33
+33283;Mesterrieux;33000;75;33
+33284;Mios;33205;75;33
+33285;Mombrier;33000;75;33
 33287;Mongauzy;00455;75;33
+33288;Monprimblanc;33000;75;33
 33289;Monségur;33000;75;33
+33290;Montagne;33000;75;33
+33293;Montussan;33701;75;33
+33294;Morizès;33206;75;33
 33296;Mouliets-et-Villemartin;33000;75;33
+33297;Moulis-en-Médoc;33000;75;33
+33298;Moulon;33000;75;33
+33300;Naujac-sur-Mer;33000;75;33
+33301;Naujan-et-Postiac;33000;75;33
+33302;Néac;33000;75;33
+33303;Nérigean;33701;75;33
 33304;Neuffons;33000;75;33
+33306;Noaillac;33000;75;33
+33307;Noaillan;33000;75;33
+33308;Omet;33000;75;33
+33309;Ordonnac;33000;75;33
+33311;Paillet;33701;75;33
+33312;Parempuyre;33701;75;33
+33314;Pauillac;33201;75;33
+33315;Les Peintures;33302;75;33
 33316;Pellegrue;33000;75;33
+33317;Périssac;33000;75;33
+33318;Pessac;33701;75;33
 33319;Pessac-sur-Dordogne;33000;75;33
+33320;Petit-Palais-et-Cornemps;33000;75;33
+33321;Peujard;33000;75;33
+33322;Le Pian-Médoc;33701;75;33
+33323;Le Pian-sur-Garonne;33000;75;33
 33324;Pineuilh;00553;75;33
+33325;Plassac;33000;75;33
+33327;Podensac;33120;75;33
+33328;Pomerol;33401;75;33
+33330;Pompignac;33701;75;33
+33331;Pondaurat;33000;75;33
 33332;Porchères;00354;75;33
+33333;Le Porge;33000;75;33
+33334;Portets;33207;75;33
+33336;Préchac;33000;75;33
+33337;Preignac;33101;75;33
+33339;Prignac-et-Marcamps;33306;75;33
+33341;Pugnac;33000;75;33
+33342;Puisseguin;33000;75;33
+33343;Pujols-sur-Ciron;33000;75;33
+33344;Pujols;33000;75;33
 33345;Le Puy;33000;75;33
+33346;Puybarban;33000;75;33
 33347;Puynormand;33000;75;33
+33348;Queyrac;33000;75;33
+33349;Quinsac;33701;75;33
+33350;Rauzan;33000;75;33
+33351;Reignac;33000;75;33
+33352;La Réole;33206;75;33
+33353;Rimons;33000;75;33
 33354;Riocaud;33000;75;33
+33355;Rions;33000;75;33
+33356;La Rivière;33000;75;33
+33357;Roaillan;33000;75;33
+33358;Romagne;33000;75;33
 33359;Roquebrune;33000;75;33
+33361;Ruch;33000;75;33
+33362;Sablons;33000;75;33
+33363;Sadirac;33000;75;33
+33364;Saillans;33000;75;33
+33366;Saint-André-de-Cubzac;33306;75;33
 33369;Saint-André-et-Appelles;33000;75;33
+33370;Saint-Androny;33000;75;33
 33373;Saint-Antoine-sur-l'Isle;00354;75;33
+33374;Saint-Aubin-de-Blaye;33000;75;33
+33375;Saint-Aubin-de-Branne;33000;75;33
+33376;Saint-Aubin-de-Médoc;33701;75;33
 33377;Saint-Avit-de-Soulège;33000;75;33
 33378;Saint-Avit-Saint-Nazaire;00553;75;33
+33379;Saint-Brice;33000;75;33
+33380;Val-de-Livenne;33000;75;33
+33381;Saint-Caprais-de-Bordeaux;33701;75;33
+33382;Saint-Christoly-de-Blaye;33000;75;33
+33383;Saint-Christoly-Médoc;33000;75;33
+33384;Saint-Christophe-des-Bardes;33000;75;33
 33385;Saint-Christophe-de-Double;33000;75;33
+33386;Saint-Cibard;33000;75;33
+33387;Saint-Ciers-d'Abzac;33000;75;33
+33388;Saint-Ciers-de-Canesse;33000;75;33
+33389;Saint-Ciers-sur-Gironde;33107;75;33
+33390;Sainte-Colombe;33000;75;33
+33392;Sainte-Croix-du-Mont;33000;75;33
+33393;Saint-Denis-de-Pile;33401;75;33
+33394;Saint-Émilion;33401;75;33
+33395;Saint-Estèphe;33000;75;33
+33397;Sainte-Eulalie;33701;75;33
+33398;Saint-Exupéry;33000;75;33
 33400;Saint-Ferme;33000;75;33
 33402;Sainte-Foy-la-Grande;00553;75;33
+33403;Sainte-Foy-la-Longue;33000;75;33
 33404;Sainte-Gemme;33000;75;33
+33405;Saint-Genès-de-Blaye;33301;75;33
+33406;Saint-Genès-de-Castillon;33000;75;33
+33407;Saint-Genès-de-Fronsac;33000;75;33
+33408;Saint-Genès-de-Lombaud;33000;75;33
+33411;Saint-Germain-de-Grave;33000;75;33
+33412;Saint-Germain-d'Esteuil;33000;75;33
+33413;Saint-Germain-du-Puch;33000;75;33
+33414;Saint-Germain-de-la-Rivière;33000;75;33
+33415;Saint-Gervais;33306;75;33
+33416;Saint-Girons-d'Aiguevives;33000;75;33
+33417;Sainte-Hélène;33000;75;33
 33418;Saint-Hilaire-de-la-Noaille;33000;75;33
+33420;Saint-Hippolyte;33000;75;33
+33421;Saint-Jean-de-Blaignac;33000;75;33
+33422;Saint-Jean-d'Illac;33701;75;33
+33424;Saint-Laurent-Médoc;33110;75;33
+33425;Saint-Laurent-d'Arce;33306;75;33
+33426;Saint-Laurent-des-Combes;33000;75;33
+33427;Saint-Laurent-du-Bois;33000;75;33
+33428;Saint-Laurent-du-Plan;33000;75;33
+33429;Saint-Léger-de-Balson;33000;75;33
+33432;Saint-Loubert;33303;75;33
+33433;Saint-Loubès;33701;75;33
+33434;Saint-Louis-de-Montferrand;33000;75;33
+33435;Saint-Macaire;33117;75;33
+33436;Saint-Magne;33000;75;33
+33437;Saint-Magne-de-Castillon;00257;75;33
+33438;Saint-Maixant;33117;75;33
+33439;Saint-Mariens;33210;75;33
+33440;Saint-Martial;33000;75;33
+33441;Saint-Martin-Lacaussade;33301;75;33
+33442;Saint-Martin-de-Laye;33000;75;33
+33444;Saint-Martin-de-Sescas;33000;75;33
+33445;Saint-Martin-du-Bois;33000;75;33
+33446;Saint-Martin-du-Puy;33000;75;33
+33447;Saint-Médard-de-Guizières;33202;75;33
+33448;Saint-Médard-d'Eyrans;33701;75;33
+33449;Saint-Médard-en-Jalles;33701;75;33
+33450;Saint-Michel-de-Castelnau;33000;75;33
+33451;Saint-Michel-de-Fronsac;33000;75;33
+33452;Saint-Michel-de-Rieufret;33000;75;33
 33453;Saint-Michel-de-Lapujade;33000;75;33
+33454;Saint-Morillon;33000;75;33
+33456;Saint-Palais;33000;75;33
+33457;Saint-Pardon-de-Conques;33303;75;33
+33458;Saint-Paul;33000;75;33
+33460;Saint-Pey-de-Castets;33000;75;33
 33462;Saint-Philippe-du-Seignal;00553;75;33
+33463;Saint-Pierre-d'Aurillac;33000;75;33
+33464;Saint-Pierre-de-Bat;33000;75;33
+33465;Saint-Pierre-de-Mons;33303;75;33
+33466;Saint-Quentin-de-Baron;33701;75;33
 33467;Saint-Quentin-de-Caplong;33000;75;33
 33468;Sainte-Radegonde;33000;75;33
+33470;Saint-Romain-la-Virvée;33123;75;33
+33471;Saint-Sauveur;33000;75;33
+33472;Saint-Sauveur-de-Puynormand;33000;75;33
+33473;Saint-Savin;33119;75;33
+33474;Saint-Selve;33000;75;33
+33475;Saint-Seurin-de-Bourg;33124;75;33
+33476;Saint-Seurin-de-Cadourne;33000;75;33
+33477;Saint-Seurin-de-Cursac;33301;75;33
 33478;Saint-Seurin-sur-l'Isle;33202;75;33
+33480;Saint-Sulpice-de-Faleyrens;33401;75;33
+33482;Saint-Sulpice-de-Pommiers;33000;75;33
+33483;Saint-Sulpice-et-Cameyrac;33701;75;33
+33484;Saint-Symphorien;33000;75;33
+33485;Sainte-Terre;33000;75;33
+33486;Saint-Trojan;33000;75;33
+33487;Saint-Vincent-de-Paul;33701;75;33
+33489;Saint-Vivien-de-Blaye;33000;75;33
+33490;Saint-Vivien-de-Médoc;33000;75;33
 33491;Saint-Vivien-de-Monségur;33000;75;33
+33492;Saint-Yzan-de-Soudiac;33119;75;33
+33493;Saint-Yzans-de-Médoc;33000;75;33
+33494;Salaunes;33000;75;33
+33496;Salleboeuf;33701;75;33
+33498;Salles;33204;75;33
 33499;Les Salles-de-Castillon;33000;75;33
+33500;Samonac;33124;75;33
+33501;Saucats;33000;75;33
+33502;Saugon;33000;75;33
+33503;Saumos;33000;75;33
+33504;Sauternes;33000;75;33
+33505;La Sauve;33000;75;33
+33506;Sauveterre-de-Guyenne;33000;75;33
+33507;Sauviac;33000;75;33
+33508;Savignac;33000;75;33
+33509;Savignac-de-l'Isle;33000;75;33
+33510;Semens;33000;75;33
+33511;Sendets;33000;75;33
+33513;Sillas;33000;75;33
+33514;Soulac-sur-Mer;33104;75;33
+33515;Soulignac;33000;75;33
 33516;Soussac;33000;75;33
+33517;Soussans;33116;75;33
+33518;Tabanac;33701;75;33
+33519;Le Taillan-Médoc;33701;75;33
 33520;Taillecavat;33000;75;33
+33521;Talais;33000;75;33
+33522;Talence;33701;75;33
+33523;Targon;33000;75;33
+33525;Tauriac;33000;75;33
+33527;Le Teich;33501;75;33
+33528;Le Temple;33000;75;33
+33529;La Teste-de-Buch;33501;75;33
+33530;Teuillac;33000;75;33
+33532;Tizac-de-Lapouyade;33000;75;33
+33533;Toulenne;33303;75;33
+33534;Le Tourne;33701;75;33
+33535;Tresses;33701;75;33
+33536;Le Tuzan;33000;75;33
+33537;Uzeste;33000;75;33
+33538;Valeyrac;33000;75;33
+33539;Vayres;33701;75;33
+33540;Vendays-Montalivet;33000;75;33
+33541;Vensac;33000;75;33
+33542;Vérac;33000;75;33
+33543;Verdelais;33117;75;33
+33544;Le Verdon-sur-Mer;33000;75;33
+33545;Vertheuil;33000;75;33
+33546;Vignonet;33000;75;33
+33547;Villandraut;33000;75;33
+33548;Villegouge;33000;75;33
+33549;Villenave-de-Rions;33000;75;33
+33550;Villenave-d'Ornon;33701;75;33
+33551;Villeneuve;33000;75;33
+33552;Virelade;33120;75;33
+33553;Virsac;33306;75;33
+33554;Yvrac;33701;75;33
+33555;Marcheprime;33112;75;33
 34001;Abeilhan;34000;76;34
 34002;Adissan;34000;76;34
 34003;Agde;34401;76;34
@@ -7550,6 +9334,309 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 34342;Viols-en-Laval;34000;76;34
 34343;Viols-le-Fort;34000;76;34
 34344;La Grande-Motte;00362;76;34
+35001;Acigné;35206;53;35
+35003;Andouillé-Neuville;35000;53;35
+35004;Val-Couesnon;35000;53;35
+35006;Argentré-du-Plessis;35126;53;35
+35007;Aubigné;35000;53;35
+35008;Availles-sur-Seiche;35000;53;35
+35009;Baguer-Morvan;35000;53;35
+35010;Baguer-Pican;35000;53;35
+35012;Bain-de-Bretagne;35212;53;35
+35013;Bains-sur-Oust;35000;53;35
+35014;Bais;35000;53;35
+35015;Balazé;35000;53;35
+35016;Baulon;35000;53;35
+35018;La Bazouge-du-Désert;35000;53;35
+35019;Bazouges-la-Pérouse;35000;53;35
+35021;Beaucé;35401;53;35
+35022;Bécherel;35000;53;35
+35023;Bédée;35209;53;35
+35024;Betton;35301;53;35
+35025;Billé;35000;53;35
+35027;Boisgervilly;35000;53;35
+35029;Bonnemain;35000;53;35
+35030;La Bosse-de-Bretagne;35000;53;35
+35031;La Bouëxière;35125;53;35
+35032;Bourgbarré;35109;53;35
+35033;Bourg-des-Comptes;35000;53;35
+35034;La Boussac;35000;53;35
+35035;Bovel;35000;53;35
+35037;Bréal-sous-Montfort;35130;53;35
+35038;Bréal-sous-Vitré;35000;53;35
+35039;Brécé;35000;53;35
+35040;Breteil;35113;53;35
+35041;Brie;35000;53;35
+35042;Brielles;35000;53;35
+35044;Broualan;35000;53;35
+35045;Bruc-sur-Aff;35000;53;35
+35047;Bruz;35701;53;35
+35049;Cancale;35203;53;35
+35051;Cesson-Sévigné;35701;53;35
+35052;Champeaux;35000;53;35
+35054;Chanteloup;35000;53;35
+35055;Chantepie;35701;53;35
+35056;La Chapelle-aux-Filtzméens;35000;53;35
+35057;La Chapelle-Bouëxic;35000;53;35
+35058;La Chapelle-Chaussée;35000;53;35
+35059;La Chapelle-des-Fougeretz;35118;53;35
+35060;La Chapelle du Lou du Lac;35000;53;35
+35061;La Chapelle-Erbrée;35000;53;35
+35062;La Chapelle-Janson;35000;53;35
+35063;La Chapelle-Saint-Aubert;35000;53;35
+35064;La Chapelle-de-Brain;35000;53;35
+35065;La Chapelle-Thouarault;35303;53;35
+35066;Chartres-de-Bretagne;35701;53;35
+35067;Chasné-sur-Illet;35000;53;35
+35068;Châteaubourg;35214;53;35
+35069;Châteaugiron;35306;53;35
+35070;Châteauneuf-d'Ille-et-Vilaine;35000;53;35
+35071;Le Châtellier;35000;53;35
+35072;Châtillon-en-Vendelais;35000;53;35
+35075;Chauvigné;35000;53;35
+35076;Chavagne;35122;53;35
+35077;Chelun;35000;53;35
+35078;Cherrueix;35000;53;35
+35079;Chevaigné;35301;53;35
+35080;Cintré;35000;53;35
+35081;Clayes;35000;53;35
+35082;Coësmes;35000;53;35
+35084;Comblessac;35000;53;35
+35085;Combourg;35205;53;35
+35086;Combourtillé;35000;53;35
+35087;Cornillé;35000;53;35
+35088;Corps-Nuds;35107;53;35
+35089;La Couyère;35000;53;35
+35090;Crevin;35103;53;35
+35091;Le Crouais;35000;53;35
+35092;Cuguen;35000;53;35
+35093;Dinard;00458;53;35
+35094;Dingé;35000;53;35
+35095;Dol-de-Bretagne;35131;53;35
+35096;Domagné;35000;53;35
+35097;Domalain;35000;53;35
+35098;La Dominelais;35000;53;35
+35099;Domloup;35306;53;35
+35101;Dourdain;35000;53;35
+35102;Drouges;35000;53;35
+35104;Epiniac;35000;53;35
+35105;Erbrée;35000;53;35
+35106;Ercé-en-Lamée;35000;53;35
+35107;Ercé-près-Liffré;35000;53;35
+35108;Essé;35000;53;35
+35109;Étrelles;35000;53;35
+35110;Feins;35000;53;35
+35111;Le Ferré;35000;53;35
+35112;Fleurigné;35000;53;35
+35114;Forges-la-Forêt;35000;53;35
+35115;Fougères;35401;53;35
+35116;La Fresnais;35101;53;35
+35117;Gaël;35000;53;35
+35118;Gahard;35000;53;35
+35120;Gévezé;35119;53;35
+35121;Gosné;35000;53;35
+35122;La Gouesnière;35000;53;35
+35123;Goven;35123;53;35
+35124;Grand-Fougeray;35000;53;35
+35125;La Guerche-de-Bretagne;35204;53;35
+35126;Guichen;35213;53;35
+35127;Guignen;35000;53;35
+35128;Guipel;35000;53;35
+35130;Hédé-Bazouges;35000;53;35
+35131;L'Hermitage;35303;53;35
+35132;Hirel;35102;53;35
+35133;Iffendic;35000;53;35
+35135;Irodouër;35000;53;35
+35136;Janzé;35215;53;35
+35137;Javené;35401;53;35
+35138;Laignelet;35000;53;35
+35139;Laillé;35128;53;35
+35140;Lalleu;35000;53;35
+35141;Landavran;35000;53;35
+35142;Landéan;35000;53;35
+35143;Landujan;35000;53;35
+35144;Langan;35000;53;35
+35145;Langon;35000;53;35
+35146;Langouet;35000;53;35
+35149;Lassy;35000;53;35
+35150;Lécousse;35401;53;35
+35151;Lieuron;35000;53;35
+35152;Liffré;35210;53;35
+35154;Livré-sur-Changeon;35000;53;35
+35155;Lohéac;35000;53;35
+35156;Longaulnay;35000;53;35
+35157;Le Loroux;35000;53;35
+35160;Loutehel;35000;53;35
+35161;Louvigné-de-Bais;35000;53;35
+35162;Louvigné-du-Désert;35124;53;35
+35163;Luitré-Dompierre;35000;53;35
+35164;Marcillé-Raoul;35000;53;35
+35165;Marcillé-Robert;35000;53;35
+35166;Marpiré;35000;53;35
+35167;Martigné-Ferchaud;35000;53;35
+35168;Val d'Anast;35000;53;35
+35169;Maxent;35000;53;35
+35170;Mecé;35000;53;35
+35171;Médréac;35000;53;35
+35172;Meillac;35000;53;35
+35173;Melesse;35701;53;35
+35174;Mellé;35000;53;35
+35175;Mernel;35000;53;35
+35176;Guipry-Messac;35207;53;35
+35177;La Mézière;35127;53;35
+35178;Mézières-sur-Couesnon;35000;53;35
+35179;Miniac-Morvan;35000;53;35
+35180;Miniac-sous-Bécherel;35000;53;35
+35181;Le Minihic-sur-Rance;35000;53;35
+35184;Montauban-de-Bretagne;35217;53;35
+35185;Montautour;35000;53;35
+35186;Mont-Dol;35000;53;35
+35187;Monterfil;35000;53;35
+35188;Montfort-sur-Meu;35208;53;35
+35189;Montgermont;35701;53;35
+35191;Les Portes du Coglais;35000;53;35
+35193;Montreuil-le-Gast;35000;53;35
+35194;Montreuil-sous-Pérouse;35000;53;35
+35195;Montreuil-sur-Ille;35000;53;35
+35196;Mordelles;35211;53;35
+35197;Mouazé;35000;53;35
+35198;Moulins;35000;53;35
+35201;Muel;35000;53;35
+35202;La Noë-Blanche;35000;53;35
+35204;Nouvoitou;35000;53;35
+35206;Noyal-Châtillon-sur-Seiche;35701;53;35
+35207;Noyal-sur-Vilaine;35132;53;35
+35208;Orgères;35120;53;35
+35210;Pacé;35701;53;35
+35211;Paimpont;35000;53;35
+35212;Pancé;35000;53;35
+35214;Parcé;35000;53;35
+35215;Parigné;35000;53;35
+35216;Parthenay-de-Bretagne;35000;53;35
+35217;Le Pertre;35000;53;35
+35218;Le Petit-Fougeray;35000;53;35
+35219;Pipriac;35000;53;35
+35220;Piré-Chancé;35000;53;35
+35221;Pléchâtel;35000;53;35
+35222;Pleine-Fougères;35000;53;35
+35223;Plélan-le-Grand;35116;53;35
+35224;Plerguer;35000;53;35
+35225;Plesder;35000;53;35
+35226;Pleugueneuc;35000;53;35
+35227;Pleumeleuc;35209;53;35
+35228;Pleurtuit;00458;53;35
+35229;Pocé-les-Bois;35000;53;35
+35230;Poilley;35000;53;35
+35231;Poligné;35000;53;35
+35232;Princé;35000;53;35
+35233;Québriac;35000;53;35
+35234;Quédillac;35000;53;35
+35235;Rannée;35204;53;35
+35236;Redon;00452;53;35
+35237;Renac;35000;53;35
+35238;Rennes;35701;53;35
+35239;Retiers;35201;53;35
+35240;Le Rheu;35303;53;35
+35241;La Richardais;00458;53;35
+35242;Rimou;35000;53;35
+35243;Romagné;35111;53;35
+35244;Romazy;35000;53;35
+35245;Romillé;35112;53;35
+35246;Roz-Landrieux;35000;53;35
+35247;Roz-sur-Couesnon;35000;53;35
+35249;Sainte-Anne-sur-Vilaine;35000;53;35
+35250;Saint-Armel;35000;53;35
+35251;Saint-Aubin-d'Aubigné;35108;53;35
+35252;Saint-Aubin-des-Landes;35000;53;35
+35253;Saint-Aubin-du-Cormier;35121;53;35
+35255;Saint-Benoît-des-Ondes;35102;53;35
+35256;Saint-Briac-sur-Mer;00458;53;35
+35257;Maen Roch;35106;53;35
+35258;Saint-Brieuc-des-Iffs;35000;53;35
+35259;Saint-Broladre;35000;53;35
+35260;Saint-Christophe-des-Bois;35000;53;35
+35263;Saint-Coulomb;35000;53;35
+35264;Saint-Didier;35214;53;35
+35265;Saint-Domineuc;35000;53;35
+35266;Saint-Erblon;35104;53;35
+35268;Saint-Ganton;35000;53;35
+35271;Saint-Georges-de-Reintembault;35000;53;35
+35272;Saint-Germain-du-Pinel;35000;53;35
+35273;Saint-Germain-en-Coglès;35000;53;35
+35274;Saint-Germain-sur-Ille;35000;53;35
+35275;Saint-Gilles;35117;53;35
+35276;Saint-Gondran;35000;53;35
+35278;Saint-Grégoire;35701;53;35
+35279;Saint-Guinoux;35000;53;35
+35280;Saint-Hilaire-des-Landes;35000;53;35
+35281;Saint-Jacques-de-la-Lande;35701;53;35
+35282;Rives-du-Couesnon;35000;53;35
+35283;Saint-Jean-sur-Vilaine;35000;53;35
+35284;Saint-Jouan-des-Guérets;35105;53;35
+35285;Saint-Just;35000;53;35
+35286;Saint-Léger-des-Prés;35000;53;35
+35287;Saint-Lunaire;00458;53;35
+35288;Saint-Malo;35402;53;35
+35289;Saint-Malo-de-Phily;35000;53;35
+35290;Saint-Malon-sur-Mel;35000;53;35
+35291;Saint-Marcan;35000;53;35
+35292;Saint-Marc-le-Blanc;35000;53;35
+35294;Sainte-Marie;35000;53;35
+35295;Saint-Maugan;35000;53;35
+35296;Saint-Médard-sur-Ille;35000;53;35
+35297;Saint-Méen-le-Grand;35202;53;35
+35299;Saint-Méloir-des-Ondes;35115;53;35
+35302;Saint-Onen-la-Chapelle;35202;53;35
+35304;Saint-Ouen-des-Alleux;35000;53;35
+35305;Saint-Péran;35000;53;35
+35306;Saint-Père-Marc-en-Poulet;35000;53;35
+35307;Saint-Pern;35000;53;35
+35308;Mesnil-Roc'h;35000;53;35
+35309;Saint-Rémy-du-Plain;35000;53;35
+35310;Saint-Sauveur-des-Landes;35111;53;35
+35311;Saint-Séglin;35000;53;35
+35312;Saint-Senoux;35000;53;35
+35314;Saint-Suliac;35000;53;35
+35315;Saint-Sulpice-la-Forêt;35000;53;35
+35316;Saint-Sulpice-des-Landes;35000;53;35
+35317;Saint-Symphorien;35000;53;35
+35318;Saint-Thual;35000;53;35
+35319;Saint-Thurial;35000;53;35
+35321;Saulnières;35000;53;35
+35322;Le Sel-de-Bretagne;35000;53;35
+35324;La Selle-en-Luitré;35000;53;35
+35325;La Selle-Guerchaise;35000;53;35
+35326;Sens-de-Bretagne;35000;53;35
+35327;Servon-sur-Vilaine;35114;53;35
+35328;Sixt-sur-Aff;35000;53;35
+35329;Sougéal;35000;53;35
+35330;Taillis;35000;53;35
+35331;Talensac;35000;53;35
+35332;Teillay;35000;53;35
+35333;Le Theil-de-Bretagne;35201;53;35
+35334;Thorigné-Fouillard;35701;53;35
+35335;Thourie;35000;53;35
+35336;Le Tiercent;35000;53;35
+35337;Tinténiac;35110;53;35
+35338;Torcé;35000;53;35
+35339;Trans-la-Forêt;35000;53;35
+35340;Treffendel;35000;53;35
+35342;Trémeheuc;35000;53;35
+35343;Tresboeuf;35000;53;35
+35345;Trévérien;35000;53;35
+35347;Val-d'Izé;35000;53;35
+35350;Vergéal;35000;53;35
+35352;Vern-sur-Seiche;35216;53;35
+35353;Vezin-le-Coquet;35303;53;35
+35354;Vieux-Viel;35000;53;35
+35355;Vieux-Vy-sur-Couesnon;35000;53;35
+35356;Vignoc;35000;53;35
+35358;La Ville-ès-Nonais;35000;53;35
+35359;Visseiche;35000;53;35
+35360;Vitré;35302;53;35
+35361;Le Vivier-sur-Mer;35000;53;35
+35362;Le Tronchet;35000;53;35
+35363;Pont-Péan;35701;53;35
 36001;Aigurande;36000;24;36
 36003;Ambrault;36000;24;36
 36005;Ardentes;36108;24;36
@@ -8586,8 +10673,278 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 39574;Villevieux;39000;27;39
 39579;Viry;39000;27;39
 39581;Vitreux;39000;27;39
+40001;Aire-sur-l'Adour;00263;75;40
+40002;Amou;40000;75;40
+40003;Angoumé;40000;75;40
+40004;Angresse;40000;75;40
+40006;Arengosse;40000;75;40
+40008;Argelouse;40000;75;40
+40012;Artassenx;40000;75;40
+40016;Aubagnan;40000;75;40
+40017;Audignon;40000;75;40
+40018;Audon;40000;75;40
+40019;Aureilhan;40000;75;40
+40020;Aurice;40000;75;40
+40021;Azur;40000;75;40
+40022;Bahus-Soubiran;40000;75;40
+40023;Baigts;40000;75;40
+40025;Bascons;40000;75;40
+40026;Bas-Mauco;40000;75;40
+40029;Bats;40000;75;40
+40031;Bégaar;40000;75;40
+40032;Belhade;40000;75;40
+40033;Bélis;40000;75;40
+40034;Bélus;40000;75;40
+40035;Bénesse-lès-Dax;40202;75;40
+40036;Bénesse-Maremne;40000;75;40
+40037;Benquet;40000;75;40
+40038;Bergouey;40000;75;40
+40039;Betbezer-d'Armagnac;40000;75;40
+40040;Beylongue;40000;75;40
+40042;Biarrotte;40000;75;40
+40043;Bias;40000;75;40
+40044;Biaudos;40000;75;40
+40046;Biscarrosse;40302;75;40
+40047;Bonnegarde;40000;75;40
+40049;Bordères-et-Lamensans;40000;75;40
+40050;Bostens;40000;75;40
+40051;Bougue;40000;75;40
+40052;Bourdalat;40000;75;40
+40053;Bourriot-Bergonce;40000;75;40
+40054;Brassempouy;40000;75;40
+40055;Bretagne-de-Marsan;40000;75;40
+40056;Brocas;40000;75;40
+40057;Buanes;40000;75;40
+40058;Cachen;40000;75;40
+40059;Cagnotte;40000;75;40
+40060;Callen;40000;75;40
+40061;Campagne;40000;75;40
+40062;Campet-et-Lamolère;40000;75;40
+40063;Candresse;40402;75;40
+40064;Canenx-et-Réaut;40000;75;40
+40065;Capbreton;40301;75;40
+40066;Carcarès-Sainte-Croix;40104;75;40
+40067;Carcen-Ponson;40000;75;40
+40068;Cassen;40000;75;40
+40071;Castelnau-Chalosse;40000;75;40
+40072;Castelnau-Tursan;40000;75;40
+40074;Castel-Sarrazin;40000;75;40
+40075;Castets;40000;75;40
+40076;Cauna;40000;75;40
+40077;Cauneille;40204;75;40
+40078;Caupenne;40000;75;40
+40080;Cazères-sur-l'Adour;40000;75;40
+40081;Cère;40000;75;40
+40082;Classun;40000;75;40
+40083;Clèdes;40000;75;40
+40084;Clermont;40000;75;40
+40085;Commensacq;40000;75;40
+40086;Coudures;40000;75;40
+40087;Créon-d'Armagnac;40000;75;40
+40088;Dax;40402;75;40
+40089;Doazit;40000;75;40
+40090;Donzacq;40000;75;40
+40091;Duhort-Bachen;40000;75;40
+40092;Dumes;40000;75;40
+40094;Escource;40000;75;40
+40095;Estibeaux;40000;75;40
+40096;Estigarde;40000;75;40
+40097;Eugénie-les-Bains;40000;75;40
+40098;Eyres-Moncube;40000;75;40
+40099;Fargues;40000;75;40
+40100;Le Frêche;40000;75;40
+40101;Gaas;40202;75;40
 40102;Gabarret;40000;75;40
+40103;Gaillères;40000;75;40
+40104;Gamarde-les-Bains;40000;75;40
+40105;Garein;40000;75;40
+40106;Garrey;40000;75;40
+40108;Gastes;40000;75;40
+40109;Gaujacq;40000;75;40
+40110;Geaune;40000;75;40
+40111;Geloux;40000;75;40
+40112;Gibret;40000;75;40
+40113;Goos;40000;75;40
+40114;Gourbera;40000;75;40
+40115;Gousse;40000;75;40
+40116;Gouts;40000;75;40
+40117;Grenade-sur-l'Adour;40103;75;40
+40118;Habas;40000;75;40
+40119;Hagetmau;40201;75;40
+40120;Hastingues;40000;75;40
+40122;Haut-Mauco;40000;75;40
+40123;Herm;40000;75;40
+40124;Herré;40000;75;40
+40125;Heugas;40000;75;40
+40126;Hinx;40402;75;40
+40127;Hontanx;40000;75;40
+40128;Horsarrieu;40201;75;40
+40129;Josse;40000;75;40
+40131;Labastide-d'Armagnac;40000;75;40
+40132;Labatut;40000;75;40
+40133;Labenne;40106;75;40
+40134;Labouheyre;40101;75;40
+40135;Labrit;40000;75;40
+40137;Lacquy;40000;75;40
+40139;Laglorieuse;40000;75;40
+40140;Lagrange;40000;75;40
+40142;Laluque;40000;75;40
+40143;Lamothe;40000;75;40
+40144;Larbey;40000;75;40
+40145;Larrivière-Saint-Savin;40103;75;40
+40146;Latrille;40000;75;40
+40147;Laurède;40000;75;40
+40149;Lencouacq;40000;75;40
+40150;Léon;40000;75;40
+40151;Lesgor;40000;75;40
+40152;Lesperon;40000;75;40
+40154;Lévignacq;40000;75;40
+40155;Linxe;40000;75;40
+40156;Liposthey;40000;75;40
+40157;Lit-et-Mixe;40000;75;40
+40159;Louer;40000;75;40
+40160;Lourquen;40000;75;40
+40162;Lucbardez-et-Bargues;40000;75;40
+40163;Lüe;40000;75;40
+40165;Luglon;40000;75;40
+40167;Luxey;40000;75;40
+40168;Magescq;40000;75;40
+40170;Maillères;40000;75;40
+40171;Mano;40000;75;40
+40172;Mant;40000;75;40
+40175;Maurrin;40000;75;40
+40178;Mazerolles;40000;75;40
+40179;Mées;40000;75;40
+40180;Meilhan;40000;75;40
+40181;Messanges;40000;75;40
+40182;Mézos;40000;75;40
+40183;Mimbaste;40000;75;40
+40184;Mimizan;40203;75;40
+40185;Miramont-Sensacq;40000;75;40
+40186;Misson;40202;75;40
+40187;Moliets-et-Maa;40000;75;40
+40188;Momuy;40000;75;40
+40191;Montaut;40000;75;40
+40192;Mont-de-Marsan;40401;75;40
+40194;Montfort-en-Chalosse;40000;75;40
+40195;Montgaillard;40000;75;40
+40196;Montsoué;40000;75;40
+40197;Morcenx-la-Nouvelle;40206;75;40
+40200;Moustey;40000;75;40
+40201;Mugron;40000;75;40
+40202;Narrosse;40402;75;40
+40203;Nassiet;40000;75;40
+40204;Nerbis;40000;75;40
+40206;Oeyregave;40204;75;40
+40207;Oeyreluy;40402;75;40
+40208;Onard;40000;75;40
+40209;Ondres;40105;75;40
+40210;Onesse-Laharie;40000;75;40
+40211;Orist;40000;75;40
+40212;Orthevielle;40204;75;40
+40213;Orx;40000;75;40
+40214;Ossages;40000;75;40
+40215;Ousse-Suzan;40000;75;40
+40216;Ozourt;40000;75;40
+40217;Parentis-en-Born;40109;75;40
 40218;Parleboscq;40000;75;40
+40222;Pey;40000;75;40
+40223;Peyre;40000;75;40
+40224;Peyrehorade;40204;75;40
+40227;Pissos;40000;75;40
+40228;Pomarez;40000;75;40
+40229;Pontenx-les-Forges;40000;75;40
+40230;Pontonx-sur-l'Adour;40000;75;40
+40231;Port-de-Lanne;40204;75;40
+40232;Poudenx;40000;75;40
+40233;Pouillon;40202;75;40
+40235;Poyanne;40000;75;40
+40236;Poyartin;40000;75;40
+40237;Préchacq-les-Bains;40000;75;40
+40238;Pujo-le-Plan;40000;75;40
+40240;Renung;40000;75;40
+40243;Rion-des-Landes;40000;75;40
+40244;Rivière-Saas-et-Gourby;40000;75;40
+40245;Roquefort;40102;75;40
+40246;Sabres;40000;75;40
+40247;Saint-Agnet;40000;75;40
+40248;Saint-André-de-Seignanx;00751;75;40
+40250;Saint-Avit;40000;75;40
+40251;Saint-Barthélemy;40000;75;40
+40252;Sainte-Colombe;40000;75;40
+40253;Saint-Cricq-Chalosse;40000;75;40
+40254;Saint-Cricq-du-Gave;40000;75;40
+40255;Saint-Cricq-Villeneuve;40000;75;40
+40256;Saint-Étienne-d'Orthe;40204;75;40
+40257;Sainte-Eulalie-en-Born;40000;75;40
+40258;Sainte-Foy;40000;75;40
+40259;Saint-Gein;40000;75;40
+40260;Saint-Geours-d'Auribat;40000;75;40
+40261;Saint-Geours-de-Maremne;40000;75;40
+40262;Saint-Gor;40000;75;40
+40264;Saint-Jean-de-Marsacq;40000;75;40
+40266;Saint-Julien-en-Born;40000;75;40
+40267;Saint-Justin;40000;75;40
+40268;Saint-Laurent-de-Gosse;40000;75;40
+40269;Saint-Lon-les-Mines;40000;75;40
+40270;Saint-Loubouer;40000;75;40
+40271;Sainte-Marie-de-Gosse;40000;75;40
+40272;Saint-Martin-de-Hinx;40000;75;40
+40273;Saint-Martin-de-Seignanx;00751;75;40
+40274;Saint-Martin-d'Oney;40000;75;40
+40276;Saint-Michel-Escalus;40000;75;40
+40277;Saint-Pandelon;40202;75;40
+40278;Saint-Paul-en-Born;40000;75;40
+40279;Saint-Paul-lès-Dax;40402;75;40
+40280;Saint-Perdon;40000;75;40
+40281;Saint-Pierre-du-Mont;40401;75;40
+40282;Saint-Sever;40108;75;40
+40283;Saint-Vincent-de-Paul;40402;75;40
+40284;Saint-Vincent-de-Tyrosse;40303;75;40
+40285;Saint-Yaguen;40000;75;40
+40286;Samadet;40000;75;40
+40287;Sanguinet;40000;75;40
+40288;Sarbazan;40102;75;40
+40290;Sarron;40000;75;40
+40291;Saubion;40303;75;40
+40292;Saubrigues;40000;75;40
+40293;Saubusse;40000;75;40
+40294;Saugnac-et-Cambran;40402;75;40
+40295;Saugnacq-et-Muret;40000;75;40
+40296;Seignosse;40303;75;40
+40298;Serres-Gaston;40000;75;40
+40300;Seyresse;40402;75;40
+40301;Siest;40000;75;40
+40303;Solférino;40000;75;40
+40304;Soorts-Hossegor;40301;75;40
+40306;Sorde-l'Abbaye;40000;75;40
+40307;Sore;40000;75;40
+40308;Sort-en-Chalosse;40402;75;40
+40309;Souprosse;40000;75;40
+40310;Soustons;40205;75;40
+40311;Taller;40000;75;40
+40312;Tarnos;00751;75;40
+40313;Tartas;40104;75;40
+40314;Tercis-les-Bains;40402;75;40
+40315;Téthieu;40402;75;40
+40316;Tilh;40000;75;40
+40317;Tosse;40303;75;40
+40318;Toulouzette;40000;75;40
+40319;Trensacq;40000;75;40
+40320;Uchacq-et-Parentis;40000;75;40
+40321;Urgons;40000;75;40
+40322;Uza;40000;75;40
+40324;Vicq-d'Auribat;40000;75;40
+40325;Vielle-Tursan;40000;75;40
+40326;Vielle-Saint-Girons;40000;75;40
+40327;Vielle-Soubiran;40000;75;40
+40328;Vieux-Boucau-les-Bains;40000;75;40
+40329;Le Vignau;40000;75;40
+40330;Villenave;40000;75;40
+40331;Villeneuve-de-Marsan;40000;75;40
+40332;Ychoux;40000;75;40
+40333;Ygos-Saint-Saturnin;40000;75;40
+40334;Yzosse;40402;75;40
 41001;Ambloy;41000;24;41
 41002;Angé;41204;24;41
 41003;Areines;41401;24;41
@@ -9241,6 +11598,213 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 43265;Les Villettes;43000;84;43
 43267;Vorey;43000;84;43
 43268;Yssingeaux;43201;84;43
+44001;Abbaretz;44000;52;44
+44002;Aigrefeuille-sur-Maine;44104;52;44
+44003;Ancenis-Saint-Géréon;44301;52;44
+44005;Chaumes-en-Retz;44216;52;44
+44006;Assérac;44000;52;44
+44007;Avessac;44000;52;44
+44009;Basse-Goulaine;44701;52;44
+44010;Batz-sur-Mer;44601;52;44
+44012;La Bernerie-en-Retz;44304;52;44
+44013;Besné;44000;52;44
+44014;Le Bignon;44000;52;44
+44015;Blain;44213;52;44
+44016;La Boissière-du-Doré;44000;52;44
+44018;Bouaye;44701;52;44
+44019;Bouée;44000;52;44
+44020;Bouguenais;44701;52;44
+44021;Villeneuve-en-Retz;44000;52;44
+44022;Boussay;44102;52;44
+44023;Bouvron;44000;52;44
+44024;Brains;44000;52;44
+44025;Campbon;44000;52;44
+44026;Carquefou;44701;52;44
+44027;Casson;44000;52;44
+44028;Le Cellier;44000;52;44
+44029;Divatte-sur-Loire;44218;52;44
+44030;La Chapelle-des-Marais;44108;52;44
+44031;La Chapelle-Glain;44000;52;44
+44032;La Chapelle-Heulin;44000;52;44
+44033;La Chapelle-Launay;44215;52;44
+44035;La Chapelle-sur-Erdre;44701;52;44
+44036;Châteaubriant;44302;52;44
+44037;Château-Thébaud;44000;52;44
+44038;Chauvé;44000;52;44
+44039;Cheix-en-Retz;44000;52;44
+44041;La Chevrolière;44123;52;44
+44043;Clisson;00365;52;44
+44044;Conquereuil;44000;52;44
+44045;Cordemais;44000;52;44
+44046;Corsept;44000;52;44
+44047;Couëron;44701;52;44
+44048;Couffé;44000;52;44
+44049;Le Croisic;44601;52;44
+44050;Crossac;44000;52;44
+44051;Derval;44000;52;44
+44052;Donges;44601;52;44
+44053;Drefféac;44000;52;44
+44054;Erbray;44000;52;44
+44055;La Baule-Escoublac;44601;52;44
+44056;Fay-de-Bretagne;44000;52;44
+44057;Fégréac;44000;52;44
+44058;Fercé;44000;52;44
+44061;Frossay;44000;52;44
+44062;Le Gâvre;44000;52;44
+44063;Gétigné;00365;52;44
+44064;Gorges;00365;52;44
+44065;Grand-Auverné;44000;52;44
+44066;Grandchamps-des-Fontaines;44118;52;44
+44067;Guémené-Penfao;44122;52;44
+44068;Guenrouet;44000;52;44
+44069;Guérande;44601;52;44
+44070;La Haie-Fouassière;44116;52;44
+44071;Haute-Goulaine;44701;52;44
+44072;Herbignac;44201;52;44
+44073;Héric;44121;52;44
+44074;Indre;44701;52;44
+44075;Issé;44000;52;44
+44076;Jans;44000;52;44
+44077;Joué-sur-Erdre;44000;52;44
+44078;Juigné-des-Moutiers;44000;52;44
+44079;Le Landreau;44000;52;44
+44080;Lavau-sur-Loire;44000;52;44
+44081;Legé;44114;52;44
+44082;Ligné;44113;52;44
+44083;La Limouzinière;44000;52;44
+44084;Le Loroux-Bottereau;44303;52;44
+44085;Louisfert;44000;52;44
+44086;Lusanger;44000;52;44
+44087;Machecoul-Saint-Même;44202;52;44
+44088;Maisdon-sur-Sèvre;44000;52;44
+44089;Malville;44000;52;44
+44090;La Marne;44000;52;44
+44091;Marsac-sur-Don;44000;52;44
+44092;Massérac;44000;52;44
+44094;Mauves-sur-Loire;44105;52;44
+44095;La Meilleraye-de-Bretagne;44000;52;44
+44096;Mésanger;44000;52;44
+44097;Mesquer;44000;52;44
+44098;Missillac;44119;52;44
+44099;Moisdon-la-Rivière;44000;52;44
+44100;Monnières;44000;52;44
+44101;La Montagne;44701;52;44
+44102;Montbert;44204;52;44
+44103;Montoir-de-Bretagne;44601;52;44
+44104;Montrelais;44000;52;44
+44105;Mouais;44000;52;44
+44106;Les Moutiers-en-Retz;44304;52;44
+44107;Mouzeil;44000;52;44
+44108;Mouzillon;44000;52;44
+44109;Nantes;44701;52;44
+44110;Nort-sur-Erdre;44209;52;44
+44111;Notre-Dame-des-Landes;44000;52;44
+44112;Noyal-sur-Brutz;44000;52;44
+44113;Nozay;44110;52;44
+44114;Orvault;44701;52;44
+44115;Oudon;44000;52;44
+44116;Paimboeuf;44106;52;44
+44117;Le Pallet;44103;52;44
+44118;Pannecé;44000;52;44
+44119;Paulx;44000;52;44
+44120;Le Pellerin;44117;52;44
+44121;Petit-Auverné;44000;52;44
+44122;Petit-Mars;44109;52;44
+44123;Pierric;44000;52;44
+44124;Le Pin;44000;52;44
+44125;Piriac-sur-Mer;44206;52;44
+44126;La Plaine-sur-Mer;44401;52;44
+44127;La Planche;44000;52;44
+44128;Plessé;44000;52;44
+44129;Pontchâteau;44214;52;44
+44130;Pont-Saint-Martin;44701;52;44
+44131;Pornic;44304;52;44
+44132;Pornichet;44601;52;44
+44133;Port-Saint-Père;44701;52;44
+44134;Pouillé-les-Côteaux;44000;52;44
+44135;Le Pouliguen;44601;52;44
+44136;Préfailles;44401;52;44
+44137;Prinquiau;44000;52;44
+44138;Puceul;44000;52;44
+44139;Quilly;44000;52;44
+44140;La Regrippière;44000;52;44
+44141;La Remaudière;44000;52;44
+44142;Remouillé;44000;52;44
+44143;Rezé;44701;52;44
+44144;Riaillé;44000;52;44
+44145;Rouans;44000;52;44
+44146;Rougé;44000;52;44
+44148;Ruffigné;44000;52;44
+44149;Saffré;44000;52;44
+44150;Saint-Aignan-Grandlieu;44701;52;44
+44151;Saint-André-des-Eaux;44601;52;44
+44152;Sainte-Anne-sur-Brivet;44000;52;44
+44153;Saint-Aubin-des-Châteaux;44000;52;44
+44154;Saint-Brevin-les-Pins;44401;52;44
+44155;Saint-Colomban;44000;52;44
+44156;Corcoué-sur-Logne;44000;52;44
+44157;Saint-Étienne-de-Mer-Morte;44000;52;44
+44158;Saint-Étienne-de-Montluc;44205;52;44
+44159;Saint-Fiacre-sur-Maine;44000;52;44
+44161;Saint-Gildas-des-Bois;44107;52;44
+44162;Saint-Herblain;44701;52;44
+44163;Vair-sur-Loire;44000;52;44
+44164;Saint-Hilaire-de-Chaléons;44000;52;44
+44165;Saint-Hilaire-de-Clisson;44000;52;44
+44166;Saint-Jean-de-Boiseau;44701;52;44
+44168;Saint-Joachim;44207;52;44
+44169;Saint-Julien-de-Concelles;44303;52;44
+44170;Saint-Julien-de-Vouvantes;44000;52;44
+44171;Saint-Léger-les-Vignes;44701;52;44
+44172;Sainte-Luce-sur-Loire;44701;52;44
+44173;Saint-Lumine-de-Clisson;44000;52;44
+44174;Saint-Lumine-de-Coutais;44000;52;44
+44175;Saint-Lyphard;44000;52;44
+44176;Saint-Malo-de-Guersac;44207;52;44
+44178;Saint-Mars-de-Coutais;44000;52;44
+44179;Saint-Mars-du-Désert;44115;52;44
+44180;Vallons-de-l'Erdre;44219;52;44
+44182;Saint-Michel-Chef-Chef;44401;52;44
+44183;Saint-Molf;44000;52;44
+44184;Saint-Nazaire;44601;52;44
+44185;Saint-Nicolas-de-Redon;00452;52;44
+44186;Sainte-Pazanne;44124;52;44
+44187;Saint-Père-en-Retz;44112;52;44
+44188;Saint-Philbert-de-Grand-Lieu;44211;52;44
+44189;Sainte-Reine-de-Bretagne;44000;52;44
+44190;Saint-Sébastien-sur-Loire;44701;52;44
+44192;Saint-Viaud;44000;52;44
+44193;Saint-Vincent-des-Landes;44000;52;44
+44194;Sautron;44701;52;44
+44195;Savenay;44215;52;44
+44196;Sévérac;44000;52;44
+44197;Sion-les-Mines;44000;52;44
+44198;Les Sorinières;44701;52;44
+44199;Soudan;44000;52;44
+44200;Soulvache;44000;52;44
+44201;Sucé-sur-Erdre;44203;52;44
+44202;Teillé;44000;52;44
+44203;Le Temple-de-Bretagne;44208;52;44
+44204;Thouaré-sur-Loire;44701;52;44
+44205;Les Touches;44000;52;44
+44206;Touvois;44000;52;44
+44207;Trans-sur-Erdre;44000;52;44
+44208;Treffieux;44000;52;44
+44209;Treillières;44210;52;44
+44210;Trignac;44601;52;44
+44211;La Turballe;44206;52;44
+44212;Vallet;44212;52;44
+44213;Loireauxence;44217;52;44
+44214;Vay;44000;52;44
+44215;Vertou;44701;52;44
+44216;Vieillevigne;44111;52;44
+44217;Vigneux-de-Bretagne;44208;52;44
+44218;Villepot;44000;52;44
+44220;Vue;44000;52;44
+44221;La Chevallerais;44000;52;44
+44222;La Roche-Blanche;44000;52;44
+44223;Geneston;44204;52;44
+44224;La Grigonnais;44000;52;44
 45001;Adon;45000;24;45
 45002;Aillant-sur-Milleron;45000;24;45
 45004;Amilly;45501;24;45
@@ -9750,6 +12314,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 47004;Aiguillon;47103;75;47
 47005;Allemans-du-Dropt;47000;75;47
 47006;Allez-et-Cazeneuve;47401;75;47
+47007;Allons;47000;75;47
 47009;Andiran;47000;75;47
 47010;Antagnac;47000;75;47
 47011;Anthé;47000;75;47
@@ -9957,6 +12522,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 47274;Saint-Romain-le-Noble;47000;75;47
 47275;Saint-Salvy;47000;75;47
 47276;Saint-Sardos;47000;75;47
+47277;Saint-Sauveur-de-Meilhan;47000;75;47
 47278;Saint-Sernin;47000;75;47
 47279;Saint-Sixte;47000;75;47
 47280;Saint-Sylvestre-sur-Lot;47401;75;47
@@ -10081,18 +12647,511 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 48194;Vialas;48000;76;48
 48198;Villefort;48000;76;48
 49002;Allonnes;49112;52;49
+49003;Tuffalun;49000;52;49
+49007;Angers;49701;52;49
+49008;Angrie;49000;52;49
+49009;Antoigné;49000;52;49
+49010;Armaillé;49000;52;49
+49011;Artannes-sur-Thouet;49000;52;49
+49012;Aubigné-sur-Layon;49000;52;49
+49015;Avrillé;49701;52;49
+49017;Baracé;49000;52;49
+49018;Baugé-en-Anjou;49306;52;49
+49020;Beaucouzé;49701;52;49
+49021;Beaufort-en-Anjou;49204;52;49
+49022;Beaulieu-sur-Layon;49000;52;49
+49023;Beaupréau-en-Mauges;49402;52;49
+49026;Bécon-les-Granits;49000;52;49
+49027;Bégrolles-en-Mauges;49000;52;49
+49029;Blaison-Saint-Sulpice;49000;52;49
+49035;Bouchemaine;49701;52;49
+49036;Bouillé-Ménard;49000;52;49
 49041;Brain-sur-Allonnes;49000;52;49
 49045;La Breille-les-Pins;49000;52;49
+49048;Briollay;49207;52;49
+49050;Brissac Loire Aubance;49308;52;49
+49053;Brossay;49000;52;49
+49054;Candé;49109;52;49
+49055;Cantenay-Épinard;49000;52;49
+49056;Carbay;49000;52;49
+49057;Cernusson;49000;52;49
+49058;Les Cerqueux;49000;52;49
+49060;Bellevigne-les-Châteaux;49000;52;49
+49061;Challain-la-Potherie;49000;52;49
+49063;Chalonnes-sur-Loire;49203;52;49
+49064;Chambellay;49000;52;49
+49068;Champtocé-sur-Loire;49000;52;49
+49069;Orée d'Anjou;49303;52;49
+49070;Chanteloup-les-Bois;49000;52;49
+49076;La Chapelle-Saint-Laud;49000;52;49
+49080;Les Hauts-d'Anjou;49218;52;49
+49082;Chaudefonds-sur-Layon;49000;52;49
+49086;Terranjou;49000;52;49
+49089;Chazé-sur-Argos;49000;52;49
+49090;Cheffes;49000;52;49
+49092;Chemillé-en-Anjou;49404;52;49
+49099;Cholet;49501;52;49
+49100;Cizay-la-Madeleine;49000;52;49
+49102;Cléré-sur-Layon;49000;52;49
+49107;Cornillé-les-Caves;49000;52;49
+49109;Coron;49000;52;49
+49110;Corzé;49000;52;49
+49112;Le Coudray-Macouard;49000;52;49
+49113;Courchamps;49000;52;49
 49114;Courléon;49000;52;49
+49120;Denée;49000;52;49
+49123;Distré;49000;52;49
+49125;Doué-en-Anjou;49309;52;49
+49127;Durtal;49120;52;49
+49129;Écouflant;49301;52;49
+49130;Écuillé;49000;52;49
+49131;Épieds;49000;52;49
+49132;Étriché;49000;52;49
+49135;Feneu;49000;52;49
+49138;Les Bois d'Anjou;49000;52;49
 49140;Fontevraud-l'Abbaye;49000;52;49
+49155;Grez-Neuville;49000;52;49
+49160;Ingrandes-Le Fresne sur Loire;49129;52;49
+49161;La Jaille-Yvon;49000;52;49
+49163;Jarzé Villages;49000;52;49
+49167;Les Garennes sur Loire;49701;52;49
+49170;Juvardeil;49000;52;49
+49174;Huillé-Lézigné;49000;52;49
+49176;Le Lion-d'Angers;49121;52;49
+49178;Loiré;49000;52;49
+49180;Longué-Jumelles;49213;52;49
+49182;Louresse-Rochemenier;49000;52;49
+49183;Val d'Erdre-Auxence;49000;52;49
+49192;Maulévrier;49113;52;49
+49193;Le May-sur-Èvre;49122;52;49
+49194;Mazé-Milon;49215;52;49
+49195;Mazières-en-Mauges;49000;52;49
+49200;Longuenée-en-Anjou;49000;52;49
+49201;La Ménitré;49130;52;49
+49205;Miré;49000;52;49
+49209;Montigné-lès-Rairies;49000;52;49
+49211;Montilliers;49000;52;49
+49214;Montreuil-Juigné;49209;52;49
+49215;Montreuil-Bellay;49124;52;49
+49216;Montreuil-sur-Loir;49000;52;49
+49217;Montreuil-sur-Maine;49000;52;49
+49218;Montrevault-sur-Èvre;49307;52;49
+49220;Morannes sur Sarthe-Daumeray;49000;52;49
 49221;Mouliherne;49000;52;49
+49222;Mozé-sur-Louet;49000;52;49
+49223;Mûrs-Erigné;49701;52;49
+49224;Neuillé;49000;52;49
 49228;Noyant-Villages;49000;52;49
+49231;Nuaillé;49000;52;49
 49235;Parnay;49401;52;49
+49236;Passavant-sur-Layon;49000;52;49
 49237;La Pellerine;49000;52;49
+49240;La Plaine;49000;52;49
+49241;Le Plessis-Grammoire;49302;52;49
+49244;Mauges-sur-Loire;49304;52;49
+49246;Les Ponts-de-Cé;49701;52;49
+49247;La Possonnière;49000;52;49
+49248;Ombrée d'Anjou;49216;52;49
+49253;Le Puy-Notre-Dame;49000;52;49
+49257;Les Rairies;49000;52;49
+49259;Rochefort-sur-Loire;49000;52;49
+49260;La Romagne;49000;52;49
+49261;Gennes-Val-de-Loire;49217;52;49
+49262;Rou-Marson;49000;52;49
+49266;Saint-Augustin-des-Bois;49000;52;49
+49267;Saint-Barthélemy-d'Anjou;49701;52;49
+49269;Saint-Christophe-du-Bois;49106;52;49
+49271;Saint-Clément-de-la-Place;49000;52;49
+49272;Saint-Clément-des-Levées;49000;52;49
+49278;Sainte-Gemmes-sur-Loire;49701;52;49
+49283;Saint-Georges-sur-Loire;49119;52;49
+49284;Saint-Germain-des-Prés;49000;52;49
+49291;Saint-Just-sur-Dive;49000;52;49
+49292;Val-du-Layon;49000;52;49
+49294;Saint-Lambert-la-Potherie;49123;52;49
+49298;Saint-Léger-de-Linières;49000;52;49
+49299;Saint-Léger-sous-Cholet;49104;52;49
+49301;Sèvremoine;49403;52;49
+49302;Saint-Macaire-du-Bois;49000;52;49
+49306;Saint-Martin-du-Fouilloux;49000;52;49
+49307;Loire-Authion;49305;52;49
+49308;Saint-Melaine-sur-Aubance;49000;52;49
+49310;Saint-Paul-du-Bois;49000;52;49
+49311;Saint-Philbert-du-Peuple;49213;52;49
+49321;Saint-Sigismond;49000;52;49
+49323;Verrières-en-Anjou;49301;52;49
+49326;Sarrigné;49000;52;49
+49328;Saumur;49401;52;49
+49329;Savennières;49000;52;49
+49330;Sceaux-d'Anjou;49000;52;49
+49331;Segré-en-Anjou Bleu;49310;52;49
+49332;La Séguinière;49501;52;49
+49333;Seiches-sur-le-Loir;49115;52;49
+49336;Somloire;49000;52;49
+49338;Soulaines-sur-Aubance;49000;52;49
+49339;Soulaire-et-Bourg;49000;52;49
+49341;Souzay-Champigny;49401;52;49
+49343;La Tessoualle;49114;52;49
+49344;Thorigné-d'Anjou;49000;52;49
+49345;Bellevigne-en-Layon;49000;52;49
+49347;Tiercé;49207;52;49
+49352;Toutlemonde;49000;52;49
+49353;Trélazé;49701;52;49
+49355;Trémentines;49111;52;49
 49358;Turquant;49401;52;49
+49359;Les Ulmes;49000;52;49
 49361;Varennes-sur-Loire;49000;52;49
+49362;Varrains;49000;52;49
+49364;Vaudelnay;49000;52;49
+49367;Erdre-en-Anjou;49000;52;49
 49368;Vernantes;49116;52;49
 49369;Vernoil-le-Fourrier;49116;52;49
+49370;Verrie;49000;52;49
+49371;Vezins;49000;52;49
+49373;Lys-Haut-Layon;49214;52;49
+49374;Villebernier;49000;52;49
+49377;Rives-du-Loir-en-Anjou;49000;52;49
+49378;Vivy;49000;52;49
+49381;Yzernay;49000;52;49
+50002;Agneaux;50401;28;50
+50003;Agon-Coutainville;50203;28;50
+50004;Airel;50000;28;50
+50006;Amigny;50000;28;50
+50008;Anctoville-sur-Boscq;50402;28;50
+50013;Anneville-en-Saire;50000;28;50
+50015;Annoville;50000;28;50
+50016;Appeville;50000;28;50
+50022;Aumeville-Lestre;50000;28;50
+50025;Avranches;50301;28;50
+50027;Bacilly;50000;28;50
+50028;La Baleine;50000;28;50
+50029;Barenton;50000;28;50
+50031;Barneville-Carteret;50000;28;50
+50032;La Barre-de-Semilly;50000;28;50
+50034;Baudre;50000;28;50
+50036;Baupte;50000;28;50
+50038;Beauchamps;50000;28;50
+50040;Beauficel;50000;28;50
+50041;La Hague;50000;28;50
+50044;Belval;50000;28;50
+50045;Benoîtville;50000;28;50
+50046;Bérigny;50000;28;50
+50048;Beslon;50000;28;50
+50049;Besneville;50000;28;50
+50052;Beuzeville-la-Bastille;50000;28;50
+50058;Blainville-sur-Mer;50203;28;50
+50059;Blosville;50000;28;50
+50060;La Bloutière;50000;28;50
+50062;Boisyvon;50000;28;50
+50066;Jullouville;50402;28;50
+50069;Bourguenolles;50000;28;50
+50072;Brainville;50000;28;50
+50074;Brécey;50000;28;50
+50076;Bréhal;50111;28;50
+50077;Bretteville;50000;28;50
+50079;Breuville;50000;28;50
+50081;Bréville-sur-Mer;50402;28;50
+50082;Bricquebec-en-Cotentin;50207;28;50
+50083;Bricquebosq;50000;28;50
+50084;Bricqueville-la-Blouette;50000;28;50
+50085;Bricqueville-sur-Mer;50111;28;50
+50086;Brillevast;50000;28;50
+50087;Brix;50000;28;50
+50088;Brouains;50000;28;50
+50090;Buais-Les-Monts;50000;28;50
+50092;Cambernon;50000;28;50
+50093;Cametours;50000;28;50
+50094;Camprond;50000;28;50
+50095;Canisy;50000;28;50
+50098;Carantilly;50000;28;50
+50099;Carentan-les-Marais;50302;28;50
+50101;Carneville;50000;28;50
+50102;Carolles;50402;28;50
+50108;Céaux;50000;28;50
+50109;Cérences;50000;28;50
+50110;Cerisy-la-Forêt;50000;28;50
+50111;Cerisy-la-Salle;50000;28;50
+50112;La Chaise-Baudouin;50000;28;50
+50115;Le Grippon;50000;28;50
+50118;Champrepus;50000;28;50
+50120;Chanteloup;50111;28;50
+50121;La Chapelle-Cécelin;50000;28;50
+50126;Chavoy;50000;28;50
+50129;Cherbourg-en-Cotentin;50501;28;50
+50130;Chérencé-le-Héron;50000;28;50
+50137;La Colombe;50000;28;50
+50138;Colomby;50000;28;50
+50139;Condé-sur-Vire;50106;28;50
+50142;Vicq-sur-Mer;50000;28;50
+50143;Coudeville-sur-Mer;50000;28;50
+50144;Coulouvray-Boisbenâtre;50000;28;50
+50145;Courcy;50000;28;50
+50146;Courtils;50000;28;50
+50147;Coutances;50206;28;50
+50148;Couvains;50000;28;50
+50149;Couville;50000;28;50
+50151;Créances;50000;28;50
+50155;Crollon;50000;28;50
+50158;Cuves;50000;28;50
+50159;Dangy;50000;28;50
+50161;Le Dézert;50000;28;50
+50162;Digosville;50000;28;50
+50164;Domjean;50000;28;50
+50165;Donville-les-Bains;50402;28;50
+50167;Dragey-Ronthon;50000;28;50
+50168;Ducey-Les Chéris;50000;28;50
+50174;Équilly;50000;28;50
+50178;Fermanville;50000;28;50
+50181;Feugères;50000;28;50
+50183;Fierville-les-Mines;50000;28;50
+50184;Flamanville;50000;28;50
+50185;Fleury;50201;28;50
+50188;Folligny;50000;28;50
+50193;Le Fresne-Poret;50000;28;50
+50194;Fresville;50000;28;50
+50195;Gathemo;50000;28;50
+50197;Gavray-sur-Sienne;50000;28;50
+50198;Geffosses;50000;28;50
+50199;Genêts;50000;28;50
+50200;Ger;50000;28;50
+50209;Gonneville-Le Theil;50000;28;50
+50214;Gouvets;50000;28;50
+50215;Gouville-sur-Mer;50203;28;50
+50216;Graignes-Mesnil-Angot;50000;28;50
+50217;Le Grand-Celland;50000;28;50
+50218;Granville;50402;28;50
+50219;Gratot;50000;28;50
+50221;Grimesnil;50000;28;50
+50222;Grosville;50000;28;50
+50225;Le Guislain;50000;28;50
+50227;Le Ham;50000;28;50
+50228;Hambye;50000;28;50
+50230;Hardinvast;50000;28;50
+50231;Hauteville-sur-Mer;50000;28;50
+50232;Hauteville-la-Guichard;50000;28;50
+50233;Hautteville-Bocage;50000;28;50
+50235;La Haye-d'Ectot;50000;28;50
+50236;La Haye;50102;28;50
+50237;La Haye-Pesnel;50000;28;50
+50238;Héauville;50000;28;50
+50239;Thèreval;50000;28;50
+50240;Helleville;50000;28;50
+50243;Heugueville-sur-Sienne;50000;28;50
+50246;Hiesville;50000;28;50
+50247;Hocquigny;50000;28;50
+50252;Hudimesnil;50000;28;50
+50253;Huisnes-sur-Mer;50000;28;50
+50256;Isigny-le-Buat;50000;28;50
+50259;Juilley;50000;28;50
+50262;La Lande-d'Airou;50000;28;50
+50266;Lengronne;50000;28;50
+50267;Lessay;50000;28;50
+50269;Liesville-sur-Douve;50000;28;50
+50270;Lieusaint;50000;28;50
+50272;Lingreville;50000;28;50
+50273;Montsenelle;50000;28;50
+50274;Les Loges-Marchis;50000;28;50
+50277;Longueville;50402;28;50
+50278;Le Loreur;50000;28;50
+50279;Le Lorey;50000;28;50
+50281;La Lucerne-d'Outremer;50000;28;50
+50282;Le Luot;50000;28;50
+50288;Marcey-les-Grèves;50301;28;50
+50289;Marchésieux;50000;28;50
+50290;Marcilly;50000;28;50
+50291;Margueray;50000;28;50
+50292;Marigny-Le-Lozon;50000;28;50
+50294;Martinvast;50501;28;50
+50296;Maupertus-sur-Mer;50000;28;50
+50297;La Meauffe;50104;28;50
+50302;Le Mesnil-Amey;50000;28;50
+50304;Le Mesnil-Aubert;50000;28;50
+50305;Le Mesnil-au-Val;50000;28;50
+50311;Le Mesnil-Garnier;50000;28;50
+50312;Le Mesnil-Gilbert;50000;28;50
+50317;Le Mesnil-Ozenne;50000;28;50
+50321;Le Mesnil-Rouxelin;50000;28;50
+50324;Le Mesnil-Véneron;50000;28;50
+50326;Le Mesnil-Villeman;50000;28;50
+50327;La Meurdraquière;50000;28;50
+50328;Millières;50000;28;50
+50332;Les Moitiers-d'Allonne;50000;28;50
+50334;Montabot;50000;28;50
+50336;Montaigu-les-Bois;50000;28;50
+50338;Montbray;50000;28;50
+50340;Montcuit;50000;28;50
+50341;Montebourg;50000;28;50
+50342;Montfarville;50000;28;50
+50345;Monthuchon;50000;28;50
+50347;Montjoie-Saint-Martin;50000;28;50
+50349;Montmartin-sur-Mer;50000;28;50
+50350;Montpinchon;50000;28;50
+50352;Montreuil-sur-Lozon;50000;28;50
+50353;Le Mont-Saint-Michel;50000;28;50
+50356;Moon-sur-Elle;50000;28;50
+50359;Mortain-Bocage;50101;28;50
+50361;La Mouche;50000;28;50
+50362;Moulines;50000;28;50
+50363;Moyon Villages;50000;28;50
+50364;Muneville-le-Bingard;50000;28;50
+50365;Muneville-sur-Mer;50000;28;50
+50368;Nay;50000;28;50
+50369;Négreville;50000;28;50
+50371;Le Neufbourg;50101;28;50
+50373;Neuville-au-Plain;50000;28;50
+50376;Nicorps;50000;28;50
+50378;Notre-Dame-de-Cenilly;50000;28;50
+50379;Notre-Dame-de-Livoye;50000;28;50
+50384;Octeville-l'Avenel;50000;28;50
+50387;Orglandes;50000;28;50
+50388;Orval sur Sienne;50000;28;50
+50389;Ouville;50000;28;50
+50391;Grandparigny;50202;28;50
+50393;Percy-en-Normandie;50000;28;50
+50394;Périers;50113;28;50
+50395;La Pernelle;50000;28;50
+50397;Perriers-en-Beauficel;50000;28;50
+50400;Picauville;50000;28;50
+50401;Pierreville;50000;28;50
+50402;Les Pieux;50107;28;50
+50403;Pirou;50000;28;50
+50405;Le Plessis-Lastelle;50000;28;50
+50407;Poilley;50000;28;50
+50408;Pontaubault;50000;28;50
+50409;Pont-Hébert;50104;28;50
+50410;Pontorson;50109;28;50
+50411;Ponts;50301;28;50
+50412;Port-Bail-sur-Mer;50000;28;50
+50413;Précey;50000;28;50
+50417;Quettehou;50108;28;50
+50419;Quettreville-sur-Sienne;50000;28;50
+50420;Quibou;50000;28;50
+50421;Quinéville;50000;28;50
+50422;Raids;50000;28;50
+50425;Rauville-la-Bigot;50000;28;50
+50428;Reffuveille;50000;28;50
+50429;Regnéville-sur-Mer;50000;28;50
+50431;Remilly Les Marais;50000;28;50
+50433;Réville;50000;28;50
+50435;Rocheville;50000;28;50
+50436;Romagny Fontenay;50000;28;50
+50437;Roncey;50000;28;50
+50443;Sacey;50000;28;50
+50444;Saint-Amand-Villages;50208;28;50
+50445;Saint-André-de-Bohon;50000;28;50
+50446;Saint-André-de-l'Épine;50000;28;50
+50447;Saint-Aubin-des-Préaux;50000;28;50
+50448;Saint-Aubin-de-Terregatte;50000;28;50
+50450;Saint-Barthélemy;50000;28;50
+50451;Saint-Brice;50000;28;50
+50452;Saint-Brice-de-Landelles;50000;28;50
+50453;Sainte-Cécile;50201;28;50
+50454;Saint-Christophe-du-Foc;50000;28;50
+50455;Saint-Clair-sur-l'Elle;50000;28;50
+50461;Saint-Cyr;50000;28;50
+50462;Saint-Cyr-du-Bailleul;50000;28;50
+50463;Saint-Denis-le-Gast;50000;28;50
+50464;Saint-Denis-le-Vêtu;50000;28;50
+50467;Saint-Floxel;50000;28;50
+50468;Saint-Fromond;50000;28;50
+50469;Sainte-Geneviève;50000;28;50
+50471;Saint-Georges-de-la-Rivière;50000;28;50
+50473;Saint-Georges-d'Elle;50000;28;50
+50475;Saint-Georges-Montcocq;50401;28;50
+50476;Saint-Germain-d'Elle;50000;28;50
+50478;Saint-Germain-de-Tournebut;50000;28;50
+50479;Saint-Germain-de-Varreville;50000;28;50
+50480;Saint-Germain-le-Gaillard;50000;28;50
+50481;Saint-Germain-sur-Ay;50000;28;50
+50483;Saint-Gilles;50000;28;50
+50484;Saint-Hilaire-du-Harcouët;50202;28;50
+50486;Saint-Jacques-de-Néhou;50000;28;50
+50487;Saint-James;50103;28;50
+50488;Saint-Jean-de-Daye;50000;28;50
+50489;Saint-Jean-de-la-Haize;50000;28;50
+50490;Saint-Jean-de-la-Rivière;50000;28;50
+50491;Saint-Jean-de-Savigny;50000;28;50
+50492;Saint-Jean-d'Elle;50000;28;50
+50493;Saint-Jean-des-Champs;50000;28;50
+50496;Saint-Jean-le-Thomas;50000;28;50
+50498;Saint-Joseph;50000;28;50
+50499;Saint-Laurent-de-Cuves;50000;28;50
+50500;Saint-Laurent-de-Terregatte;50000;28;50
+50502;Saint-Lô;50401;28;50
+50504;Saint-Louet-sur-Vire;50000;28;50
+50506;Saint-Malo-de-la-Lande;50000;28;50
+50507;Saint-Marcouf;50000;28;50
+50509;Sainte-Marie-du-Mont;50000;28;50
+50510;Saint-Martin-d'Aubigny;50000;28;50
+50512;Saint-Martin-de-Bonfossé;50000;28;50
+50513;Saint-Martin-de-Cenilly;50000;28;50
+50514;Chaulieu;50000;28;50
+50517;Saint-Martin-de-Varreville;50000;28;50
+50518;Saint-Martin-le-Bouillant;50000;28;50
+50519;Saint-Martin-le-Gréard;50000;28;50
+50522;Saint-Maurice-en-Cotentin;50000;28;50
+50523;Sainte-Mère-Église;50000;28;50
+50525;Saint-Michel-de-Montjoie;50000;28;50
+50529;Saint-Nicolas-des-Bois;50000;28;50
+50531;Saint-Ovin;50000;28;50
+50532;Saint-Pair-sur-Mer;50402;28;50
+50535;Le Parc;50000;28;50
+50536;Saint-Pierre-d'Arthéglise;50000;28;50
+50537;Saint-Pierre-de-Coutances;50206;28;50
+50538;Saint-Pierre-de-Semilly;50000;28;50
+50539;Saint-Pierre-Église;50000;28;50
+50540;Saint-Pierre-Langers;50000;28;50
+50541;Saint-Planchers;50000;28;50
+50542;Saint-Pois;50000;28;50
+50543;Saint-Quentin-sur-le-Homme;50000;28;50
+50546;Bourgvallées;50000;28;50
+50549;Saint-Sauveur-la-Pommeraye;50000;28;50
+50550;Saint-Sauveur-Villages;50000;28;50
+50551;Saint-Sauveur-le-Vicomte;50000;28;50
+50554;Saint-Senier-sous-Avranches;50301;28;50
+50556;Sainte-Suzanne-sur-Vire;50000;28;50
+50562;Saint-Vaast-la-Hougue;50108;28;50
+50563;Saint-Vigor-des-Monts;50000;28;50
+50564;Terre-et-Marais;50000;28;50
+50565;Sartilly-Baie-Bocage;50000;28;50
+50567;Saussemesnil;50000;28;50
+50568;Saussey;50000;28;50
+50569;Savigny;50000;28;50
+50570;Savigny-le-Vieux;50000;28;50
+50575;Sideville;50000;28;50
+50576;Siouville-Hague;50000;28;50
+50577;Sortosville-en-Beaumont;50000;28;50
+50578;Sortosville;50000;28;50
+50582;Sourdeval;50105;28;50
+50585;Surtainville;50000;28;50
+50588;Tamerville;50000;28;50
+50590;Le Tanu;50000;28;50
+50591;Le Teilleul;50000;28;50
+50592;Tessy-Bocage;50000;28;50
+50593;Teurthéville-Bocage;50000;28;50
+50594;Teurthéville-Hague;50000;28;50
+50596;Théville;50000;28;50
+50597;Tirepied-sur-Sée;50000;28;50
+50599;Tollevast;50501;28;50
+50601;Torigny-les-Villes;50208;28;50
+50603;Tourville-sur-Sienne;50203;28;50
+50604;Tréauville;50000;28;50
+50606;Tribehou;50000;28;50
+50607;La Trinité;50000;28;50
+50610;Urville;50000;28;50
+50612;Vains;50000;28;50
+50613;Valcanville;50000;28;50
+50615;Valognes;50205;28;50
+50616;Le Val-Saint-Père;50301;28;50
+50619;Le Vast;50000;28;50
+50624;La Vendelée;50000;28;50
+50626;Ver;50000;28;50
+50629;Vesly;50000;28;50
+50637;Villebaudon;50000;28;50
+50639;Villedieu-les-Poêles-Rouffigny;50201;28;50
+50641;Villiers-Fossard;50000;28;50
+50647;Yquelon;50402;28;50
+50648;Yvetot-Bocage;50205;28;50
 51002;Saint-Martin-d'Ablois;51000;44;51
 51007;Ambonnay;51000;44;51
 51009;Anglure;51000;44;51
@@ -10646,6 +13705,184 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 52544;Voisey;52000;44;52
 52547;Vouécourt;52000;44;52
 52550;Wassy;52103;44;52
+53001;Ahuillé;53000;52;53
+53002;Alexain;53000;52;53
+53003;Ambrières-les-Vallées;53106;52;53
+53005;Andouillé;53000;52;53
+53007;Argentré;53102;52;53
+53008;Aron;53000;52;53
+53009;Arquenay;53000;52;53
+53010;Assé-le-Bérenger;53000;52;53
+53011;Astillé;53000;52;53
+53012;Athée;53000;52;53
+53015;La Baconnière;53000;52;53
+53017;Val-du-Maine;53000;52;53
+53018;Ballots;53000;52;53
+53019;Bannes;53000;52;53
+53022;La Bazouge-de-Chemeré;53000;52;53
+53023;La Bazouge-des-Alleux;53000;52;53
+53025;Bazougers;53000;52;53
+53027;Beaumont-Pied-de-Boeuf;53000;52;53
+53028;Belgeard;53000;52;53
+53029;Bierné-les-Villages;53000;52;53
+53031;La Bigottière;53000;52;53
+53034;Bonchamp-lès-Laval;53201;52;53
+53035;Bouchamps-lès-Craon;53000;52;53
+53036;Bouère;53000;52;53
+53037;Bouessay;53000;52;53
+53039;Le Bourgneuf-la-Forêt;53000;52;53
+53040;Bourgon;53000;52;53
+53041;Brains-sur-les-Marches;53000;52;53
+53042;Brecé;53000;52;53
+53045;La Brûlatte;53000;52;53
+53046;Le Buret;53000;52;53
+53047;Carelles;53000;52;53
+53048;Chailland;53000;52;53
+53049;Châlons-du-Maine;53000;52;53
+53051;Champéon;53000;52;53
+53052;Champfrémont;53000;52;53
+53053;Champgenéteux;53000;52;53
+53054;Changé;53501;52;53
+53055;Chantrigné;53000;52;53
+53056;La Chapelle-Anthenaise;53000;52;53
+53057;La Chapelle-au-Riboul;53000;52;53
+53061;Charchigné;53000;52;53
+53062;Château-Gontier-sur-Mayenne;53302;52;53
+53063;Châtelain;53000;52;53
+53064;Châtillon-sur-Colmont;53000;52;53
+53066;Chemazé;53000;52;53
+53068;Chérancé;53000;52;53
+53072;Commer;53000;52;53
+53073;Congrier;53000;52;53
+53075;Cosmes;53000;52;53
+53076;Cossé-en-Champagne;53000;52;53
+53077;Cossé-le-Vivien;53107;52;53
+53078;Coudray;53000;52;53
+53080;Couptrain;53000;52;53
+53082;Courbeveille;53000;52;53
+53083;Courcité;53000;52;53
+53084;Craon;53110;52;53
+53086;La Croixille;53000;52;53
+53088;Cuillé;53000;52;53
+53089;Daon;53000;52;53
+53091;Désertines;53000;52;53
+53094;Entrammes;53000;52;53
+53096;Ernée;53202;52;53
+53097;Évron;53203;52;53
+53098;Fontaine-Couverte;53000;52;53
+53099;Forcé;53000;52;53
+53100;Fougerolles-du-Plessis;53000;52;53
+53101;Fromentières;53000;52;53
+53103;Le Genest-Saint-Isle;53000;52;53
+53104;Gennes-Longuefuye;53000;52;53
+53106;Gesvres;53000;52;53
+53107;Gorron;53105;52;53
+53108;La Gravelle;53000;52;53
+53109;Grazay;53000;52;53
+53110;Grez-en-Bouère;53000;52;53
+53112;Le Ham;53000;52;53
+53113;Hambers;53000;52;53
+53115;Hercé;53000;52;53
+53116;Le Horps;53000;52;53
+53117;Houssay;53000;52;53
+53119;L'Huisserie;53501;52;53
+53120;Izé;53000;52;53
+53121;Javron-les-Chapelles;53000;52;53
+53122;Jublains;53000;52;53
+53123;Juvigné;53000;52;53
+53124;Prée-d'Anjou;53000;52;53
+53125;Landivy;53000;52;53
+53126;Larchamp;53000;52;53
+53127;Lassay-les-Châteaux;53000;52;53
+53129;Launay-Villiers;53000;52;53
+53130;Laval;53501;52;53
+53133;Lignières-Orgères;53000;52;53
+53136;La Roche-Neuville;53000;52;53
+53137;Loiron-Ruillé;53000;52;53
+53140;Louverné;53109;52;53
+53141;Louvigné;53000;52;53
+53142;Madré;53000;52;53
+53143;Maisoncelles-du-Maine;53000;52;53
+53144;Marcillé-la-Ville;53000;52;53
+53145;Marigné-Peuton;53000;52;53
+53146;Martigné-sur-Mayenne;53000;52;53
+53147;Mayenne;53301;52;53
+53150;Ménil;53000;52;53
+53151;Méral;53000;52;53
+53152;Meslay-du-Maine;53103;52;53
+53154;Montaudin;53000;52;53
+53155;Montenay;53000;52;53
+53156;Montflours;53000;52;53
+53157;Montigné-le-Brillant;53000;52;53
+53158;Montjean;53000;52;53
+53160;Montreuil-Poulay;53000;52;53
+53161;Montsûrs;53101;52;53
+53162;Moulay;53301;52;53
+53163;Neau;53000;52;53
+53164;Neuilly-le-Vendin;53000;52;53
+53168;Nuillé-sur-Vicoin;53000;52;53
+53169;Olivet;53000;52;53
+53170;Oisseau;53000;52;53
+53172;Origné;53000;52;53
+53175;Parné-sur-Roc;53000;52;53
+53178;Peuton;53000;52;53
+53179;Placé;53000;52;53
+53180;Pommerieux;53000;52;53
+53181;Pontmain;53000;52;53
+53182;Port-Brillet;53000;52;53
+53185;Pré-en-Pail-Saint-Samson;53000;52;53
+53186;Quelaines-Saint-Gault;53000;52;53
+53187;Ravigny;53000;52;53
+53188;Renazé;53104;52;53
+53190;Le Ribay;53000;52;53
+53191;La Roë;53000;52;53
+53192;La Rouaudière;53000;52;53
+53193;Ruillé-Froid-Fonds;53000;52;53
+53195;Sacé;53000;52;53
+53197;Saint-Aignan-sur-Roë;53000;52;53
+53199;Saint-Aubin-Fosse-Louvain;53000;52;53
+53201;Saint-Berthevin;53501;52;53
+53202;Saint-Berthevin-la-Tannière;53000;52;53
+53203;Saint-Brice;53000;52;53
+53204;Saint-Calais-du-Désert;53000;52;53
+53208;Saint-Cyr-en-Pail;53000;52;53
+53209;Saint-Cyr-le-Gravelais;53000;52;53
+53210;Saint-Denis-d'Anjou;53000;52;53
+53211;Saint-Denis-de-Gastines;53000;52;53
+53213;Saint-Ellier-du-Maine;53000;52;53
+53216;Saint-Fraimbault-de-Prières;53000;52;53
+53223;Saint-Germain-de-Coulamer;53000;52;53
+53224;Saint-Germain-le-Fouilloux;53000;52;53
+53225;Saint-Germain-le-Guillaume;53000;52;53
+53226;Saint-Hilaire-du-Maine;53000;52;53
+53228;Blandouet-Saint Jean;53000;52;53
+53229;Saint-Jean-sur-Mayenne;53000;52;53
+53232;Saint-Léger;53000;52;53
+53233;Saint-Loup-du-Dorat;53000;52;53
+53234;Saint-Loup-du-Gast;53000;52;53
+53237;Saint-Mars-sur-Colmont;53000;52;53
+53238;Saint-Mars-sur-la-Futaie;53000;52;53
+53239;Saint-Martin-de-Connée;53000;52;53
+53240;Saint-Martin-du-Limet;53000;52;53
+53243;Saint-Ouën-des-Toits;53000;52;53
+53245;Saint-Pierre-des-Landes;53000;52;53
+53246;Saint-Pierre-des-Nids;53000;52;53
+53247;Saint-Pierre-la-Cour;53000;52;53
+53249;Saint-Pierre-sur-Orthe;53000;52;53
+53251;Saint-Quentin-les-Anges;53000;52;53
+53253;Saint-Saturnin-du-Limet;53000;52;53
+53256;Saint-Thomas-de-Courceriers;53000;52;53
+53257;Saulges;53000;52;53
+53258;La Selle-Craonnaise;53000;52;53
+53260;Simplé;53000;52;53
+53261;Soucé;53000;52;53
+53262;Soulgé-sur-Ouette;53000;52;53
+53265;Torcé-Viviers-en-Charnie;53000;52;53
+53267;Vaiges;53000;52;53
+53269;Vautorte;53000;52;53
+53271;Villaines-la-Juhel;53108;52;53
+53273;Villiers-Charlemagne;53000;52;53
+53276;Voutré;53000;52;53
 54006;Agincourt;54000;44;54
 54007;Aingeray;54000;44;54
 54008;Allain;54000;44;54
@@ -11167,6 +14404,245 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 55577;Waly;55000;44;55
 55579;Watronville;55000;44;55
 55584;Woimbey;55000;44;55
+56001;Allaire;00452;53;56
+56002;Ambon;56000;53;56
+56003;Arradon;56202;53;56
+56004;Arzal;56000;53;56
+56005;Arzon;56102;53;56
+56006;Augan;56000;53;56
+56007;Auray;56401;53;56
+56008;Baden;56000;53;56
+56009;Bangor;56000;53;56
+56010;Baud;56204;53;56
+56011;Béganne;56000;53;56
+56012;Beignon;56000;53;56
+56013;Belz;56217;53;56
+56014;Berné;56000;53;56
+56015;Berric;56000;53;56
+56017;Bignan;56000;53;56
+56018;Billiers;56000;53;56
+56019;Billio;56000;53;56
+56020;Bohal;56000;53;56
+56021;Brandérion;56000;53;56
+56022;Brandivy;56000;53;56
+56023;Brech;56401;53;56
+56024;Bréhan;56000;53;56
+56025;Brignac;56000;53;56
+56026;Bubry;56000;53;56
+56027;Buléon;56000;53;56
+56028;Caden;56000;53;56
+56029;Calan;56000;53;56
+56030;Camoël;56000;53;56
+56031;Camors;56107;53;56
+56032;Campénéac;56000;53;56
+56033;Carentoir;56000;53;56
+56034;Carnac;56215;53;56
+56035;Caro;56000;53;56
+56036;Caudan;56210;53;56
+56039;La Chapelle-Neuve;56000;53;56
+56040;Cléguer;56000;53;56
+56041;Cléguérec;56000;53;56
+56042;Colpo;56000;53;56
+56046;Crach;56118;53;56
+56047;Crédin;56000;53;56
+56048;Le Croisty;56000;53;56
+56050;La Croix-Helléan;56000;53;56
+56051;Cruguel;56000;53;56
+56052;Damgan;56000;53;56
+56053;Elven;56117;53;56
+56054;Erdeven;56217;53;56
+56055;Étel;56217;53;56
+56056;Évriguet;56000;53;56
+56057;Le Faouët;56109;53;56
+56058;Férel;56000;53;56
+56060;Les Fougerêts;56000;53;56
+56061;La Gacilly;56104;53;56
+56062;Gâvres;56000;53;56
+56063;Gestel;56000;53;56
+56065;Gourhel;56000;53;56
+56066;Gourin;56115;53;56
+56067;Grand-Champ;56120;53;56
+56068;La Grée-Saint-Laurent;56000;53;56
+56069;Groix;56000;53;56
+56070;Guégon;56000;53;56
+56071;Guéhenno;56000;53;56
+56072;Gueltas;56000;53;56
+56073;Guémené-sur-Scorff;56000;53;56
+56074;Guénin;56000;53;56
+56075;Guer;56211;53;56
+56076;Guern;56000;53;56
+56077;Le Guerno;56000;53;56
+56078;Guidel;56218;53;56
+56079;Guillac;56000;53;56
+56080;Guilliers;56000;53;56
+56081;Guiscriff;56000;53;56
+56082;Helléan;56000;53;56
+56083;Hennebont;56302;53;56
+56084;Le Hézo;56000;53;56
+56086;Île-d'Houat;56000;53;56
+56087;Île-aux-Moines;56000;53;56
+56088;Île-d'Arz;56000;53;56
+56089;Inguiniel;56000;53;56
+56090;Inzinzac-Lochrist;56205;53;56
+56091;Josselin;56106;53;56
+56092;Kerfourn;56000;53;56
+56093;Kergrist;56000;53;56
+56094;Kervignac;56000;53;56
+56096;Landaul;56000;53;56
+56097;Landévant;56108;53;56
+56098;Lanester;56601;53;56
+56099;Langoëlan;56000;53;56
+56100;Langonnet;56000;53;56
+56101;Languidic;56212;53;56
+56102;Forges de Lanouée;56000;53;56
+56103;Lantillac;56000;53;56
+56105;Lanvénégen;56000;53;56
+56106;Larmor-Baden;56000;53;56
+56107;Larmor-Plage;56601;53;56
+56108;Larré;56000;53;56
+56109;Lauzach;56000;53;56
+56110;Lignol;56000;53;56
+56111;Limerzel;56000;53;56
+56112;Lizio;56000;53;56
+56113;Locmalo;56000;53;56
+56114;Locmaria;56000;53;56
+56115;Locmaria-Grand-Champ;56000;53;56
+56116;Locmariaquer;56000;53;56
+56117;Locminé;56214;53;56
+56118;Locmiquélic;56301;53;56
+56119;Locoal-Mendon;56000;53;56
+56120;Locqueltas;56000;53;56
+56121;Lorient;56601;53;56
+56122;Loyat;56000;53;56
+56123;Malansac;56000;53;56
+56124;Malestroit;56112;53;56
+56125;Malguénac;56000;53;56
+56126;Marzan;56000;53;56
+56127;Mauron;56000;53;56
+56128;Melrand;56000;53;56
+56129;Ménéac;56000;53;56
+56130;Merlevenez;56000;53;56
+56131;Meslan;56000;53;56
+56132;Meucon;56000;53;56
+56133;Missiriac;56000;53;56
+56134;Mohon;56000;53;56
+56135;Molac;56000;53;56
+56136;Monteneuf;56000;53;56
+56137;Monterblanc;56000;53;56
+56139;Montertelot;56000;53;56
+56140;Moréac;56214;53;56
+56141;Moustoir-Ac;56000;53;56
+56143;Muzillac;56116;53;56
+56144;Évellys;56000;53;56
+56145;Néant-sur-Yvel;56000;53;56
+56146;Neulliac;56000;53;56
+56147;Nivillac;56000;53;56
+56148;Nostang;56000;53;56
+56149;Noyal-Muzillac;56000;53;56
+56151;Noyal-Pontivy;56113;53;56
+56152;Le Palais;56105;53;56
+56153;Péaule;56000;53;56
+56154;Peillac;56000;53;56
+56155;Pénestin;56000;53;56
+56156;Persquen;56000;53;56
+56157;Plaudren;56000;53;56
+56158;Plescop;56501;53;56
+56159;Pleucadeuc;56000;53;56
+56160;Pleugriffet;56000;53;56
+56161;Ploemel;56000;53;56
+56162;Ploemeur;56601;53;56
+56163;Ploërdut;56000;53;56
+56164;Ploeren;56206;53;56
+56165;Ploërmel;56216;53;56
+56166;Plouay;56203;53;56
+56167;Plougoumelen;56000;53;56
+56168;Plouharnel;56215;53;56
+56169;Plouhinec;56119;53;56
+56170;Plouray;56000;53;56
+56171;Pluherlin;56000;53;56
+56172;Plumelec;56000;53;56
+56173;Pluméliau-Bieuzy;56000;53;56
+56174;Plumelin;56000;53;56
+56175;Plumergat;56000;53;56
+56176;Pluneret;56401;53;56
+56177;Pluvigner;56207;53;56
+56178;Pontivy;56303;53;56
+56179;Pont-Scorff;56110;53;56
+56180;Porcaro;56000;53;56
+56181;Port-Louis;56301;53;56
+56182;Priziac;56000;53;56
+56184;Questembert;56208;53;56
+56185;Quéven;56601;53;56
+56186;Quiberon;56201;53;56
+56188;Quistinic;56000;53;56
+56189;Radenac;56000;53;56
+56190;Réguiny;56000;53;56
+56191;Réminiac;56000;53;56
+56193;Riantec;56301;53;56
+56194;Rieux;00452;53;56
+56195;La Roche-Bernard;56000;53;56
+56196;Rochefort-en-Terre;56000;53;56
+56197;Val d'Oust;56000;53;56
+56198;Rohan;56000;53;56
+56199;Roudouallec;56000;53;56
+56200;Ruffiac;56000;53;56
+56201;Le Saint;56000;53;56
+56202;Saint-Abraham;56000;53;56
+56203;Saint-Aignan;56000;53;56
+56204;Saint-Allouestre;56000;53;56
+56205;Saint-Armel;56000;53;56
+56206;Saint-Avé;56501;53;56
+56207;Saint-Barthélemy;56000;53;56
+56211;Saint-Congard;56000;53;56
+56212;Saint-Dolay;56000;53;56
+56213;Saint-Gérand;56000;53;56
+56214;Saint-Gildas-de-Rhuys;56000;53;56
+56215;Saint-Gonnery;56000;53;56
+56218;Saint-Gravé;56000;53;56
+56219;Saint-Guyomard;56000;53;56
+56220;Sainte-Hélène;56000;53;56
+56221;Saint-Jacut-les-Pins;56000;53;56
+56222;Saint-Jean-Brévelay;56000;53;56
+56223;Saint-Jean-la-Poterie;00452;53;56
+56224;Saint-Laurent-sur-Oust;56000;53;56
+56226;Saint-Malo-de-Beignon;56211;53;56
+56227;Saint-Malo-des-Trois-Fontaines;56000;53;56
+56228;Saint-Marcel;56112;53;56
+56229;Saint-Martin-sur-Oust;56000;53;56
+56230;Saint-Nicolas-du-Tertre;56000;53;56
+56231;Saint-Nolff;56114;53;56
+56232;Saint-Perreux;56000;53;56
+56233;Saint-Philibert;56118;53;56
+56234;Saint-Pierre-Quiberon;56103;53;56
+56236;Saint-Servant;56000;53;56
+56237;Saint-Thuriau;56000;53;56
+56238;Saint-Tugdual;56000;53;56
+56239;Saint-Vincent-sur-Oust;56000;53;56
+56240;Sarzeau;56213;53;56
+56241;Sauzon;56000;53;56
+56242;Séglien;56000;53;56
+56243;Séné;56501;53;56
+56244;Sérent;56000;53;56
+56245;Silfiac;56000;53;56
+56246;Le Sourn;56303;53;56
+56247;Sulniac;56000;53;56
+56248;Surzur;56111;53;56
+56249;Taupont;56000;53;56
+56250;Théhillac;56000;53;56
+56251;Theix-Noyalo;56209;53;56
+56252;Le Tour-du-Parc;56000;53;56
+56253;Tréal;56000;53;56
+56254;Trédion;56000;53;56
+56255;Treffléan;56000;53;56
+56256;Tréhorenteuc;56000;53;56
+56257;La Trinité-Porhoët;56000;53;56
+56258;La Trinité-sur-Mer;56215;53;56
+56259;La Trinité-Surzur;56000;53;56
+56260;Vannes;56501;53;56
+56261;La Vraie-Croix;56000;53;56
+56262;Bono;56101;53;56
+56263;Sainte-Anne-d'Auray;56401;53;56
+56264;Kernascléden;56000;53;56
 57001;Aboncourt;57000;44;57
 57003;Abreschviller;57000;44;57
 57006;Achen;57000;44;57
@@ -11339,6 +14815,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 57281;Haboudange;57000;44;57
 57282;Hagen;57000;44;57
 57283;Hagondange;57701;44;57
+57284;Hallering;57000;44;57
 57287;Basse-Ham;57000;44;57
 57288;Ham-sous-Varsberg;57303;44;57
 57289;Hambach;57401;44;57
@@ -12875,27 +16352,46 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 60702;Welles-Pérennes;60000;32;60
 60703;Aux Marais;60000;32;60
 61001;Alençon;00461;28;61
+61006;Argentan;61302;28;61
+61007;Athis-Val de Rouvre;61000;28;61
 61014;Aunou-le-Faucon;61000;28;61
 61015;Aunou-sur-Orne;61000;28;61
+61023;Bailleul;61000;28;61
+61024;Banvou;61000;28;61
 61026;Barville;61000;28;61
+61028;Bazoches-au-Houlme;61000;28;61
 61029;Bazoches-sur-Hoëne;61000;28;61
 61032;Beaufai;61000;28;61
+61035;Beauvain;61000;28;61
 61038;Bellême;61103;28;61
+61039;La Bellière;61000;28;61
+61040;Bellou-en-Houlme;61000;28;61
 61043;Berd'huis;61000;28;61
 61050;Cour-Maugis sur Huisne;61000;28;61
 61053;Bonsmoulins;61000;28;61
+61055;Boucé;61000;28;61
 61061;Bretoncelles;61000;28;61
+61062;Brieux;61000;28;61
+61063;Briouze;61000;28;61
+61069;Cahan;61000;28;61
+61070;Caligny;61000;28;61
+61074;Carrouges;61000;28;61
+61075;Ceaucé;61000;28;61
 61077;Cerisé;00461;28;61
+61078;Cerisy-Belle-Étoile;61000;28;61
 61079;Ceton;61000;28;61
 61081;Chailloué;61000;28;61
 61082;Le Chalange;61000;28;61
 61087;Champeaux-sur-Sarthe;61000;28;61
 61092;Chandai;61000;28;61
+61096;Rives d'Andaine;61000;28;61
 61097;La Chapelle-Montligeon;61000;28;61
 61099;La Chapelle-Souëf;61000;28;61
 61100;La Chapelle-Viel;61000;28;61
+61102;Le Châtellier;61000;28;61
 61103;Chaumont;61000;28;61
 61105;Chemilli;61000;28;61
+61107;Ciral;61000;28;61
 61111;Colombiers;61000;28;61
 61116;Sablons sur Huisne;61000;28;61
 61117;Condé-sur-Sarthe;00461;28;61
@@ -12906,55 +16402,93 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 61140;Crulai;61000;28;61
 61141;Cuissai;61000;28;61
 61143;Damigny;00461;28;61
+61145;Domfront en Poiraie;61106;28;61
+61146;Dompierre;61000;28;61
 61150;Échauffour;61000;28;61
 61151;Écorcei;61000;28;61
+61153;Écouché-les-Vallées;61000;28;61
 61159;Fay;61000;28;61
+61163;La Ferrière-aux-Étangs;61000;28;61
+61165;La Ferrière-Bochard;61000;28;61
 61166;Ferrières-la-Verrerie;61000;28;61
 61167;La Ferté-en-Ouche;61000;28;61
+61168;La Ferté Macé;61202;28;61
+61169;Flers;61401;28;61
+61176;Francheville;61000;28;61
 61181;Gacé;61101;28;61
+61182;Gandelain;61000;28;61
 61187;Les Genettes;61000;28;61
+61195;Le Grais;61000;28;61
 61196;Belforêt-en-Perche;61000;28;61
 61202;Hauterive;61000;28;61
 61203;Héloup;61000;28;61
 61206;L'Hôme-Chamondot;61000;28;61
 61207;Igé;61000;28;61
 61208;Irai;61000;28;61
+61209;Joué-du-Bois;61000;28;61
+61211;Juvigny Val d'Andaine;61000;28;61
 61212;Juvigny-sur-Orne;61000;28;61
 61214;L'Aigle;61301;28;61
 61215;Laleu;61000;28;61
+61218;La Lande-Patry;61401;28;61
 61224;Larré;61000;28;61
+61227;Lignou;61000;28;61
 61230;Longny les Villages;61000;28;61
+61232;Lonlay-l'Abbaye;61000;28;61
+61233;Lonlay-le-Tesson;61000;28;61
 61234;Lonrai;61000;28;61
+61237;Lougé-sur-Maire;61000;28;61
 61241;La Madeleine-Bouvet;61000;28;61
 61242;Le Mage;61000;28;61
+61243;Magny-le-Désert;61000;28;61
 61255;Mauves-sur-Huisne;61000;28;61
 61258;Le Mêle-sur-Sarthe;61000;28;61
+61262;Le Ménil-Ciboult;61000;28;61
+61267;Ménil-Hermei;61000;28;61
+61269;Ménil-Hubert-sur-Orne;61000;28;61
+61271;Le Ménil-Scelleur;61000;28;61
 61274;Les Menus;61000;28;61
 61275;Le Merlerault;61000;28;61
+61276;Merri;61000;28;61
+61278;Messei;61000;28;61
 61279;Mieuxcé;61000;28;61
+61283;Montabard;61000;28;61
 61284;Montchevrel;61000;28;61
+61287;Montilly-sur-Noireau;61000;28;61
 61288;Montmerrei;61000;28;61
+61292;Montsecret-Clairefougère;61000;28;61
 61293;Mortagne-au-Perche;61201;28;61
 61294;Mortrée;61000;28;61
 61297;Moulins-la-Marche;61000;28;61
+61298;Moulins-sur-Orne;61000;28;61
 61300;Moutiers-au-Perche;61000;28;61
 61302;Neauphe-sur-Dive;61000;28;61
 61307;Neuville-sur-Touques;61000;28;61
+61308;Neuvy-au-Houlme;61000;28;61
 61309;Perche en Nocé;61000;28;61
 61310;Nonant-le-Pin;61000;28;61
 61319;Origny-le-Roux;61000;28;61
 61321;Pacé;61000;28;61
+61324;Passais Villages;61000;28;61
 61328;Le Pin-au-Haras;61000;28;61
+61339;Putanges-le-Lac;61000;28;61
 61341;Écouves;61000;28;61
 61342;Rai;61301;28;61
+61344;Rânes;61000;28;61
 61345;Rémalard en Perche;61000;28;61
 61346;Le Renouard;61000;28;61
+61352;Rônai;61000;28;61
 61366;Saint-Aubin-de-Bonneval;61000;28;61
+61371;Saint-Brice-sous-Rânes;61000;28;61
+61375;Boischampré;61000;28;61
 61379;Saint-Cyr-la-Rosière;61000;28;61
+61382;Saint-Denis-sur-Sarthon;61000;28;61
 61385;Saint-Evroult-de-Montfort;61000;28;61
 61386;Saint-Evroult-Notre-Dame-du-Bois;61000;28;61
+61387;Saint-Fraimbault;61000;28;61
 61388;Saint-Fulgent-des-Ormes;61000;28;61
 61389;Sainte-Gauburge-Sainte-Colombe;61000;28;61
+61391;Saint-Georges-des-Groseillers;61401;28;61
 61392;Saint-Germain-d'Aunay;61000;28;61
 61394;Saint-Germain-de-la-Coudre;61000;28;61
 61395;Saint-Germain-des-Grois;61000;28;61
@@ -12962,25 +16496,41 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 61400;Saint-Gervais-du-Perron;61000;28;61
 61405;Saint-Hilaire-sur-Erre;61000;28;61
 61406;Saint-Hilaire-sur-Risle;61000;28;61
+61407;Sainte-Honorine-la-Chardonne;61000;28;61
+61408;Sainte-Honorine-la-Guillaume;61000;28;61
 61413;Saint-Lambert-sur-Dive;61000;28;61
 61414;Saint-Langis-lès-Mortagne;61201;28;61
 61415;Saint-Léger-sur-Sarthe;61000;28;61
 61418;Saint-Mard-de-Réno;61000;28;61
+61421;Saint-Mars-d'Égrenne;61000;28;61
 61422;Les Aspres;61000;28;61
 61423;Saint-Martin-d'Écublei;61000;28;61
 61425;Saint-Martin-des-Pézerits;61000;28;61
 61426;Saint-Martin-du-Vieux-Bellême;61103;28;61
+61427;Saint-Martin-l'Aiguillon;61000;28;61
 61440;Saint-Ouen-sur-Iton;61000;28;61
+61443;Saint-Paul;61000;28;61
+61444;Saint-Philbert-sur-Orne;61000;28;61
+61445;Saint-Pierre-d'Entremont;61000;28;61
+61447;Saint-Pierre-du-Regard;00262;28;61
+61451;Saint-Quentin-les-Chardonnets;61000;28;61
 61454;Sainte-Scolasse-sur-Sarthe;61000;28;61
 61456;Saint-Sulpice-sur-Risle;61301;28;61
 61460;Sap-en-Auge;61000;28;61
+61462;Sarceaux;61302;28;61
+61463;Les Monts d'Andaine;61000;28;61
 61464;Sées;61107;28;61
+61466;La Selle-la-Forge;61401;28;61
 61467;Semallé;61000;28;61
+61473;Sevrai;61000;28;61
 61474;Gouffern en Auge;61000;28;61
 61475;Soligny-la-Trappe;61000;28;61
 61476;Suré;61000;28;61
+61479;Tanques;61000;28;61
+61483;Bagnoles de l'Orne Normandie;61105;28;61
 61484;Val-au-Perche;61102;28;61
 61485;Ticheville;61000;28;61
+61486;Tinchebray-Bocage;61104;28;61
 61491;Tourouvre au Perche;61000;28;61
 61494;Trun;61000;28;61
 61497;Valframbert;00461;28;61
@@ -13877,32 +17427,368 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 63470;Volvic;63116;84;63
 63471;Youx;63202;84;63
 63472;Yronde-et-Buron;63000;84;63
+64001;Aast;64000;75;64
+64003;Abidos;64000;75;64
+64005;Abos;64000;75;64
+64007;Agnos;64303;75;64
+64009;Ahetze;00751;75;64
+64014;Ainhoa;64000;75;64
+64016;Aldudes;64000;75;64
+64018;Amendeuix-Oneix;64102;75;64
+64021;Andoins;64601;75;64
+64022;Andrein;64000;75;64
+64023;Angaïs;64601;75;64
+64024;Anglet;00751;75;64
+64026;Anhaux;64000;75;64
+64028;Anoye;64000;75;64
+64029;Aramits;64000;75;64
+64031;Arancou;64000;75;64
+64035;Arbonne;00751;75;64
+64037;Arbus;64601;75;64
+64038;Arcangues;00751;75;64
+64040;Arette;64000;75;64
+64041;Aressy;64601;75;64
+64042;Argagnon;64301;75;64
+64043;Argelos;64000;75;64
+64047;Arnéguy;64000;75;64
+64049;Aroue-Ithorots-Olhaïby;64000;75;64
+64052;Arricau-Bordes;64000;75;64
+64054;Arros-de-Nay;64601;75;64
+64057;Arthez-de-Béarn;64000;75;64
+64058;Arthez-d'Asson;64000;75;64
+64059;Artigueloutan;64000;75;64
+64060;Artiguelouve;64601;75;64
+64061;Artix;64103;75;64
+64062;Arudy;64105;75;64
+64063;Arzacq-Arraziguet;64000;75;64
+64064;Asasp-Arros;64000;75;64
+64065;Ascain;00751;75;64
+64067;Assat;64601;75;64
+64068;Asson;64000;75;64
+64072;Aubertin;64000;75;64
+64073;Aubin;64000;75;64
+64077;Auga;64000;75;64
+64080;Aussevielle;64601;75;64
+64083;Autevielle-Saint-Martin-Bideren;64000;75;64
+64086;Ayherre;64000;75;64
+64087;Baigts-de-Béarn;64000;75;64
+64089;Baleix;64000;75;64
+64091;Baliros;64601;75;64
+64093;Barcus;64000;75;64
+64094;Bardos;64000;75;64
+64097;Barzun;00171;75;64
+64100;Bassussarry;00751;75;64
+64101;Baudreix;64601;75;64
+64102;Bayonne;00751;75;64
+64104;Bedous;64000;75;64
+64105;Béguios;64000;75;64
+64106;Béhasque-Lapiste;64000;75;64
+64108;Bellocq;64000;75;64
+64109;Bénéjacq;64601;75;64
+64111;Bentayou-Sérée;64000;75;64
+64114;Bernadets;64000;75;64
+64115;Berrogain-Laruns;64204;75;64
+64116;Bescat;64000;75;64
+64119;Beuste;64000;75;64
+64120;Beyrie-sur-Joyeuse;64000;75;64
+64122;Biarritz;00751;75;64
+64123;Bidache;64000;75;64
+64125;Bidart;00751;75;64
+64126;Bidos;64303;75;64
+64127;Bielle;64000;75;64
+64129;Billère;64601;75;64
+64130;Biriatou;00751;75;64
+64131;Biron;64301;75;64
+64132;Bizanos;64601;75;64
+64133;Boeil-Bezing;64601;75;64
+64134;Bonloc;64000;75;64
+64135;Bonnut;64000;75;64
+64136;Borce;64000;75;64
+64137;Bordères;64601;75;64
+64138;Bordes;64601;75;64
+64139;Bosdarros;64000;75;64
+64140;Boucau;00751;75;64
+64142;Bougarber;64000;75;64
+64143;Bouillon;64000;75;64
+64145;Bourdettes;64601;75;64
+64146;Bournos;64000;75;64
+64147;Briscous;64000;75;64
+64148;Bruges-Capbis-Mifaget;64000;75;64
+64152;Buros;64601;75;64
+64154;Bussunarits-Sarrasquette;64000;75;64
+64156;Buziet;64000;75;64
+64157;Buzy;64000;75;64
+64159;Cadillon;64000;75;64
+64160;Cambo-les-Bains;64203;75;64
+64161;Came;64000;75;64
+64166;Caro;64106;75;64
+64170;Castagnède;64000;75;64
+64171;Casteide-Cami;64000;75;64
+64174;Castéra-Loubix;64000;75;64
+64176;Castetbon;64000;75;64
+64177;Castétis;64301;75;64
+64183;Caubios-Loos;64000;75;64
+64185;Cette-Eygun;64000;75;64
+64186;Charre;64000;75;64
+64187;Charritte-de-Bas;64204;75;64
+64189;Ciboure;00751;75;64
+64190;Claracq;64000;75;64
+64191;Coarraze;64601;75;64
+64196;Crouseilles;64000;75;64
+64197;Cuqueron;64000;75;64
+64198;Denguin;64601;75;64
+64200;Doazon;64000;75;64
+64202;Domezain-Berraute;64000;75;64
+64203;Doumy;64000;75;64
+64204;Eaux-Bonnes;64000;75;64
+64205;Escos;64000;75;64
+64208;Escoubès;64000;75;64
+64209;Escout;64000;75;64
+64211;Eslourenties-Daban;64000;75;64
+64213;Espelette;64000;75;64
+64214;Espès-Undurein;64204;75;64
+64216;Espoey;64104;75;64
+64219;Estialescq;64000;75;64
+64220;Estos;64303;75;64
+64221;Etcharry;64000;75;64
+64223;Etsaut;64000;75;64
+64224;Eysus;64303;75;64
+64226;Fichous-Riumayou;64000;75;64
+64227;Gabaston;64601;75;64
+64228;Gabat;64000;75;64
+64230;Gan;64601;75;64
+64231;Garindein;64204;75;64
+64233;Garlin;64000;75;64
+64234;Garos;64000;75;64
+64237;Gelos;64601;75;64
+64238;Ger;64000;75;64
+64239;Gerderest;64000;75;64
+64240;Gère-Bélesten;64000;75;64
+64241;Géronce;64000;75;64
+64243;Géus-d'Arzacq;64000;75;64
+64244;Geüs-d'Oloron;64000;75;64
+64245;Goès;64303;75;64
+64249;Guéthary;00751;75;64
+64250;Guiche;64000;75;64
+64252;Gurmençon;64303;75;64
+64253;Gurs;64000;75;64
+64255;Halsou;64000;75;64
+64256;Hasparren;64202;75;64
+64259;Hélette;64000;75;64
+64260;Hendaye;00751;75;64
+64261;Herrère;64000;75;64
+64269;Idron;64601;75;64
+64270;Igon;64601;75;64
+64273;Irissarry;64000;75;64
+64274;Irouléguy;64000;75;64
+64275;Ispoure;64106;75;64
+64279;Itxassou;64000;75;64
+64280;Izeste;64105;75;64
+64281;Jasses;64101;75;64
+64282;Jatxou;00751;75;64
+64283;Jaxu;64000;75;64
+64284;Jurançon;64601;75;64
+64287;Laàs;64000;75;64
+64288;Labastide-Cézéracq;64000;75;64
+64289;La Bastide-Clairence;64000;75;64
+64290;Labastide-Monréjeau;64000;75;64
+64291;Labastide-Villefranche;64000;75;64
+64292;Labatmale;00171;75;64
+64293;Labatut;64000;75;64
+64297;Lacarre;64000;75;64
+64299;Lacommande;64000;75;64
+64300;Lacq;64000;75;64
+64301;Lagor;64302;75;64
+64302;Lagos;64601;75;64
+64304;Lahonce;00751;75;64
+64305;Lahontan;64000;75;64
+64306;Lahourcade;64302;75;64
+64307;Lalongue;64000;75;64
+64310;Lanne-en-Barétous;64000;75;64
+64314;Larceveau-Arros-Cibits;64000;75;64
+64315;Laroin;64601;75;64
+64317;Larressore;00751;75;64
+64320;Laruns;64000;75;64
+64321;Lasclaveries;64000;75;64
+64324;Lasseube;64000;75;64
+64325;Lasseubetat;64000;75;64
+64328;Ledeuix;64303;75;64
+64329;Lée;64601;75;64
+64330;Lées-Athas;64000;75;64
+64331;Lembeye;64000;75;64
+64335;Lescar;64601;75;64
+64336;Lescun;64000;75;64
+64339;Lestelle-Bétharram;64000;75;64
+64346;Lombia;64000;75;64
+64348;Lons;64601;75;64
+64350;Louhossoa;64000;75;64
+64351;Lourdios-Ichère;64000;75;64
+64352;Lourenties;64000;75;64
+64353;Louvie-Juzon;64105;75;64
+64357;Lucarré;64000;75;64
+64358;Lucgarier;64000;75;64
+64359;Lucq-de-Béarn;64000;75;64
+64360;Lurbe-Saint-Christau;64000;75;64
+64363;Lys;64000;75;64
+64364;Macaye;64000;75;64
+64367;Maslacq;64000;75;64
+64370;Maucor;64601;75;64
+64371;Mauléon-Licharre;64204;75;64
+64372;Maure;64000;75;64
+64373;Mazères-Lezons;64601;75;64
+64374;Mazerolles;64000;75;64
+64376;Meillon;64601;75;64
+64377;Mendionde;64000;75;64
+64379;Mendive;64000;75;64
+64382;Mesplède;64000;75;64
+64385;Miossens-Lanusse;64000;75;64
+64386;Mirepeix;64601;75;64
+64389;Monassut-Audiracq;64000;75;64
+64393;Monein;64302;75;64
+64396;Mont;64000;75;64
+64397;Montagut;64000;75;64
 64398;Montaner;64000;75;64
+64399;Montardon;64601;75;64
+64400;Montaut;64000;75;64
+64404;Montory;64000;75;64
+64405;Morlaàs;64601;75;64
+64406;Morlanne;64000;75;64
+64407;Mouguerre;00751;75;64
+64409;Moumour;64000;75;64
+64410;Mourenx;64302;75;64
+64413;Narcastet;64601;75;64
+64415;Navailles-Angos;64601;75;64
+64416;Navarrenx;64101;75;64
+64417;Nay;64601;75;64
+64418;Noguères;64302;75;64
+64419;Nousty;64104;75;64
+64420;Ogenne-Camptort;64000;75;64
+64421;Ogeu-les-Bains;64000;75;64
+64422;Oloron-Sainte-Marie;64303;75;64
+64424;Ordiarp;64000;75;64
+64426;Orin;64000;75;64
+64430;Orthez;64301;75;64
+64431;Os-Marsillon;64302;75;64
+64435;Osserain-Rivareyte;64000;75;64
+64436;Ossès;64000;75;64
+64438;Ouillon;64000;75;64
+64439;Ousse;64601;75;64
+64440;Ozenx-Montestrucq;64000;75;64
+64441;Pagolle;64000;75;64
+64442;Parbayse;64000;75;64
+64443;Pardies;64302;75;64
+64445;Pau;64601;75;64
+64448;Poey-de-Lescar;64601;75;64
+64449;Poey-d'Oloron;64000;75;64
+64450;Pomps;64000;75;64
+64451;Ponson-Debat-Pouts;64000;75;64
+64452;Ponson-Dessus;64000;75;64
+64453;Pontacq;00171;75;64
+64455;Portet;64000;75;64
+64457;Poursiugues-Boucoue;64000;75;64
+64459;Préchacq-Navarrenx;64000;75;64
+64460;Précilhon;64303;75;64
+64461;Puyoô;64000;75;64
+64462;Ramous;64000;75;64
+64463;Rébénacq;64000;75;64
+64467;Rontignon;64601;75;64
+64469;Saint-Abit;64601;75;64
+64470;Saint-Armou;64000;75;64
+64471;Saint-Boès;64000;75;64
+64472;Saint-Castin;64000;75;64
+64473;Sainte-Colome;64000;75;64
+64474;Saint-Dos;64000;75;64
+64477;Saint-Étienne-de-Baïgorry;64000;75;64
+64478;Saint-Faust;64000;75;64
+64482;Saint-Jammes;64601;75;64
+64483;Saint-Jean-de-Luz;00751;75;64
+64484;Saint-Jean-le-Vieux;64106;75;64
+64485;Saint-Jean-Pied-de-Port;64106;75;64
+64487;Saint-Just-Ibarre;64000;75;64
+64488;Saint-Laurent-Bretagne;64000;75;64
+64490;Saint-Martin-d'Arrossa;64000;75;64
+64493;Saint-Palais;64102;75;64
+64494;Saint-Pé-de-Léren;64000;75;64
+64495;Saint-Pée-sur-Nivelle;64201;75;64
+64496;Saint-Pierre-d'Irube;00751;75;64
+64498;Saint-Vincent;64000;75;64
+64499;Salies-de-Béarn;64107;75;64
+64502;Sames;64000;75;64
+64504;Sare;64000;75;64
+64505;Sarpourenx;64301;75;64
+64506;Sarrance;64000;75;64
+64507;Saubole;64000;75;64
+64508;Saucède;64000;75;64
+64510;Sault-de-Navailles;64000;75;64
+64511;Sauvagnon;64601;75;64
+64513;Sauveterre-de-Béarn;64000;75;64
+64515;Sedze-Maubecq;64000;75;64
+64516;Sedzère;64000;75;64
+64518;Sendets;64601;75;64
+64519;Serres-Castet;64601;75;64
+64520;Serres-Morlaàs;64601;75;64
+64521;Serres-Sainte-Marie;64000;75;64
+64522;Sévignacq-Meyracq;64000;75;64
+64523;Sévignacq;64000;75;64
+64525;Siros;64601;75;64
+64526;Soumoulou;64104;75;64
+64527;Souraïde;64000;75;64
+64529;Sus;64101;75;64
+64533;Tardets-Sorholus;64000;75;64
+64534;Taron-Sadirac-Viellenave;64000;75;64
+64535;Tarsacq;64000;75;64
+64536;Thèze;64000;75;64
+64538;Uhart-Cize;64106;75;64
+64540;Urcuit;00751;75;64
+64542;Urdos;64000;75;64
+64545;Urrugne;00751;75;64
+64546;Urt;64000;75;64
+64547;Ustaritz;00751;75;64
+64549;Uzein;64000;75;64
+64550;Uzos;64601;75;64
+64555;Viellenave-de-Navarrenx;64000;75;64
+64558;Villefranque;00751;75;64
+65001;Adast;65101;76;65
+65002;Adé;65302;76;65
 65003;Adervielle-Pouchergues;65000;76;65
+65004;Agos-Vidalos;65000;76;65
 65005;Allier;65000;76;65
 65007;Andrest;65000;76;65
 65009;Anères;65000;76;65
 65010;Angos;65000;76;65
 65011;Les Angles;65000;76;65
 65017;Aragnouet;65000;76;65
+65018;Arbéost;65000;76;65
 65019;Arcizac-Adour;65000;76;65
 65020;Arcizac-ez-Angles;65000;76;65
+65021;Arcizans-Avant;65204;76;65
+65022;Arcizans-Dessus;65204;76;65
+65025;Argelès-Gazost;65204;76;65
 65028;Arné;65000;76;65
+65029;Arras-en-Lavedan;65204;76;65
 65031;Arreau;65000;76;65
+65032;Arrens-Marsous;65204;76;65
 65035;Artagnan;65000;76;65
+65040;Aspin-en-Lavedan;65302;76;65
 65042;Asté;65301;76;65
+65045;Aucun;65204;76;65
 65047;Aureilhan;65501;76;65
 65048;Aurensan;65000;76;65
 65051;Aventignan;65000;76;65
 65052;Averan;65000;76;65
 65053;Aveux;65000;76;65
 65054;Avezac-Prat-Lahitte;65000;76;65
+65056;Ayzac-Ost;65204;76;65
+65057;Azereix;65000;76;65
 65059;Bagnères-de-Bigorre;65301;76;65
 65060;Banios;65000;76;65
 65062;Barbazan-Debat;65501;76;65
+65065;Barlest;65000;76;65
 65069;La Barthe-de-Neste;65000;76;65
+65070;Bartrès;65302;76;65
 65072;Bazet;65000;76;65
 65073;Bazillac;65000;76;65
+65077;Beaucens;65000;76;65
 65078;Beaudéan;65301;76;65
 65079;Bégole;65000;76;65
 65083;Bernac-Debat;65000;76;65
@@ -13925,9 +17811,11 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65123;Campan;65301;76;65
 65127;Capvern;65000;76;65
 65129;Castelnau-Magnoac;65000;76;65
+65130;Castelnau-Rivière-Basse;65000;76;65
 65131;Castelvieilh;65000;76;65
 65133;Castéra-Lou;65000;76;65
 65137;Caussade-Rivière;65000;76;65
+65138;Cauterets;65000;76;65
 65142;Chelle-Debat;65000;76;65
 65144;Cheust;65000;76;65
 65146;Chis;65501;76;65
@@ -13938,22 +17826,31 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65159;Escala;65000;76;65
 65161;Escondeaux;65000;76;65
 65164;Escoubès-Pouts;65000;76;65
+65168;Esquièze-Sère;65000;76;65
+65169;Estaing;65000;76;65
 65173;Esterre;65000;76;65
+65176;Ferrières;65000;76;65
 65177;Fontrailles;65000;76;65
 65183;Galan;65000;76;65
+65185;Gardères;65000;76;65
 65187;Gaussan;65000;76;65
 65189;Gayan;65000;76;65
 65190;Gazave;65000;76;65
 65191;Gazost;65000;76;65
 65192;Gavarnie-Gèdre;65000;76;65
+65197;Ger;65302;76;65
 65198;Gerde;65301;76;65
+65201;Geu;65000;76;65
+65202;Gez;65204;76;65
 65206;Goudon;65000;76;65
+65210;Grust;65000;76;65
 65218;Hèches;65000;76;65
 65220;Hibarette;65000;76;65
 65223;Horgues;65501;76;65
 65224;Houeydets;65000;76;65
 65226;Ibos;65000;76;65
 65231;Izaux;65000;76;65
+65233;Jarret;65302;76;65
 65235;Juillan;65203;76;65
 65237;Juncalas;65000;76;65
 65238;Labassère;65000;76;65
@@ -13963,6 +17860,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65249;Lalanne;65000;76;65
 65250;Lalanne-Trie;65000;76;65
 65251;Laloubère;65501;76;65
+65252;Lamarque-Pontacq;00171;76;65
 65253;Lamarque-Rustaing;65000;76;65
 65256;Lanespède;65000;76;65
 65257;Lanne;65203;76;65
@@ -13970,19 +17868,24 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65259;Lansac;65000;76;65
 65263;Larroque;65000;76;65
 65265;Laslades;65000;76;65
+65267;Lau-Balagnas;65204;76;65
 65268;Layrisse;65000;76;65
 65270;Lespouey;65000;76;65
+65271;Lézignan;65302;76;65
 65277;Lombrès;65000;76;65
 65279;Lortet;65000;76;65
+65280;Loubajac;65000;76;65
 65281;Loucrup;65000;76;65
 65282;Loudenvielle;65000;76;65
 65284;Louey;65203;76;65
 65285;Louit;65000;76;65
+65286;Lourdes;65302;76;65
 65287;Loures-Barousse;65000;76;65
 65288;Lubret-Saint-Luc;65000;76;65
 65290;Luc;65000;76;65
 65293;Lustar;65000;76;65
 65295;Luz-Saint-Sauveur;65000;76;65
+65296;Madiran;65000;76;65
 65298;Marquerie;65000;76;65
 65299;Marsac;65000;76;65
 65301;Marseillan;65000;76;65
@@ -13997,13 +17900,21 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65318;Montastruc;65000;76;65
 65329;Nistos;65000;76;65
 65331;Odos;65501;76;65
+65334;Omex;65000;76;65
 65335;Ordizan;65000;76;65
 65340;Orleix;65501;76;65
+65341;Oroix;65000;76;65
 65342;Osmets;65000;76;65
+65343;Ossen;65000;76;65
+65344;Ossun;65102;76;65
 65348;Ourdis-Cotdoussan;65000;76;65
 65350;Oursbelille;65000;76;65
+65351;Ousté;65000;76;65
 65354;Pailhac;65000;76;65
+65360;Peyrouse;65000;76;65
+65362;Pierrefitte-Nestalas;65101;76;65
 65363;Pinas;65000;76;65
+65366;Poueyferré;65000;76;65
 65369;Pouyastruc;65000;76;65
 65370;Pouzac;65301;76;65
 65372;Pujo;65000;76;65
@@ -14011,10 +17922,14 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65375;Rabastens-de-Bigorre;65000;76;65
 65376;Recurt;65000;76;65
 65383;Sadournin;65000;76;65
+65387;Saint-Lanne;65000;76;65
 65388;Saint-Lary-Soulan;65000;76;65
 65389;Saint-Laurent-de-Neste;65000;76;65
 65390;Saint-Lézer;65000;76;65
 65392;Saint-Martin;65000;76;65
+65393;Saint-Pastous;65000;76;65
+65395;Saint-Pé-de-Bigorre;65000;76;65
+65396;Saint-Savin;65204;76;65
 65398;Saléchan;65000;76;65
 65401;Salles-Adour;65000;76;65
 65405;Sarlabous;65000;76;65
@@ -14022,12 +17937,16 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65408;Sarrancolin;65000;76;65
 65409;Sarriac-Bigorre;65000;76;65
 65410;Sarrouilles;65501;76;65
+65413;Sazos;65000;76;65
 65416;Seich;65000;76;65
 65417;Séméac;65501;76;65
+65422;Séron;65000;76;65
 65424;Sers;65000;76;65
 65427;Siradan;65000;76;65
 65429;Sombrun;65000;76;65
+65432;Soublecause;65000;76;65
 65433;Soues;65501;76;65
+65435;Soulom;65101;76;65
 65436;Souyeaux;65000;76;65
 65440;Tarbes;65501;76;65
 65444;Tibiran-Jaunac;65000;76;65
@@ -14043,6 +17962,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 65457;Ugnouas;65000;76;65
 65460;Vic-en-Bigorre;65201;76;65
 65464;Vielle-Adour;65000;76;65
+65473;Villelongue;65101;76;65
 65479;Visker;65000;76;65
 65481;Barèges;65000;76;65
 65482;Cantaous;65000;76;65
@@ -15741,15 +19661,23 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72001;Aigné;72701;52;72
 72002;Aillières-Beauvoir;72000;52;72
 72003;Allonnes;72701;52;72
+72004;Amné;72000;52;72
 72005;Ancinnes;72000;52;72
 72006;Arçonnay;00461;52;72
 72007;Ardenay-sur-Mérize;72000;52;72
 72008;Arnage;72701;52;72
+72009;Arthezé;72000;52;72
+72011;Assé-le-Boisne;72000;52;72
 72012;Assé-le-Riboul;72000;52;72
 72013;Aubigné-Racan;72000;52;72
+72016;Auvers-le-Hamon;72000;52;72
+72019;Avessé;72000;52;72
 72020;Avezé;72000;52;72
+72021;Avoise;72000;52;72
+72022;Le Bailleul;72000;52;72
 72023;Ballon-Saint Mars;72000;52;72
 72024;La Bazoge;72111;52;72
+72025;Bazouges Cré sur Loir;72000;52;72
 72026;Beaufay;72000;52;72
 72027;Beaumont-sur-Dême;72000;52;72
 72028;Beaumont-Pied-de-Boeuf;72000;52;72
@@ -15762,30 +19690,39 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72039;Bonnétable;72118;52;72
 72042;Bouloire;72000;52;72
 72043;Bourg-le-Roi;72000;52;72
+72044;Bousse;72000;52;72
+72045;Brains-sur-Gée;72000;52;72
 72046;Le Breil-sur-Mérize;72000;52;72
 72047;Brette-les-Pins;72000;52;72
 72048;Briosne-lès-Sables;72118;52;72
+72050;Brûlon;72000;52;72
 72051;Cérans-Foulletourte;72109;52;72
 72052;Chahaignes;72000;52;72
 72053;Challes;72000;52;72
 72054;Champagné;72205;52;72
 72056;Champfleur;72000;52;72
 72058;Changé;72701;52;72
+72059;Chantenay-Villedieu;72000;52;72
 72060;La Chapelle-aux-Choux;72000;52;72
+72061;La Chapelle-d'Aligné;72000;52;72
 72062;La Chapelle-du-Bois;72000;52;72
 72064;La Chapelle-Huon;72000;52;72
 72065;La Chapelle-Saint-Aubin;72701;52;72
 72066;La Chapelle-Saint-Fray;72000;52;72
 72067;La Chapelle-Saint-Rémy;72000;52;72
 72068;La Chartre-sur-le-Loir;72000;52;72
+72070;Chassillé;72000;52;72
 72071;Montval-sur-Loir;72204;52;72
 72073;Chaufour-Notre-Dame;72103;52;72
+72074;Chemiré-en-Charnie;72000;52;72
 72075;Chemiré-le-Gaudin;72000;52;72
 72076;Chenay;72000;52;72
 72077;Chenu;72000;52;72
 72078;Chérancé;72000;52;72
 72079;Chérisay;72000;52;72
 72080;Cherré-Au;72301;52;72
+72083;Chevillé;72000;52;72
+72084;Clermont-Créans;72000;52;72
 72085;Cogners;72000;52;72
 72086;Commerveil;72000;52;72
 72087;Conflans-sur-Anille;72116;52;72
@@ -15799,10 +19736,15 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72096;Coulans-sur-Gée;72000;52;72
 72098;Coulongé;72000;52;72
 72099;Courceboeufs;72000;52;72
+72100;Courcelles-la-Forêt;72000;52;72
 72101;Courcemont;72000;52;72
 72102;Courcival;72000;52;72
 72104;Courgains;72000;52;72
 72105;Courgenard;72000;52;72
+72106;Courtillers;72000;52;72
+72107;Crannes-en-Champagne;72000;52;72
+72109;Crissé;72000;52;72
+72110;Crosmières;72000;52;72
 72111;Cures;72000;52;72
 72112;Dangeul;72000;52;72
 72113;Degré;72000;52;72
@@ -15811,16 +19753,20 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72118;Dollon;72000;52;72
 72119;Domfront-en-Champagne;72000;52;72
 72120;Doucelles;72000;52;72
+72121;Douillet;72000;52;72
 72122;Duneau;72113;52;72
 72124;Écommoy;72201;52;72
+72126;Épineu-le-Chevreuil;72000;52;72
 72127;Étival-lès-le-Mans;72000;52;72
 72128;Val d'Étangson;72000;52;72
 72129;Fatines;72000;52;72
 72130;Fay;72000;52;72
+72131;Fercé-sur-Sarthe;72000;52;72
 72132;La Ferté-Bernard;72301;52;72
 72133;Fillé;72000;52;72
 72134;Flée;72000;52;72
 72135;La Fontaine-Saint-Martin;72000;52;72
+72136;Fontenay-sur-Vègre;72000;52;72
 72137;Villeneuve-en-Perseigne;72000;52;72
 72138;Fresnay-sur-Sarthe;72108;52;72
 72139;Fyé;72000;52;72
@@ -15830,7 +19776,9 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72144;Gréez-sur-Roc;72000;52;72
 72146;Guécélard;72701;52;72
 72147;La Guierche;72101;52;72
+72149;Joué-en-Charnie;72000;52;72
 72150;Joué-l'Abbé;72101;52;72
+72151;Juigné-sur-Sarthe;72302;52;72
 72152;Juillé;72000;52;72
 72153;Jupilles;72000;52;72
 72154;La Flèche;72303;52;72
@@ -15843,22 +19791,29 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72163;Ligron;72000;52;72
 72164;Livet-en-Saosnois;72000;52;72
 72165;Lombron;72000;52;72
+72166;Longnes;72000;52;72
+72167;Louailles;72000;52;72
+72168;Loué;72102;52;72
 72169;Louplande;72000;52;72
 72170;Louvigny;72000;52;72
 72172;Le Luart;72000;52;72
 72173;Luceau;72204;52;72
 72175;Luché-Pringé;72000;52;72
 72176;Le Lude;72115;52;72
+72177;Maigné;72000;52;72
+72179;Malicorne-sur-Sarthe;72000;52;72
 72180;Mamers;72202;52;72
 72181;Le Mans;72701;52;72
 72182;Mansigné;72000;52;72
 72183;Marçon;72000;52;72
+72184;Mareil-en-Champagne;72102;52;72
 72185;Mareil-sur-Loir;72000;52;72
 72186;Maresché;72000;52;72
 72187;Marigné-Laillé;72000;52;72
 72189;Marolles-les-Braults;72000;52;72
 72190;Marolles-lès-Saint-Calais;72000;52;72
 72191;Mayet;72110;52;72
+72195;Mézeray;72000;52;72
 72196;Mézières-sur-Ponthouin;72000;52;72
 72197;Mézières-sous-Lavardin;72000;52;72
 72198;La Milesse;72701;52;72
@@ -15869,21 +19824,33 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72205;Montbizot;72112;52;72
 72208;Montmirail;72000;52;72
 72210;Montreuil-le-Henri;72000;52;72
+72211;Mont-Saint-Jean;72000;52;72
+72212;Moulins-le-Carbonnel;72000;52;72
 72213;Mulsanne;72117;52;72
 72215;Neufchâtel-en-Saosnois;72000;52;72
 72216;Neuvillalais;72000;52;72
 72217;Neuville-sur-Sarthe;72000;52;72
+72218;Neuvillette-en-Charnie;72000;52;72
+72219;Bernay-Neuvy-en-Champagne;72000;52;72
 72221;Nogent-sur-Loir;72000;52;72
 72222;Nouans;72000;52;72
+72223;Noyen-sur-Sarthe;72000;52;72
 72224;Nuillé-le-Jalais;72000;52;72
 72225;Oisseau-le-Petit;72000;52;72
 72226;Oizé;72000;52;72
 72227;Panon;72000;52;72
+72228;Parcé-sur-Sarthe;72000;52;72
+72229;Parennes;72000;52;72
 72230;Parigné-le-Pôlin;72000;52;72
 72231;Parigné-l'Évêque;72119;52;72
+72232;Notre-Dame-du-Pé;72000;52;72
+72234;Pezé-le-Robert;72000;52;72
 72235;Piacé;72000;52;72
+72237;Pirmil;72000;52;72
+72239;Poillé-sur-Vègre;72000;52;72
 72241;Montfort-le-Gesnois;72205;52;72
 72243;Pontvallain;72000;52;72
+72244;Précigné;72107;52;72
 72245;Préval;72000;52;72
 72247;Pruillé-le-Chétif;72000;52;72
 72248;Pruillé-l'Éguillé;72000;52;72
@@ -15893,10 +19860,13 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72252;Requeil;72000;52;72
 72253;Roézé-sur-Sarthe;72203;52;72
 72254;Rouessé-Fontaine;72000;52;72
+72255;Rouessé-Vassé;72000;52;72
+72256;Rouez;72000;52;72
 72257;Rouillon;72000;52;72
 72259;Rouperroux-le-Coquet;72000;52;72
 72260;Ruaudin;72701;52;72
 72262;Loir en Vallée;72000;52;72
+72264;Sablé-sur-Sarthe;72302;52;72
 72265;Saint-Aignan;72000;52;72
 72266;Saint-Aubin-de-Locquenay;72108;52;72
 72267;Saint-Aubin-des-Coudrais;72000;52;72
@@ -15908,9 +19878,11 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72275;Saint-Corneille;72000;52;72
 72276;Saint-Cosme-en-Vairais;72000;52;72
 72277;Saint-Denis-des-Coudrais;72000;52;72
+72278;Saint-Denis-d'Orques;72000;52;72
 72279;Saint-Georges-de-la-Couée;72000;52;72
 72280;Saint-Georges-du-Bois;72000;52;72
 72281;Saint-Georges-du-Rosay;72000;52;72
+72282;Saint-Georges-le-Gaultier;72000;52;72
 72283;Saint-Germain-d'Arcé;72000;52;72
 72286;Saint-Gervais-de-Vic;72000;52;72
 72287;Saint-Gervais-en-Belin;72701;52;72
@@ -15918,6 +19890,8 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72290;Saint-Jean-d'Assé;72000;52;72
 72291;Saint-Jean-de-la-Motte;72000;52;72
 72292;Saint-Jean-des-Échelles;72000;52;72
+72293;Saint-Jean-du-Bois;72000;52;72
+72294;Saint-Léonard-des-Bois;72000;52;72
 72295;Saint-Longis;72202;52;72
 72296;Saint-Maixent;72000;52;72
 72299;Saint-Mars-d'Outillé;72000;52;72
@@ -15926,14 +19900,19 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72303;Saint-Michel-de-Chavaignes;72000;52;72
 72305;Saint-Ouen-de-Mimbré;72000;52;72
 72306;Saint-Ouen-en-Belin;72000;52;72
+72307;Saint-Ouen-en-Champagne;72000;52;72
 72308;Saint-Paterne - Le Chevain;00461;52;72
+72309;Saint-Paul-le-Gaultier;72000;52;72
 72310;Saint-Pavace;72701;52;72
 72311;Saint-Pierre-de-Chevillé;72000;52;72
+72312;Saint-Pierre-des-Bois;72000;52;72
 72314;Saint-Pierre-du-Lorouër;72000;52;72
+72315;Saint-Rémy-de-Sillé;72000;52;72
 72316;Saint-Rémy-des-Monts;72000;52;72
 72317;Saint-Rémy-du-Val;72000;52;72
 72319;Sainte-Sabine-sur-Longève;72000;52;72
 72320;Saint-Saturnin;72701;52;72
+72321;Saint-Symphorien;72000;52;72
 72323;Saint-Victeur;72000;52;72
 72324;Saint-Vincent-des-Prés;72000;52;72
 72325;Saint-Vincent-du-Lorouër;72000;52;72
@@ -15945,15 +19924,20 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72331;Sceaux-sur-Huisne;72000;52;72
 72332;Ségrie;72000;52;72
 72333;Semur-en-Vallon;72000;52;72
+72334;Sillé-le-Guillaume;72106;52;72
 72335;Sillé-le-Philippe;72000;52;72
+72336;Solesmes;72302;52;72
+72337;Sougé-le-Ganelon;72000;52;72
 72338;Souillé;72000;52;72
 72339;Souligné-Flacé;72000;52;72
 72340;Souligné-sous-Ballon;72000;52;72
+72343;Souvigné-sur-Sarthe;72000;52;72
 72344;Spay;72104;52;72
 72345;Surfonds;72000;52;72
 72346;La Suze-sur-Sarthe;72203;52;72
 72349;Teillé;72000;52;72
 72350;Teloché;72701;52;72
+72351;Tennie;72000;52;72
 72353;Théligny;72000;52;72
 72356;Thoiré-sur-Dinan;72000;52;72
 72357;Thorée-les-Pins;72000;52;72
@@ -15964,11 +19948,14 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 72362;Le Tronchet;72000;52;72
 72363;Tuffé Val de la Chéronne;72000;52;72
 72364;Vaas;72000;52;72
+72367;Vallon-sur-Gée;72000;52;72
 72368;Vancé;72000;52;72
 72370;Vernie;72000;52;72
 72373;Vibraye;72105;52;72
 72375;Villaines-la-Gonais;72000;52;72
 72376;Villaines-sous-Lucé;72000;52;72
+72377;Villaines-sous-Malicorne;72000;52;72
+72378;Vion;72000;52;72
 72380;Vivoin;72000;52;72
 72381;Voivres-lès-le-Mans;72000;52;72
 72382;Volnay;72000;52;72
@@ -17719,18 +21706,206 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 78683;Villiers-Saint-Frédéric;00851;11;78
 78686;Viroflay;00851;11;78
 78688;Voisins-le-Bretonneux;00851;11;78
+79001;L'Absie;79000;75;79
+79002;Adilly;79000;75;79
+79003;Aiffres;79501;75;79
+79005;Airvault;79108;75;79
+79007;Allonne;79000;75;79
+79008;Amailloux;79000;75;79
+79010;Arçais;79000;75;79
+79012;Ardin;79000;75;79
+79013;Argentonnay;79000;75;79
+79014;Loretz-d'Argenton;79000;75;79
 79016;Assais-les-Jumeaux;79000;75;79
+79018;Aubigné;79000;75;79
+79019;Aubigny;79000;75;79
+79022;Availles-Thouarsais;79000;75;79
+79024;Azay-le-Brûlé;79000;75;79
+79025;Azay-sur-Thouet;79000;75;79
+79029;Beaulieu-sous-Parthenay;79000;75;79
+79031;Beauvoir-sur-Niort;79000;75;79
+79032;Béceleuf;79000;75;79
+79034;Bessines;79501;75;79
+79038;Boismé;79000;75;79
+79040;La Boissière-en-Gâtine;79000;75;79
+79046;Le Bourdet;79000;75;79
+79047;Boussais;79000;75;79
+79048;La Crèche;79202;75;79
+79049;Bressuire;79304;75;79
+79056;Brion-près-Thouet;79000;75;79
+79057;Brioux-sur-Boutonne;79000;75;79
+79058;Brûlain;79000;75;79
+79059;Le Busseau;79000;75;79
 79060;Caunay;79000;75;79
+79061;Celles-sur-Belle;79107;75;79
+79062;Cerizay;79204;75;79
+79063;Val en Vignes;79000;75;79
+79066;Champdeniers;79000;75;79
+79070;La Chapelle-Bâton;79000;75;79
+79071;La Chapelle-Bertrand;79000;75;79
 79074;La Chapelle-Pouilloux;79000;75;79
+79076;La Chapelle-Saint-Laurent;79000;75;79
+79077;Beugnon-Thireuil;79000;75;79
+79078;Plaine-d'Argenson;79000;75;79
+79079;Mauléon;79205;75;79
+79080;Châtillon-sur-Thouet;79303;75;79
+79081;Chauray;79501;75;79
+79083;Chef-Boutonne;79101;75;79
+79085;Chérigné;79000;75;79
+79086;Cherveux;79000;75;79
+79087;Chey;79000;75;79
+79088;Chiché;79000;75;79
+79089;Le Chillou;79000;75;79
+79090;Chizé;79000;75;79
+79091;Cirières;79204;75;79
+79094;Clessé;79000;75;79
 79095;Clussais-la-Pommeraie;79000;75;79
+79096;Combrand;79000;75;79
+79100;Coulon;79106;75;79
+79101;Coulonges-sur-l'Autize;79000;75;79
+79102;Coulonges-Thouarsais;79000;75;79
+79103;Courlay;79000;75;79
+79106;Couture-d'Argenson;79000;75;79
 79108;Doux;79000;75;79
+79109;Échiré;79109;75;79
+79111;Ensigné;79000;75;79
+79112;Épannes;79000;75;79
+79114;Exireuil;79301;75;79
+79116;Faye-l'Abbesse;79000;75;79
+79117;Faye-sur-Ardin;79000;75;79
+79118;Fénery;79000;75;79
+79119;Fenioux;79000;75;79
+79120;La Ferrière-en-Parthenay;79000;75;79
+79121;Fomperron;79000;75;79
+79122;Fontenille-Saint-Martin-d'Entraigues;79000;75;79
+79123;La Forêt-sur-Sèvre;79000;75;79
+79124;Les Forges;79000;75;79
+79125;Fors;79000;75;79
+79126;Les Fosses;79000;75;79
+79127;La Foye-Monjault;79000;75;79
+79128;François;79000;75;79
+79129;Fressines;79000;75;79
+79130;Frontenay-Rohan-Rohan;79104;75;79
+79131;Geay;79000;75;79
+79133;Germond-Rouvre;79000;75;79
+79134;Glénay;79000;75;79
+79135;Gourgé;79000;75;79
+79136;Alloinay;79000;75;79
+79137;Granzay-Gript;79000;75;79
+79141;Irais;79000;75;79
+79144;Juscorps;79000;75;79
+79145;Lageon;79000;75;79
+79147;Largeasse;79000;75;79
+79148;Lezay;79000;75;79
+79149;Lhoumois;79000;75;79
 79150;Limalonges;79000;75;79
+79154;Loubillé;79000;75;79
+79156;Louin;79108;75;79
+79157;Louzy;79000;75;79
+79162;Magné;79103;75;79
 79163;Mairé-Levescault;79000;75;79
+79165;Maisontiers;79000;75;79
+79166;Marigny;79000;75;79
+79167;Marnes;79000;75;79
+79170;Mauzé-sur-le-Mignon;79102;75;79
+79172;Mazières-en-Gâtine;79000;75;79
+79174;Melle;79203;75;79
 79175;Melleran;79000;75;79
+79176;Ménigoute;79000;75;79
 79177;Messé;79000;75;79
+79179;Moncoutant-sur-Sèvre;79206;75;79
+79184;La Mothe-Saint-Héray;79000;75;79
+79185;Aigondigné;79000;75;79
+79189;Nanteuil;79301;75;79
+79190;Neuvy-Bouin;79000;75;79
+79191;Niort;79501;75;79
+79195;Nueil-les-Aubiers;79201;75;79
+79196;Plaine-et-Vallées;79000;75;79
+79198;Paizay-le-Chapt;79000;75;79
+79200;Pamplie;79000;75;79
+79201;Pamproux;79000;75;79
+79202;Parthenay;79303;75;79
+79203;Pas-de-Jeu;79000;75;79
+79207;La Petite-Boissière;79000;75;79
+79208;La Peyratte;79000;75;79
+79210;Le Pin;79000;75;79
+79213;Pompaire;79303;75;79
+79215;Pougne-Hérisson;79000;75;79
+79216;Prahecq;79000;75;79
+79217;Prailles-La Couarde;79000;75;79
+79218;Pressigny;79000;75;79
+79223;Puihardy;79000;75;79
+79225;Reffannes;79000;75;79
+79226;Le Retail;79000;75;79
+79229;La Rochénard;79000;75;79
 79230;Rom;79000;75;79
+79235;Saint-Amand-sur-Sèvre;79000;75;79
+79238;Saint-Aubin-du-Plain;79000;75;79
+79239;Saint-Aubin-le-Cloud;79000;75;79
+79241;Saint-Christophe-sur-Roc;79000;75;79
+79242;Voulmentin;79000;75;79
+79244;Saint-Cyr-la-Lande;79000;75;79
+79246;Sainte-Eanne;79000;75;79
+79249;Saint-Gelais;79109;75;79
+79250;Sainte-Gemme;79000;75;79
+79252;Saint-Généroux;79000;75;79
+79254;Saint-Georges-de-Rex;79000;75;79
+79257;Saint-Hilaire-la-Palud;79000;75;79
+79259;Saint-Jean-de-Thouars;79302;75;79
+79263;Saint-Laurs;79000;75;79
+79267;Saint-Lin;79000;75;79
+79268;Saint-Loup-Lamairé;79000;75;79
+79269;Saint-Maixent-de-Beugné;79000;75;79
+79270;Saint-Maixent-l'École;79301;75;79
+79271;Saint-Marc-la-Lande;79000;75;79
+79273;Saint-Martin-de-Bernegoue;79000;75;79
+79276;Saint-Martin-de-Saint-Maixent;79301;75;79
+79277;Saint-Martin-de-Sanzay;79000;75;79
+79280;Saint Maurice Étusson;79000;75;79
+79281;Saint-Maxire;79000;75;79
+79283;Sainte-Néomaye;79000;75;79
+79284;Sainte-Ouenne;79000;75;79
+79285;Saint-Pardoux-Soutiers;79000;75;79
+79286;Saint-Paul-en-Gâtine;79000;75;79
+79289;Saint-Pierre-des-Échaubrognes;79000;75;79
+79290;Saint-Pompain;79000;75;79
+79293;Saint-Rémy;79000;75;79
+79295;Saint-Romans-lès-Melle;79000;75;79
+79298;Saint-Symphorien;79000;75;79
+79299;Saint-Varent;79000;75;79
+79300;Sainte-Verge;79302;75;79
+79301;Saint-Vincent-la-Châtre;79000;75;79
+79302;Saivres;79000;75;79
+79304;Sansais;79000;75;79
+79306;Saurais;79000;75;79
 79307;Sauzé-Vaussais;79000;75;79
+79308;Sciecq;79000;75;79
+79309;Scillé;79000;75;79
+79310;Secondigné-sur-Belle;79000;75;79
+79311;Secondigny;79000;75;79
+79319;Souvigné;79000;75;79
+79320;Surin;79000;75;79
+79322;Le Tallud;79303;75;79
+79326;Thénezay;79000;75;79
+79329;Thouars;79302;75;79
+79334;Val-du-Mignon;79000;75;79
+79335;Vallans;79000;75;79
+79337;Le Vanneau-Irleau;79106;75;79
 79338;Vanzay;79000;75;79
+79339;Vasles;79000;75;79
+79341;Vautebis;79000;75;79
+79342;Vernoux-en-Gâtine;79000;75;79
+79343;Vernoux-sur-Boutonne;79000;75;79
+79346;Le Vert;79000;75;79
+79347;Viennay;79303;75;79
+79348;Villefollet;79000;75;79
+79349;Villemain;79000;75;79
+79350;Villiers-en-Bois;79000;75;79
+79351;Villiers-en-Plaine;79000;75;79
+79352;Villiers-sur-Chizé;79000;75;79
+79354;Vouhé;79000;75;79
+79355;Vouillé;79000;75;79
+79357;Xaintray;79000;75;79
 80001;Abbeville;80401;32;80
 80002;Ablaincourt-Pressoir;80000;32;80
 80003;Acheux-en-Amiénois;80000;32;80
@@ -18824,6 +22999,260 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 84149;Violès;84000;93;84
 84150;Visan;84000;93;84
 84151;Vitrolles-en-Lubéron;84000;93;84
+85001;L'Aiguillon-sur-Mer;85114;52;85
+85002;L'Aiguillon-sur-Vie;85000;52;85
+85003;Aizenay;85206;52;85
+85004;Angles;85101;52;85
+85005;Antigny;85000;52;85
+85006;Apremont;85000;52;85
+85008;Aubigny-Les Clouzeaux;85210;52;85
+85009;Auchay-sur-Vendée;85000;52;85
+85010;Avrillé;85000;52;85
+85011;Barbâtre;85000;52;85
+85012;La Barre-de-Monts;85301;52;85
+85013;Bazoges-en-Paillers;85000;52;85
+85014;Bazoges-en-Pareds;85000;52;85
+85015;Beaufou;85000;52;85
+85016;Beaulieu-sous-la-Roche;85000;52;85
+85017;Beaurepaire;85000;52;85
+85018;Beauvoir-sur-Mer;85122;52;85
+85019;Bellevigny;85211;52;85
+85020;Benet;85118;52;85
+85021;La Bernardière;85000;52;85
+85022;Le Bernard;85000;52;85
+85023;Bessay;85000;52;85
+85024;Bois-de-Céné;85000;52;85
+85025;La Boissière-de-Montaigu;85000;52;85
+85026;La Boissière-des-Landes;85000;52;85
+85028;Bouillé-Courdault;85000;52;85
+85029;Bouin;85000;52;85
+85031;Le Boupère;85000;52;85
+85033;Bourneau;85000;52;85
+85034;Bournezeau;85000;52;85
+85035;Bretignolles-sur-Mer;85203;52;85
+85036;La Bretonnière-la-Claye;85000;52;85
+85037;Breuil-Barret;85000;52;85
+85038;Les Brouzils;85000;52;85
+85039;La Bruffière;85115;52;85
+85040;La Caillère-Saint-Hilaire;85000;52;85
+85041;Cezais;85000;52;85
+85042;Chaillé-les-Marais;85000;52;85
+85045;La Chaize-Giraud;85000;52;85
+85046;La Chaize-le-Vicomte;85110;52;85
+85047;Challans;85402;52;85
+85049;Champagné-les-Marais;85000;52;85
+85050;Le Champ-Saint-Père;85000;52;85
+85051;Chantonnay;85207;52;85
+85054;La Chapelle-Hermier;85000;52;85
+85055;La Chapelle-Palluau;85000;52;85
+85056;La Chapelle-Thémer;85000;52;85
+85058;Chasnais;85000;52;85
+85059;La Châtaigneraie;85123;52;85
+85061;Château-Guibert;85000;52;85
+85062;Châteauneuf;85000;52;85
+85064;Chauché;85000;52;85
+85065;Chavagnes-en-Paillers;85113;52;85
+85066;Chavagnes-les-Redoux;85000;52;85
+85067;Cheffois;85000;52;85
+85070;Coëx;85109;52;85
+85071;Commequiers;85105;52;85
+85072;La Copechagnière;85000;52;85
+85073;Corpe;85000;52;85
+85074;La Couture;85000;52;85
+85076;Cugand;00365;52;85
+85077;Curzon;85000;52;85
+85078;Damvix;85000;52;85
+85080;Doix lès Fontaines;85000;52;85
+85081;Dompierre-sur-Yon;85124;52;85
+85082;Les Epesses;85000;52;85
+85083;L'Épine;85112;52;85
+85084;Essarts en Bocage;85212;52;85
+85086;Falleron;85000;52;85
+85087;Faymoreau;85000;52;85
+85088;Le Fenouiller;85401;52;85
+85089;La Ferrière;85129;52;85
+85090;Sèvremont;85209;52;85
+85092;Fontenay-le-Comte;85304;52;85
+85093;Fougeré;85000;52;85
+85094;Foussais-Payré;85000;52;85
+85095;Froidfond;85000;52;85
+85096;La Garnache;85128;52;85
+85097;La Gaubretière;85107;52;85
+85098;La Genétouze;85000;52;85
+85099;Le Girouard;85000;52;85
+85100;Givrand;85000;52;85
+85101;Le Givre;85000;52;85
+85102;Grand'Landes;85000;52;85
+85103;Grosbreuil;85000;52;85
+85104;Grues;85000;52;85
+85105;Le Gué-de-Velluire;85000;52;85
+85106;La Guérinière;85112;52;85
+85108;L'Herbergement;85102;52;85
+85109;Les Herbiers;85303;52;85
+85110;L'Hermenault;85000;52;85
+85111;L'Île-d'Elle;85000;52;85
+85112;L'Île-d'Olonne;85000;52;85
+85113;L'Île-d'Yeu;85132;52;85
+85114;Jard-sur-Mer;85121;52;85
+85115;La Jaudonnière;85000;52;85
+85116;La Jonchère;85000;52;85
+85117;Lairoux;85000;52;85
+85118;Landeronde;85000;52;85
+85119;Les Landes-Genusson;85000;52;85
+85120;Landevieille;85000;52;85
+85121;Le Langon;85000;52;85
+85123;Liez;85000;52;85
+85125;Loge-Fougereuse;85000;52;85
+85126;Longèves;85304;52;85
+85127;Longeville-sur-Mer;85000;52;85
+85128;Luçon;85208;52;85
+85129;Les Lucs-sur-Boulogne;85111;52;85
+85130;Maché;85000;52;85
+85131;Les Magnils-Reigniers;85000;52;85
+85132;Maillé;85000;52;85
+85133;Maillezais;85000;52;85
+85134;Mallièvre;85000;52;85
+85135;Mareuil-sur-Lay-Dissais;85103;52;85
+85136;Marillet;85000;52;85
+85137;Marsais-Sainte-Radégonde;85000;52;85
+85138;Martinet;85000;52;85
+85139;Le Mazeau;85000;52;85
+85140;La Meilleraie-Tillay;85000;52;85
+85141;Menomblet;85000;52;85
+85142;La Merlatière;85000;52;85
+85143;Mervent;85000;52;85
+85144;Mesnard-la-Barotière;85000;52;85
+85145;Monsireigne;85000;52;85
+85146;Montaigu-Vendée;85302;52;85
+85147;Montournais;85000;52;85
+85148;Montreuil;85000;52;85
+85149;Moreilles;85000;52;85
+85151;Mortagne-sur-Sèvre;85202;52;85
+85152;Les Achards;85125;52;85
+85153;Mouchamps;85000;52;85
+85154;Mouilleron-Saint-Germain;85000;52;85
+85155;Mouilleron-le-Captif;85127;52;85
+85156;Moutiers-les-Mauxfaits;85000;52;85
+85157;Moutiers-sur-le-Lay;85000;52;85
+85158;Mouzeuil-Saint-Martin;85000;52;85
+85159;Nalliers;85000;52;85
+85160;Nesmy;85000;52;85
+85161;Nieul-le-Dolent;85000;52;85
+85162;Rives-d'Autise;85000;52;85
+85163;Noirmoutier-en-l'Île;85131;52;85
+85164;Notre-Dame-de-Monts;85301;52;85
+85167;L'Orbrie;85304;52;85
+85169;Palluau;85000;52;85
+85171;Péault;85000;52;85
+85172;Le Perrier;85000;52;85
+85174;Petosse;85000;52;85
+85175;Les Pineaux;85000;52;85
+85176;Pissotte;85304;52;85
+85177;Les Velluire-sur-Vendée;85000;52;85
+85178;Le Poiré-sur-Vie;85205;52;85
+85179;Poiroux;85000;52;85
+85181;Pouillé;85000;52;85
+85182;Pouzauges;85201;52;85
+85184;Puy-de-Serre;85000;52;85
+85185;Puyravault;85000;52;85
+85186;La Rabatelière;85000;52;85
+85187;Réaumur;85000;52;85
+85188;La Réorthe;85000;52;85
+85189;Notre-Dame-de-Riez;85401;52;85
+85190;Rocheservière;85106;52;85
+85191;La Roche-sur-Yon;85501;52;85
+85192;Rochetrejoux;85000;52;85
+85193;Rosnay;85000;52;85
+85194;Les Sables-d'Olonne;85403;52;85
+85196;Saint-André-Goule-d'Oie;85000;52;85
+85197;Montréverd;85000;52;85
+85198;Saint-Aubin-des-Ormeaux;85000;52;85
+85199;Saint-Aubin-la-Plaine;85000;52;85
+85200;Saint-Avaugourd-des-Landes;85000;52;85
+85201;Saint-Benoist-sur-Mer;85000;52;85
+85202;Sainte-Cécile;85000;52;85
+85204;Saint-Christophe-du-Ligneron;85000;52;85
+85205;Saint-Cyr-des-Gâts;85000;52;85
+85206;Saint-Cyr-en-Talmondais;85000;52;85
+85207;Saint-Denis-du-Payré;85000;52;85
+85208;Saint-Denis-la-Chevasse;85000;52;85
+85209;Saint-Étienne-de-Brillouet;85000;52;85
+85210;Saint-Étienne-du-Bois;85000;52;85
+85211;Sainte-Flaive-des-Loups;85000;52;85
+85213;Rives de l'Yon;85000;52;85
+85214;Sainte-Foy;85000;52;85
+85215;Saint-Fulgent;85116;52;85
+85216;Sainte-Gemme-la-Plaine;85000;52;85
+85218;Saint-Georges-de-Pointindoux;85000;52;85
+85220;Saint-Germain-de-Prinçay;85000;52;85
+85221;Saint-Gervais;85000;52;85
+85222;Saint-Gilles-Croix-de-Vie;85401;52;85
+85223;Sainte-Hermine;85000;52;85
+85226;Saint-Hilaire-de-Riez;85401;52;85
+85227;Saint-Hilaire-des-Loges;85000;52;85
+85229;Saint-Hilaire-de-Voust;85000;52;85
+85231;Saint-Hilaire-la-Forêt;85000;52;85
+85232;Saint-Hilaire-le-Vouhis;85000;52;85
+85233;Saint-Jean-de-Beugné;85000;52;85
+85234;Saint-Jean-de-Monts;85301;52;85
+85235;Saint-Juire-Champgillon;85000;52;85
+85236;Saint-Julien-des-Landes;85000;52;85
+85238;Saint-Laurent-sur-Sèvre;85117;52;85
+85239;Saint-Maixent-sur-Vie;85000;52;85
+85240;Saint-Malô-du-Bois;85000;52;85
+85242;Saint-Mars-la-Réorthe;85000;52;85
+85243;Brem-sur-Mer;85203;52;85
+85244;Saint-Martin-de-Fraigneau;85000;52;85
+85245;Saint-Martin-des-Fontaines;85000;52;85
+85246;Saint-Martin-des-Noyers;85000;52;85
+85247;Saint-Martin-des-Tilleuls;85000;52;85
+85248;Saint-Martin-Lars-en-Sainte-Hermine;85000;52;85
+85250;Saint-Mathurin;85000;52;85
+85251;Saint-Maurice-des-Noues;85000;52;85
+85252;Saint-Maurice-le-Girard;85000;52;85
+85254;Saint-Mesmin;85000;52;85
+85255;Saint-Michel-en-l'Herm;85000;52;85
+85256;Saint-Michel-le-Cloucq;85000;52;85
+85259;Saint-Paul-en-Pareds;85000;52;85
+85260;Saint-Paul-Mont-Penit;85000;52;85
+85262;Saint-Philbert-de-Bouaine;85000;52;85
+85264;Saint-Pierre-du-Chemin;85000;52;85
+85265;Saint-Pierre-le-Vieux;85000;52;85
+85266;Saint-Prouant;85000;52;85
+85267;Sainte-Radégonde-des-Noyers;85000;52;85
+85268;Saint-Révérend;85000;52;85
+85269;Saint-Sigismond;85000;52;85
+85271;Saint-Sulpice-en-Pareds;85000;52;85
+85273;Saint-Urbain;85000;52;85
+85274;Saint-Valérien;85000;52;85
+85276;Saint-Vincent-Sterlanges;85000;52;85
+85277;Saint-Vincent-sur-Graon;85000;52;85
+85278;Saint-Vincent-sur-Jard;85121;52;85
+85280;Sallertaine;85402;52;85
+85281;Sérigné;85000;52;85
+85282;Sigournais;85000;52;85
+85284;Soullans;85402;52;85
+85285;Le Tablier;85000;52;85
+85286;La Taillée;85000;52;85
+85288;Talmont-Saint-Hilaire;85204;52;85
+85289;La Tardière;85123;52;85
+85290;Thiré;85000;52;85
+85291;Thorigny;85000;52;85
+85292;Thouarsais-Bouildroux;85000;52;85
+85293;Tiffauges;85000;52;85
+85294;La Tranche-sur-Mer;85104;52;85
+85295;Treize-Septiers;85000;52;85
+85296;Treize-Vents;85000;52;85
+85297;Triaize;85000;52;85
+85298;Vairé;85000;52;85
+85300;Venansault;85126;52;85
+85301;Vendrennes;85000;52;85
+85302;Chanverrie;85213;52;85
+85303;Vix;85000;52;85
+85304;Vouillé-les-Marais;85000;52;85
+85305;Vouvant;85000;52;85
+85306;Xanton-Chassenon;85000;52;85
+85307;La Faute-sur-Mer;85114;52;85
 86001;Adriers;86000;75;86
 86002;Amberre;86000;75;86
 86004;Angles-sur-l'Anglin;86000;75;86
@@ -18954,6 +23383,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 86164;Monthoiron;86000;75;86
 86165;Montmorillon;86202;75;86
 86167;Monts-sur-Guesnes;86000;75;86
+86169;Morton;86000;75;86
 86170;Moulismes;86000;75;86
 86171;Moussac;86000;75;86
 86173;Mouterre-Silly;86000;75;86
@@ -18973,6 +23403,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 86193;Pleumartin;86000;75;86
 86194;Poitiers;86601;75;86
 86195;Port-de-Piles;86000;75;86
+86196;Pouançay;86000;75;86
 86197;Pouant;86000;75;86
 86200;Pressac;86000;75;86
 86202;La Puye;86000;75;86
@@ -19004,6 +23435,7 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 86245;Senillé-Saint-Sauveur;86000;75;86
 86246;Saint-Savin;86000;75;86
 86247;Saint-Saviol;86000;75;86
+86253;Sanxay;86000;75;86
 86254;Saulgé;86000;75;86
 86255;Savigné;86113;75;86
 86256;Savigny-Lévescault;86000;75;86
@@ -20313,6 +24745,77 @@ INSEE_COM;LIBCOM;UU2010;REG;DEP
 95680;Villiers-le-Bel;00851;11;95
 95682;Villiers-le-Sec;95000;11;95
 95690;Wy-dit-Joli-Village;95000;11;95
+97101;Les Abymes;9A701;1;971
+97102;Anse-Bertrand;9A103;1;971
+97103;Baie-Mahault;9A701;1;971
+97104;Baillif;9A501;1;971
+97105;Basse-Terre;9A501;1;971
+97106;Bouillante;9A203;1;971
+97107;Capesterre-Belle-Eau;9A401;1;971
+97108;Capesterre-de-Marie-Galante;9A204;1;971
+97109;Gourbeyre;9A501;1;971
+97110;La Désirade;9A000;1;971
+97111;Deshaies;9A102;1;971
+97113;Le Gosier;9A701;1;971
+97114;Goyave;9A401;1;971
+97115;Lamentin;9A701;1;971
+97116;Morne-à-l'Eau;9A701;1;971
+97117;Le Moule;9A701;1;971
+97118;Petit-Bourg;9A701;1;971
+97119;Petit-Canal;9A701;1;971
+97120;Pointe-à-Pitre;9A701;1;971
+97121;Pointe-Noire;9A202;1;971
+97122;Port-Louis;9A201;1;971
+97124;Saint-Claude;9A501;1;971
+97125;Saint-François;9A701;1;971
+97128;Sainte-Anne;9A701;1;971
+97129;Sainte-Rose;9A301;1;971
+97130;Terre-de-Bas;9A000;1;971
+97131;Terre-de-Haut;9A000;1;971
+97132;Trois-Rivières;9A501;1;971
+97133;Vieux-Fort;9A000;1;971
+97134;Vieux-Habitants;9A501;1;971
+97201;L'Ajoupa-Bouillon;9B000;2;972
+97202;Les Anses-d'Arlet;9B000;2;972
+97203;Basse-Pointe;9B102;2;972
+97204;Le Carbet;9B101;2;972
+97205;Case-Pilote;9B601;2;972
+97206;Le Diamant;9B202;2;972
+97207;Ducos;9B602;2;972
+97208;Fonds-Saint-Denis;9B000;2;972
+97209;Fort-de-France;9B601;2;972
+97210;Le François;9B602;2;972
+97212;Gros-Morne;9B602;2;972
+97213;Le Lamentin;9B402;2;972
+97214;Le Lorrain;9B204;2;972
+97216;Le Marigot;9B401;2;972
+97217;Le Marin;9B602;2;972
+97218;Le Morne-Rouge;9B201;2;972
+97220;Rivière-Pilote;9B602;2;972
+97221;Rivière-Salée;9B602;2;972
+97222;Le Robert;9B602;2;972
+97223;Saint-Esprit;9B602;2;972
+97224;Saint-Joseph;9B601;2;972
+97225;Saint-Pierre;9B103;2;972
+97226;Sainte-Anne;9B602;2;972
+97227;Sainte-Luce;9B602;2;972
+97228;Sainte-Marie;9B401;2;972
+97229;Schoelcher;9B601;2;972
+97230;La Trinité;9B401;2;972
+97231;Les Trois-Îlets;9B203;2;972
+97232;Le Vauclin;9B602;2;972
+97233;Le Morne-Vert;9B000;2;972
+97234;Bellefontaine;9B000;2;972
+97302;Cayenne;9C601;3;973
+97304;Kourou;9C401;3;973
+97305;Macouria;9C202;3;973
+97306;Mana;9C203;3;973
+97307;Matoury;9C601;3;973
+97309;Remire-Montjoly;9C601;3;973
+97310;Roura;9C000;3;973
+97311;Saint-Laurent-du-Maroni;9C402;3;973
+97312;Sinnamary;9C101;3;973
+97313;Montsinéry-Tonnegrande;9C000;3;973
 97401;Les Avirons;9D402;4;974
 97402;Bras-Panon;9D301;4;974
 97403;Entre-Deux;9D601;4;974
