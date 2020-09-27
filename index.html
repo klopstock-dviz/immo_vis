@@ -1,948 +1,551 @@
 <!DOCTYPE html>
 <head>
   <meta charset="utf-8">
-  <script src="https://d3js.org/d3.v5.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-tooltip"></script>
-  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+  <title>Search list</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+  <!-- bootstrap -->
+    <!-- Material Design for Bootstrap fonts and icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+  <script type="text/javascript" src="lib/d3.v5.min.js"></script>
+  <link rel="stylesheet" href="css/search_list_bootstrap_grid.css">
+ <link rel="stylesheet" href="css/bootstrap-material-design_custom.min.css">
+ <link rel="stylesheet" href="css/custom_css.css">
   
-  <!-- leaflet -->
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!--   <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" /> -->
+  <link rel="stylesheet" href="css/bootstrap_4/css/bootstrap.css">
+  <link rel="stylesheet" href="css/search_list_bootstrap_grid_2.css">
+  
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
-  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+  <style type="text/css">
+    /*.param1_show_sidebar {
 
-  <script src="heatmap/build/heatmap.js"></script>
-  <script src="heatmap/plugins/leaflet-heatmap/leaflet-heatmap.js"></script>
+    }*/
 
-  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
-
-  <script type="text/javascript" src="lib/stats_functions.js"></script>  
-  <script type="text/javascript" src="lib/color_teinte_match.js"></script>
-  <script type="text/javascript" src="lib/exclusion_coordonnees_extremes.js"></script>
-  <script type="text/javascript" src="lib/load_data_7.js"></script>
-  <script type="text/javascript" src="lib/func_custom.js"></script>
-  <script type="text/javascript" src="lib/gestionMap_3.js"></script>
-  <script type="text/javascript" src="lib/adapt_tailleCercles_zoom.js"></script>
-  <script type="text/javascript" src="lib/legend_map.js"></script>
-  <script type="text/javascript" src="lib/tick_prix_m2_2.js"></script>
-  <script type="text/javascript" src="lib/gestionLayer_4.js"></script>
-  <script type="text/javascript" src="lib/zipjs/dist/jszip.js"></script>    
-  <script type="text/javascript" src="lib/jszip_utils/dist/jszip-utils.js"></script>
-
-
+  </style>
+ 
 </head>
-
-<body>  
-<div>
-<div id="message" style="margin-left: 10px">
-<h3>Pourquoi ce site ?</h3>
-  <p>Ce site présente une démonstration technique, une première version, une alpha.<br>
-  L'objectif final est de proposer une application web d'analyse de données immobilières, économiques et socio-démographiques, afin de fournir une aide à la compréhension d'un marché immobilier local, et à la décision d'achat d'un logement</p>
-
-<h3>Pourquoi ce projet ?</h3>
-  <p>Il existe sur internet beaucoup de sites d'annonces immobilières, mais peu de sites dédiés à la compréhension du contexte entourant les logements proposés.<br>
-  Par contexte j'entends les caractéristiques des logements (taille, prix, localisation, ancien, neuf ...), ainsi que le profil économique et socio-démographique des zones où sont proposés ces logements, autant d'éléments influançant les prix<br> et ce qui fait qu'un achat est réussi ou non</p>
+<body>
 
 
-<h3>Réponses à apporter:</h3>
-  <p>Ma proposition est de représenter ces données sous forme de graphiques et de cartes géographiques, partant d'un niveau synthétique, d'indicateurs à l'échelle d'une commune, jusqu'au niveau le plus détaillé, qui peut être un quartier, une rue <br>ou une adresse précise.<br>
-  L'analyse s'appuie sur une base de 27 milions d'annonces de ventes et de locations observées depuis janvier 2019 et 1 milion d'annonces géolocalisées.<br>
-  S'ajoutera à cette base des annonces une autre base de 10 milions de transactions, effectuées depuis 2014, et issues du Cadastre (fichier DVF).<br>
-  Toutes ces données, combinées à des statistiques socio-économiques et démographiques de l'INSEE, devront permettre d'apporter une réponse à une question précise; <br>
-  l'achat envisagé dans telle zone est-il conseillé ? <br>
-  Une notation de synthèse devra être proposée pour ce projet d'achat</p>
+<div class="container-fluid">
+
+<hr>
+
+<div class="container-fluid"> 
+
+    <div class="bmd-layout-container bmd-drawer-f-l">
 
 
-<h3>Démonstration technique:</h3>
-  <p>Cette démonstration n'a pas vocation à répondre à des questions liées à une décision d'achat, ou à une analyse effective d'un marché local, mais se<br>
-  limite à vérifier la pertinence et la bonne articulation technique des librairies informatiques sélectionnées.<br>
-  Les librairies sélectionnées se nomment Vega-Lite, Leaflet, Heatmap, Lodash et D3.<br>
-  Le langage JavaScript étant utilisé massivement pour les filtrages de données et la connexion des ensembles graphiques avec les cartes géographiques.<br><br>
-  La particularité de cette solution réside dans la connexion et l'interaction de tous les éléments graphiques; un clic sur une section d'un graphique<br>
-  déclenche le recalcul de tous les autres graphiques et visuels.<br>
-  Ce système permet de poser des filtres successifs sur chaque élément graphique pour décomposer un aspect d'une question, et ainsi descendre jusqu'aux<br>
-  données élémentaires d'un phénomène particulier.<br>
+        <!-- icon hamburger pour gérer le menu latéral -->
+        <header class="bmd-layout-header">
+        
+            <div class="navbar navbar-light bg-faded">
+              <div style="display: inline-grid; grid-template-columns: auto auto; grid-gap: 10px ">
+                <button id="toggle_sidebar" class="navbar-toggler" type="button" data-toggle="drawer" data-target="#dw-s1" ouvert = "false">
+                  <span class="sr-only">Toggle drawer</span>
+                  <i class="material-icons" id="sideBar_icon">menu</i>
+                </button>
+                <h7 id="zone_recherche" style="margin-top: 5px">Zone de recherche</h7>
+              </div>
+    
 
-  Si ce premier objectif est atteint, une future version beta sera réalisée afin de produire une partie de la solution finale, permettant de répondre à des <br>
-  demandes du type:<br><br>
-  Je veux voir sur une carte des logements de taille T3:
-  <div style="margin-left: 25px">
-  <li>de 55 à 65m²</li>
-  <li>ayant un taux de <a href="https://www.pap.fr/bailleur/choisir-investissement/immobilier-locatif-jusqu-a-7-de-rentabilite/a1263">rendement locatif</a> supérieur à 5%</li>
-  <li>ayant un prix au m² entre 3800€ et 4400€</li>
-  <li>avec un <a href="https://www.ecologique-solidaire.gouv.fr/diagnostic-performance-energetique-dpe">DPE</a> entre A et C</li>
-  <li>sur un historique couvrant les 6 derniers mois</li>
-  <li>pour des villes en IDF</li>
-  <li>ayant un taux de <a href="https://edito.seloger.com/conseils-d-experts/louer/qu-vacance-locative-article-34698.html">vacance locative</a> et un taux de chômage inférieurs à 7%</li>
-  <li>situés en dehors des quartiers classés en <a href="https://fr.wikipedia.org/wiki/Zone_urbaine_sensible">zones urbaines sensibles</a> </li>
-  <li>...</li><br>
+            </div>
+        
+        </header>
+
+
+
+        <!-- menu latéral -->
+        <div id="dw-s1" class="bmd-layout-drawer bg-faded">
+
+  <!--         <div class="container-fluid">
+          
+            <div id="" class="row no-gutters">               -->
+
+                  <div id="sidebar" class="col-sm-2.5" style="border: 1px solid #d1d1d1; border-radius: 5px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19)"> <!-- background-color: #f76f74; -->
+                      <h6 style="color: grey; text-align: center;">Paramètres de la recherche</h6>
+
+                      <div id="accordion">
+                        <div class="card"  style="">
+                          <div class="card-header" id="headingOne"  style="background-color: #ea454b;">
+                              <button class="btn btn-light btn-sm px-3 mx-1" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style=";">
+                                Chercher une commune
+                              </button>
+                          </div>
+
+                          <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div class="card-body">
+                         
+
+
+
+
+
+                                             <div class="dropdown">
+
+                                               <div class="row">
+                                                  <div class="col-sm">          
+                                                            <div id="myDropdown" class="dropdown-content">
+                                                              <input class="" type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+                                                              <div id="list_villes_ref">
+
+                                                              </div>
+                                                            </div>
+                                                  </div>
+                                                </div>
+                                        
+
+                                                 <div class="row mt-4 px-1">
+                                                    <div class="col-sm">         
+                                                              <p id="alert_max_communes">Communes choisies:</p>
+                                                  </div>
+                                                </div>
+
+
+                                                 <div class="row">
+                                                    <div class="col-sm">          
+                                                            <div id="container_villes_selected" style="">
+                                                              <div id="villes_selected" class="dropdown-content" style="margin-top: 1px;">                                                
+                                                              </div>
+                                                            </div>
+                                                    </div>
+                                                  </div>
+                                                  
+
+                                                  <div class="row mt-2 px-0">
+                                                    <div class="col-sm">
+                                                      <button class="btn btn-danger btn-raised btn-sm" style="font-size: 11px" onclick="supprimerVilles()" id="">Vider la liste</button>
+                                                    </div>
+                                                    <div class="col-sm">
+                                                      <button class="btn btn-success btn-raised btn-sm" style="font-size: 11px" onclick="chargerDataDetailleesCommunes()" id="">Charger</button>
+                                                    </div>
+                                                  </div>
+
+
+<div class="row">
+                <div id="preloader_data" class="d-flex justify-content-center">
+                  <div id="preloader_data1" class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                    <span class="sr-only">Loading...</span>
+                  </div>
+                </div>
+                <p id="preloader_data_comment" class="d-flex justify-content-center"></p>
+</div>
+
+
+                                                  <div class="row">
+                                                    <div class="col-sm">                     
+                                                      <div id="decaler">          
+                                                        ...
+                                                      </div>
+                                                    </div>
+                                                  </div>
+
+
+
+                                             </div>
+                            </div>
+                          </div>
+                        </div>
+
+
+                
+                      </div>
+
+
+                  </div>
+
+  <!--               </div>
+
+              </div> -->
+
+            </div>
+
+          
+
+
+          <!-- contenu principal, à droite du menu latéral -->
+          <main class="bmd-layout-content" style="background-color:">
+
+            <div class="container-fluid">
+
+
+              <!-- ligne contenant les onglet de navigation entre communes et quartiers -->
+
+                  <nav>
+                    <div class="nav nav-tabs nav-justified" id="nav-tab" role="tablist" style=";">
+                      <a class="nav-item nav-link active" id="nav-communes-tab" data-toggle="tab" href="#nav-communes" role="tab" aria-controls="nav-communes" aria-selected="true">Communes</a>
+                      <a class="nav-item nav-link" id="nav-quartiers-tab" data-toggle="tab" href="#nav-quartiers" role="tab" aria-controls="nav-quartiers" aria-selected="false">Quartiers</a>
+                      
+                    </div>
+                  </nav>
+                
+              </div>
+
+
+              <!-- STRUCTURE englobant les contenus des onglets horizontaux (communes - quarties ...) -->
+              <div class="container-fluid">
+
+                      <div class="tab-content" id="nav-tabContent">
+
+
+
+
+                        <!-- onglet communes -->        
+                        <div class="tab-pane fade show active" id="nav-communes" role="tabpanel" aria-labelledby="nav-communes-tab">
+                          
+
+                          <div id="container_graphiques" class="container">
+                            
+                            <!-- <div id="r1" class="row"> -->
+                              <!-- <div id="r1c1" class="col-1" style="height: 800px"> -->
+                                
+                                <div class="row">
+                                  <!-- panneau de navigation latéral (ind immo, éco, sociaux...) -->
+                                  <!-- <div class="col" style="height: 800px; max-width: 120px">
+                                    <div class="nav flex-column nav-pills nav-justified" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                      <a class="nav-link active" id="v-pills-Immobilier-tab" data-toggle="pill" href="#v-pills-Immobilier" role="tab" aria-controls="v-pills-Immobilier" aria-selected="true">Immobilier</a>
+                                      <a class="nav-link" id="v-pills-Economie-tab" data-toggle="pill" href="#v-pills-Economie" role="tab" aria-controls="v-pills-Economie" aria-selected="false">Economie</a>
+                                      <a class="nav-link" id="v-pills-demographie-tab" data-toggle="pill" href="#v-pills-demographie" role="tab" aria-controls="v-pills-demographie" aria-selected="false">Démographie</a>
+                                      <a class="nav-link" id="v-pills-societe-tab" data-toggle="pill" href="#v-pills-societe" role="tab" aria-controls="v-pills-societe" aria-selected="false">Societé</a>
+                                    </div>
+                                  </div> -->
+                                  <div class="col" style="">
+                                    <div class="tab-content" id="v-pills-tabContent">
+                                      
+                                      <div class="tab-pane fade show active" id="v-pills-Immobilier" role="tabpanel" aria-labelledby="v-pills-Immobilier-tab">
+            
+                                        <div class="container-fluid">
+                                          <div class="row">
+                                            <hr>
+                                            <div class="col-5" style="max-height: 720px">  <!-- height="400" -->
+                                          
+                                              <canvas id="myChart_id1" style="max-height: 150px;"></canvas> <!-- ctx1 -->
+                                          
+                                              <hr>
+                                          
+                                              <canvas id="myChart_id2" style="max-height: 170px;"></canvas> <!-- ctx2 -->
+                                          
+                                              <hr>
+
+                                              <div class="row">
+                                                <div class="col-4 .mr-auto">
+                                                  <div id="labelGroup1"></div>
+                                                </div>
+                                                <div class="col-4 .mr-auto">
+                                                  <div id="labelGroup2"></div>
+                                                </div>
+                                                <div class="col-4">
+                                                  <div id="labelGroup3"></div>
+                                                </div>
+                                              </div>
+
+                                            </div>
+
+
+
+                                            <div class="col-6" style="max-height: 720px">
+                                              
+                                              <div class="row" style="height: 320px">                                                
+                                                <div class="col-12" id="map1">
+
+                                                </div> 
+                                              </div>
+                                                  <hr>
+                                              <div class="row mt-2" style="height: 340px;">
+                                                <div class="col-12">
+                                                  <div id="brush1">
+                                                    <canvas id="myChart_id3" style="max-height: 320px"></canvas> <!-- ctx3 -->
+                                                  </div>
+                                                </div>
+                                              </div>
+
+                                            </div>
+
+                                            <div class="col-1" id="map1_legends_node">
+                                                <svg id="map1_legends_svg" width="140" height="350"></svg>  <!-- -->
+                                            </div>
+
+                                          </div>
+
+                                          <div class="row">
+                                            <hr>      
+                                            <div class="col-12">
+                                              
+                                            </div>                                  
+
+                                          </div>
+                                        
+                                        </div>
+
+                                      </div>
+
+                                      
+                                    </div>
+                                  </div>
+                                </div>
+                          </div>
+
+                        <!--fermeture onglet communes -->        
+                        </div>
+                   
+
+
+
+
+                
+
+                        <!-- onglet quartiers -->
+                        <div class="tab-pane fade" id="nav-quartiers" role="tabpanel" aria-labelledby="nav-quartiers-tab">
+
+                          <div id="container_graphiques" class="container-fluid">
+                            
+                                          <!-- <div class="row">
+                                            <hr>
+                                            <div class="col-4" style="max-height: 720px">  
+                                          
+                                              
+                                                                            
+                                                      <div class="row" style="height: 180px">                                                
+                                                        <div class="col-12">
+                                                            <canvas id="myChart_id4" style="max-height: 170px;"></canvas> 
+                                                        </div> 
+                                                      </div>
+                                                          
+                                                      <div class="row" style="height: 180px">
+                                                        <div class="col-12">
+                                                          <div id="brush2" style="height: 170px">
+                                                            <canvas id="myChart_id5" style="max-height: 170px;"></canvas> 
+                                                          </div>
+                                                        </div>
+                                                      </div>
+
+
+                                            </div>
+
+
+
+                                            <div class="col-6" style="max-height: 720px">
+                                              
+
+                                                  
+                                              <div class="row mt-2" style="height: 340px;">
+                                                <div class="col-12">
+                                                  <div id="brush3">
+                                                    <canvas id="myChart_id6" style="max-height: 320px"></canvas> 
+                                                  </div>
+                                                </div>
+                                              </div>
+
+                                              <div class="row" style="height: 320px">                                                
+                                                <div class="col-12" id="map2">
+
+                                                </div> 
+                                              </div>
+                                            </div>
+
+                                            <div class="col-2" id="map2_legends_node">
+                                                
+                                            </div>
+
+                                          </div> -->
+
+                                           
+
+                          </div>
+
+
+
+
+
+                        <!-- fermeture onglet quartiers -->
+                        </div>
+
+
+                   
+                      
+
+                      <!-- fermeture nav-tabContent -->
+                      </div>   
+                  
+                <!-- fermeture row STRUCTURE englobant les contenus des onglets horizontaux (communes - quarties ...) -->
+                </div>            
+
+
+
+
+            <!-- fermeture container sous le bmd-layout-content -->
+            </div>
+          
+          <!-- fermeture du bmd-layout-content -->
+          </main>
+
+    <!-- ferme bmd-layout-container -->
+    </div>
+
+  <!-- fermeture container -->
   </div>
-</p>
-
-<h3>Introduction aux graphiques</h3>
-<p>Il est conseillé de lire cette <a href="Introduction_aux_graphiques.html">introduction générale aux graphiques</a> avant d'aller sur l'application</p>
-
-<h3>Présentation de la version alpha en vidéo:</h3>
-
-<a href="https://www.youtube.com/watch?v=g89D5czaPPw">Suivre le lien</a><br>
-
-</div></br>
-
-<button id="button_display_application" style="margin-top: 10px; margin-bottom: 10px" type="button" onclick="heatmap_applicationDisplay()" >Afficher les graphiques</button>
-
-
-<div id="application">
-  <div>_____________________________Données à l'échelle de la ville - cliquer sur une ville dans le graphique de gauche_________________________</div><br>
-  <label for="type_annonce">Choisir un type d'annonce:</label>
-  <select id="type_annonce">
-    <option value="Location">Location</option>
-    <option value="Vente">Vente</option>
-  </select> </br><br>
-
-  <div id="vis"></div>
-<!--   <label for="Quartier">Quartier</label><br />
-  <select name="list_quartiers" id="list_quartiers"></select>
- -->  
-  <script>
-    const vlSpec = {
-      "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-      
-      "padding": 5,
-       "data": {
-          "values": [
-            {a: 'A', b: 28},
-          ]
-        },
-
-
-       "transform": [    
-        
-      {"bin": {
-                    "binned": true,
-                    
-                    "step": 15,
-                    "maxbins": 15
-                  }, "field": "surface_mediane", "as": "surface_bin"},
-        {"filter": "datum.nb_pieces <= 10"}
-        
-
-
-        ],
-       
-    "vconcat": [
-
-          {
-            "spacing": 30,
-            "columns": 4,
-            "concat":
-            [
-              {
-                "height": 20,
-                "width": 220,
-                 
-                "mark": {"type":"bar", "tooltip":true, "stroke": "red","cursor": "pointer","orient": "vertical"},
-                "title": "Nb d'annonces observées selon la taille du logement",
-                "selection": {
-                  "clic_taille_log": {"fields": ["nb_pieces"], "on": "click", "type": "multi"}, 
-                  "highlight_nbAnn_tailleLog": {"type": "single", "empty": "none", "on": "mouseover"}
-                },
-                "transform": [
-                
-                  {"filter": {"selection": "brush_date"}},
-                  {"filter": {"selection": "clic_ville"}},
-                  {"filter": {"selection": "clic_surface_bin"}},
-                  {"filter": {"selection": "clic_dpe"}},
-                  {"filter": {"selection": "legend_nb_pieces"}}
-                
-
-                ],
-                "encoding": {
-                "x": {
-                "aggregate": "sum", "field": "nb_annonces", "type":   "quantitative", "axis":{"tickCount": 4, "labelFontSize": 8.5, "tickExtra": true, "offset": -0.5},
-                        "title": "Total des annonces"},
-                "color":{
-                  "condition":{"selection": "clic_taille_log",
-                    "field": "nb_pieces",
-                    "type":"nominal",
-
-                    "legend": null},
-                  "value": "#eeedef"
-                },
-                  "fillOpacity": {
-                    "condition":  {"selection": "highlight_nbAnn_tailleLog", "value": 1},
-                    "value": 0.75
-                  },
-                  "strokeWidth": {
-                    "condition":  [{"selection": "highlight_nbAnn_tailleLog", "value": 1}],
-                    "value": 0
-                  }          
-                }
-          },
-          {
-              "height": 30,
-              "width": 60,
-              
-              "mark": {"type":"text", "fontWeight": "bold", "color": "black", "fontSize": 13},
-              "title": {"text": "Nb d'annonces total", "fontSize": 12},
-
-
-              "encoding": {
-                "text": {"aggregate": "sum", "field": "nb_annonces", "type": "quantitative"}
-              }
-          },
-          {
-              "height": 30,
-              "width": 60,
-              
-              "mark": {"type":"text", "fontWeight": "bold", "color": "#ed8a09", "fontSize": 13},
-              "title": {"text": "Nb d'annonces de la sélection", "fontSize": 12},
-
-             "transform": [
-              
-                  {"filter": {"selection": "brush_date"}},
-                  {"filter": {"selection": "clic_ville"}},
-                  {"filter": {"selection": "clic_surface_bin"}},
-                  {"filter": {"selection": "clic_dpe"}},
-                  {"filter": {"selection": "legend_nb_pieces"}},
-                  {"filter": {"selection": "clic_taille_log"}}
- 
-              ],
-
-              "encoding": {
-                "text": {"aggregate": "sum", "field": "nb_annonces", "type": "quantitative"}
-              }
-          },
-          {
-              "height": 30,
-              "width": 60,
-              
-              "mark": {"type":"text", "fontWeight": "bold", "color": "#ed8a09", "fontSize": 13},
-              "title": {"text": "Prix M² de la sélection", "fontSize": 12},
-
-             "transform": [
-              
-                  {"filter": {"selection": "brush_date"}},
-                  {"filter": {"selection": "clic_ville"}},
-                  {"filter": {"selection": "clic_surface_bin"}},
-                  {"filter": {"selection": "clic_dpe"}},
-                  {"filter": {"selection": "legend_nb_pieces"}},
-                  {"filter": {"selection": "clic_taille_log"}}
- 
-              ],
-
-              "encoding": {
-                    "text": {"aggregate":"mean", "field": "prix_m2_median", "type":   "quantitative", "format": ".2f"}
-              }
-          }
-
-        
-      ]
-          },
-
-          {
-            "spacing": 60,
-            "columns": 2,
-            "concat":[
-
-
-            {
-              "spacing": 40,
-              "columns": 1,
-              "concat":[
-
-                {
-                    "height": 200,
-                    "width": 300,
-                    "selection": {
-                      "clic_ville": {"fields": ["ville"], "on": "click", "type": "multi"}
-                      , 
-                      "highlight_ville": {
-                        "type": "single", "empty":  "none", "on": "mouseover"}
-                    },
-                    
-                    "mark": {"type":"bar", "tooltip":true, "cursor": "pointer", "stroke": 
-                      "red"},
-                    "title": "Prix au M² median selon la ville",
-                    "transform": [
-                    
-                      {"filter": {"selection": "brush_date"}},
-                      
-                      {"filter": {"selection": "clic_surface_bin"}},
-                      {"filter": {"selection": "clic_taille_log"}},
-                      {"filter": {"selection": "clic_dpe"}},
-                      {"filter": {"selection": "legend_nb_pieces"}},          
-                      {"calculate": "round(datum.prix_m2_median)", "as": "b2"}
-                    
-                    
-                    ],
-                    "encoding": {
-                    "x": {
-                    "aggregate":"mean", "field": "prix_m2_median", "type":   "quantitative", "title": "Prix au M² médian"},   
-                    "y": {"field": "ville", "type": "ordinal"},
-                    
-                    "color":{
-                      "condition":{"selection": "clic_ville",
-                      "field": "ville",
-                      "type":"nominal",
-                      "legend": null},
-                      "value": "#eeedef"
-                    },
-                    "fillOpacity": {
-                      "condition":  {"selection": "highlight_ville", "value": 
-                        1},
-                      "value": 0.75
-                    },
-                    "strokeWidth": {
-                      "condition":  [{"selection": "highlight_ville", 
-                      "value": 1}],
-                      "value": 0
-                    }
-                    }
-                }
-,
-                {
-
-                   "transform": [
-                    
-                      {"filter": {"selection": "clic_ville"}},
-
-                      {"filter": {"selection": "clic_taille_log"}},
-                      {"filter": {"selection": "clic_dpe"}},
-                      {"filter": {"selection": "legend_nb_pieces"}}
-                    ],
-                    "selection": {
-                      "brush_date": {"type": "interval", "encodings": ["x"]}
-                    },
-                      "mark": {"type":"bar", "cursor": "crosshair", "tooltip": true},
-                      "height": 200,
-                      "width": 300,
-                      "title": "Nb d'annonces sur les 12 derniers mois",
-                      "encoding": {
-                      "x": {"field": "mois", 
-                      "type": "ordinal",
-                      
-                      
-                      "axis": {"title": "Mois"}}, 
-                      
-                      "y": {"aggregate": "sum", "field": "nb_annonces", "type": "quantitative", "title": "Nb d'annonces"},
-                      "color":{
-                        "condition":{"selection": "clic_surface_bin",
-                        "field": "nb_pieces",
-                        "type":"nominal",
-                        "legend": null},
-                        "value": "#eeedef"
-                    },
-
-                     "fillOpacity": {
-                        "condition":  {"selection": "brush_date", "value": 
-                          0.75},
-                        "value": 0.05
-                      }
-
-
-                      
-
-                      }
-                }
-            ],
-            "resolve": {"scale": {"color": "independent"}}
-            },
-
-
-            {   
-              "spacing": 40,
-              "columns": 1,
-              "concat":[
-
-                    {
-                      "height": 200,
-                      "width": 330,
-                      
-                      "selection": {
-                        "clic_surface_bin": {"fields": ["nb_pieces"], "on": "click",  
-                        "type": "multi"}, 
-                        "highlight_nb_pieces_surface": {"type": "single", "empty":  
-                        "none", 
-                        "on": "mouseover"},
-                        "legend_nb_pieces": {
-                          "type": "single", "fields": ["nb_pieces"], "bind": {"legend": 
-                          "dblclick"}
-                        }
-                      },
-                      "mark": {"type":"bar", "tooltip":true, "cursor": "pointer", "stroke": "red"},
-                      "title": "Nb d'annonces selon les surfaces et la taille des logement",
-                      "transform": [
-                        {"filter": "datum.surface_mediane <= 150"},
-                        {"filter": {"selection": "brush_date"}},
-                        {"filter": {"selection": "clic_ville"}},
-                        {"filter": {"selection": "clic_taille_log"}},
-                        {"filter": {"selection": "clic_dpe"}}
-                        
-                      
-                      ],
-            "encoding": {
-                "x": {
-                  "bin": {
-                    "binned": true,
-                    
-                    "step": 15,
-                    "maxbins": 15
-                  },
-                  "field": "surface_bin", "type": 
-                  "quantitative", "title": "Surface"},
-                "x2": {"field": "surface_bin_end", "title": null},
-            
-                "y": {
-                  "aggregate": "sum", "field": "nb_annonces", 
-                  "type":   "quantitative", "title": "Total des annonces"
-                },
-                    
-                        "color":{
-                          "condition":{"selection": "clic_surface_bin",
-                          "field": "nb_pieces",
-                          "title": "Nb de pièces",
-                          "type":"nominal",
-                          "legend": {"strokeColor": "white"}},
-                          "value": "#eeedef"
-                        },
-                        "fillOpacity": {
-                          "condition":  {"selection": "highlight_nb_pieces_surface", "value": 1},
-                          "value": 0.75
-                        },
-                        "strokeWidth": {
-                          "condition":  [{"selection": "highlight_nb_pieces_surface", "value": 1}],
-                          "value": 0
-                        },
-                        "opacity": {
-                          "condition": {"selection": "legend_nb_pieces", "value": 1},
-                          "value": 0.2
-                        }
-                      }
-                  },
-           
-
-
-                  {
-                      "height": 200,
-                      "width": 330,
-                      "mark": {"type":"bar", "tooltip":true, "stroke": "red","cursor": "pointer"},
-                      "title": "Nb d'annonces selon le Diagnostic de Performance Energétique (DPE)",
-                      "selection": {
-                        "clic_dpe": {"fields": ["dpeL"], "on": "click", "type": "multi"}, 
-                        "highlight_dpe": {"type": "single", "empty": "none", "on": "mouseover"}
-                      },
-                      "transform": [
-                        {"filter": "datum.dpeL !== \"0\""},
-                        {"filter": {"selection": "clic_taille_log"}},
-                        {"filter": {"selection": "brush_date"}},
-                        {"filter": {"selection": "clic_ville"}},
-                        {"filter": {"selection": "clic_surface_bin"}},
-                        {"filter": {"selection": "legend_nb_pieces"}}
-                      
-
-                      ],
-                      "encoding": {
-                      "y": {
-                        "aggregate": "sum", "field": "nb_annonces", "type":   "quantitative", "axis":{"tickCount": 4}, "title": "Total des annonces"},
-                      "x": {
-                        "field": "dpeL", "type": "ordinal", "title": "Catégories du DPE"
-                      },
-
-                      "color":{
-                        "condition":{"selection": "clic_dpe",
-                          "field": "dpeL",
-                          "title": "Catégories du DPE",
-                          "type":"nominal",
-                          "legend": null,
-                          "scale": {"domain":["A", "B", "C", "D", "E", "F", "G"], "range": ["#51ba06", "#6df20f", "#aaff6e", "yellow", "#ffbe3b", "orange", "red"]}},
-                        "value": "#eeedef"
-                      },
-                        "fillOpacity": {
-                          "condition":  {"selection": "highlight_dpe", "value": 1},
-                          "value": 0.75
-                        },
-                        "strokeWidth": {
-                          "condition":  [{"selection": "highlight_dpe", "value": 1}],
-                          "value": 0
-                        }          
-                      }
-                }
-
-              
-            ],
-            "resolve": {"scale": {"color": "independent"}}
-            }
-            
-          ]
-
-  }]
-
-
-};
+  
+<!-- fermeture 1er container -->
+</div>
 
   
-  var view;
-  let init_VegaSpec = function() {
+<!-- </div> -->
 
-      vlSpec.data.values = df_global_filtre;
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+    <script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
 
-      var vgSpec = vegaLite.compile(vlSpec).spec;
 
-      var tooltipOptions = {
-      theme: 'light'
-      };
-      
-      var handler = new vegaTooltip.Handler(tooltipOptions);
-      var runtime = vega.parse(vgSpec);
-      view = new vega.View(runtime)
-        .renderer('canvas')  // set renderer (canvas or svg)
-        .tooltip(handler.call)  // note that you have to use `handler.call`!
-        .initialize('#vis') // initialize view within parent DOM container
-        .hover()             // enable hover encode set processing
-        .run()              // run the dataflow and render the view
-        
-
-      
-      let promise = new Promise(function(resolve, reject) {     
-          setTimeout(() => resolve(view.runAsync()), 200);
+    <script type="text/javascript">
+      var element = document.getElementById("toggle_sidebar");
+      element.ouvert = "false"
+      /*document.getElementById("toggle_sidebar").ouvert = "false"*/
+      function toggle_sidebar() {        
+        var clickEvent = new MouseEvent("click", {
+            "view": window,
+            "bubbles": true,
+            "cancelable": false
         });
 
-
-
-          let clic_ville_vega = [];    
-          view.addDataListener('clic_ville_store', function(name, value) {
-              /*console.log(name, value)*/
-              clic_ville_vega = (name, value);
-
-              //quand ville cliquée, on récupère liste des quartiers pour les passer à la func gestionVega_quartiers
-
-              //1.récupérer la ville cliquée
-              clic_ville = [];
-              for (i in clic_ville_vega) {
-
-                clic_ville.push(clic_ville_vega[i]["values"][0]);
-
-              };
-
-
-              //3.générer annonces à projeter pour la ville
-              filtre_ref_ville_gps_by_Vega("reloadVille")
-
-              //2.récupérer les quartiers correspondants
-              filtre_dataAnnonces_par_ville(); //clic_ville, clic_nb_pieces, brush_date
-
-              //3.1.construire le graph vega quartiers si non crée
-              if (view_quartiers === undefined) {
-                console.log('init graph vega quartiers');
-                clic_quartier = [];
-                init_VegaSpec_quartiers();
-              } 
-              //3.2.refresh du graph vega quartiers si déjà crée
-              else {
-                console.log('refresh graph vega quartiers');
-                clic_quartier = [];
-                refreshVegaSpec_quartiers();
-                /*init_VegaSpec_quartiers();*/
-              };
-
-              //4
-              //1.maj graph vega tick
-              init_vlSpec_tick_prix_m2();
-
-              //2.centrer les map
-              mymap1.flyToBounds(list_lat_lng); heatmap1.flyToBounds(list_lat_lng);
-
-              //3.projeter les annonces map
-              gestionLayer('ville');
-
-              //4.maj heatmap
-              //si block heatmap affiché, charger la heatmap ET la nouvelle légende
-              if (div_heatmap.style.display === 'block') {
-                changeHeatmap()
-                colorScheme = "redyellowgreen";
-                init_vlSpec_legend_map_1();
-              }
-              //sinon, charger uniquement la heatmap en arrière plan
-              else {
-                changeHeatmap();
-              }
-              div_message_bar_quartiers.style.display = "block";
-              //gestion chargement maps et légendes
-              let maps = document.getElementById('maps');
-              if (maps.style.display === 'none') {
-                document.getElementById('maps').style.display = 'block';
-                document.getElementById('maps_legends').style.display = 'block'
-
-              }
-
-          });
-
-          function transform_vegaClic_to_leaflet(clic_store, origin_signal) {
-                        //convertir liste quartiers filtrés en liste exploitable
-            let clic_list = [];
-            for (i in clic_nb_pieces_store) {
-              
-              clic_list.push(clic_store[i]["values"][0]);
-
-            };
-
-            if (origin_signal === 'clic_nb_pieces') {clic_nb_pieces = clic_list}
-            else if (origin_signal === 'clic_dpe') {clic_dpe = clic_list}
-
-            //si une ville a été sélectionnée, lancer les recalculs pour maj des graphs quartiers et map
-            if (clic_ville.length > 0) {
-              //2.récupérer les quartiers correspondants aux dates
-              filtre_dataAnnonces_par_ville();
-              refreshVegaSpec_quartiers();
-            };
-
-            //maj map si quartier cliqué
-            if (clic_quartier.length > 0 && clic_ville.length > 0) {
-              //1.recalcul des annonces à projeter            
-              filtre_ref_ville_quartier_gps_by_Vega();
-
-              //2.centrer la map
-              mymap1.flyToBounds(list_lat_lng);
-
-              //3.projeter les annonces map
-              gestionLayer('quartier');
-              init_vlSpec_tick_prix_m2();
-            }
-            //maj map si ville seule cliqué
-            else if (clic_quartier.length === 0 && clic_ville.length > 0) {
-              //1.recalcul des annonces à projeter
-              filtre_ref_ville_gps_by_Vega("reloadVille");
-
-              //2.centrer la map
-              mymap1.flyToBounds(list_lat_lng);
-
-              //3.projeter les annonces map
-              gestionLayer('ville');
-              init_vlSpec_tick_prix_m2();
-            };
-
-
+        if (element.ouvert === "false") {
+          element.dispatchEvent(clickEvent);
+          element.ouvert = "true"
           }
 
-          let clic_nb_pieces_store = [];      
-          view.addDataListener('clic_taille_log_store', function(name, value) {
-            /*console.log(name, value)*/
-            clic_nb_pieces = [];
-            clic_nb_pieces_store = (name, value);
-            let origin_signal = 'clic_nb_pieces';
-            transform_vegaClic_to_leaflet(clic_nb_pieces_store, origin_signal);
-            
-          });
-
-          view.addDataListener('clic_surface_bin_store', function(name, value) {
-            /*console.log(name, value)*/
-            clic_nb_pieces = [];
-            clic_nb_pieces_store = (name, value);
-            let origin_signal = 'clic_nb_pieces';
-            transform_vegaClic_to_leaflet(clic_nb_pieces_store, origin_signal);
-            
-          });
-          
-          view.addDataListener('clic_dpe_store', function(name, value) {
-            /*console.log(name, value)*/
-            clic_dpe = [];
-            clic_nb_pieces_store = (name, value);
-            let origin_signal = 'clic_dpe';
-            transform_vegaClic_to_leaflet(clic_nb_pieces_store, origin_signal);
-            
-          });
-
-
-          let brush_date_store = [];    
-          view.addDataListener('brush_date_store', function(name, value) {
-            /*console.log(name, value)*/
-            brush_date_store = (name, value);
-
-            //convertir liste quartiers filtrés en liste exploitable
-            //si selection vega appliquée, extraire les dates
-            if (brush_date_store.length > 0) {
-              brush_date = [];
-              for (i in brush_date_store) {
-                
-                brush_date.push(brush_date_store[i]["values"][0]);
-
-                };
-              brush_date = brush_date[0]
-            }
-            //sinon mettre par défaut les 12 mois
-            else if (brush_date_store.length === 0) {
-              brush_date = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-            }
-
-            //si une ville a été sélectionnée, lancer les recalculs pour maj des graphs quartiers et map
-            if (clic_ville.length > 0) {
-              //2.récupérer les quartiers correspondants aux dates
-              filtre_dataAnnonces_par_ville();
-              
-
-
-              //3.1.construire le graph vega quartiers si non crée
-              if (view_quartiers === undefined) {
-                console.log('init graph vega quartiers');
-                filtre_ref_ville_quartier_gps_by_Vega(); //clic_ville, clic_nb_pieces, brush_date
-                init_VegaSpec_quartiers();
-              } 
-              //3.2.refresh du graph vega quartiers si déjà crée
-              else {
-                console.log('refresh graph vega quartiers');
-                refreshVegaSpec_quartiers();
-                
-                  //maj map si quartier cliqué
-                  if (clic_quartier.length > 0 && clic_ville.length > 0) {
-                    
-                    filtre_ref_ville_quartier_gps_by_Vega();
-                    init_vlSpec_tick_prix_m2();
-                    gestionLayer('quartier');
-                    //maj heatmap
-                    setTimeout(changeHeatmap, 200);
-                    heatmap1.flyToBounds(list_lat_lng_filtred);
-
-                  }
-                  //maj map si ville seule cliqué
-                  else if (clic_quartier.length === 0 && clic_ville.length > 0) {
-        
-                    //1.recalcul des annonces à projeter
-                    filtre_ref_ville_gps_by_Vega("noreloadVille");
-
-                    //2.centrer la map
-                    mymap1.flyToBounds(list_lat_lng_filtred);
-
-                    init_vlSpec_tick_prix_m2();
-                    gestionLayer('ville');
-                    //maj heatmap
-                    setTimeout(changeHeatmap, 200)
-                    heatmap1.flyToBounds(list_lat_lng_filtred);
-
-                  }
-              }
-            }
-          });
-
-
-
-
-  };
-
-    setTimeout(init_VegaSpec, 3500);
-
-    
-
-    //refresh spec vega selon option list type annonce
-    var optionList_type_annonce = document.getElementById('type_annonce');
-    var type_annonce = optionList_type_annonce.value
-
-    optionList_type_annonce.addEventListener('change', filtre_dataAnnonces_optionList)
-    optionList_type_annonce.addEventListener('change', init_VegaSpec)
-
-    
-
-
-
-  var v = []; var q=[]
-  var list_noms_villes = []; var nom_ville = "";var list_noms_quartiers = []; var nom_quartier = "";
-
-  //fonction pour créer la liste des quartiers
-  function setOptionList_quartiers(list_quartiers) {
-    list_noms_quartiers=[];
-    for (let i = 0; i < list_quartiers.length;) {
-      list_noms_quartiers.push(list_quartiers[i].nomQuartier);
-      i++;
-    };
-
-    //enlever doublons
-    let list_quartiers_sans_doublons = new Set(list_noms_quartiers)
-    list_noms_quartiers = Array.from(list_quartiers_sans_doublons)
-
-    var select = document.getElementById('list_quartiers');
-
-    select.length = 0;
-    var opt0 =  (document.createElement('option')); opt0.innerHTML = "--"; select.appendChild(opt0);
-    for (item in list_noms_quartiers) {
-      var opt = document.createElement('option'), quartier = "";
-      quartier = list_noms_quartiers[item];
-      opt.value = quartier;
-      opt.innerHTML = quartier;
-      select.appendChild(opt);
-      
-    }
-
-  }
-
-
-  //extraire liste quartiers
-  // let list_quartiers = promise.then(function setView() {
-  //   v = view.data("data_7");
-    
-    
-  //   for (let i = 0; i < v.length;) {
-  //     list_noms_quartiers.push(v[i].nomQuartier);
-  //     i++;
-  //   }
-    
-  //   var select = document.getElementById('list_quartiers');
-
-  //   for (item in list_noms_villes) {
-  //     var opt = document.createElement('option'), ville = "";
-  //     ville = list_noms_villes[item];
-  //     opt.value = ville;
-  //     opt.innerHTML = ville;
-  //     select.appendChild(opt);
-      
-  //   }
-
-  //   return v
-  // }
-  // );
-
-
-
-
-
-
-    //vegaEmbed("#vis", spec)
-      // result.view provides access to the Vega View API
-      //.then(result => console.log(result))
-      //.catch(console.warn);
-  </script>
-
-
-  
- <!--  <h3>Une carte sans serveur local</h3><br>
-      <input type="text" id="saisie" value="saisir">recherche experimentale</input><br>
-      <h3>Initialiser la carte au 1er chargement:</h3>
-      <p>1. Cliquer sur une ville plus haut</p>
-      <p>2. Cliquer sur un quartier à droite</p>
-      <p>3. Cliquer sur le bouton ci-dessous:</p>
- -->
-      <div id="message_bar_quartiers" style="margin-top: 50px; margin-bottom: -25px">______________________________________Données à l'échelle des quartiers - cliquer sur un quartier dans le graphique de gauche__________________________________</div><br>
-      <div id="bar_quartiers" style="float:left; margin-left: 10px; margin-top: 40px"></div>
-      <div id="scater_quartiers" style="margin-left: 10px"></div></br>
-
-      
-      <div id="maps" style="float: left; margin-left: 3px; margin-top: 10px">
-        <!-- <button type="button" onclick="init_map()" style="float: left;" >Initialiser la carte</button> -->
-      
-        <div id="text-map-annonces" style="margin-top: 10px; margin-bottom: 10px">_________________________Annonces relatives au(x) quartier(s) sélectionnés -- chaque cercle représente une annonce___________________________</div>
-        <div id="text-heatmap" style="margin-top: 10px; margin-bottom: 10px">___________________________Carte de chaleur des prix au m² - mauve/vert = prix les plus faibles, rouge = prix les plus élevés____________________</div>
-      
-        <button id="button_display_heatmap" style="float: left; margin-left: 5px" type="button" onclick="heatmap_handleDisplay()" >Afficher carte de chaleur</button></br>
-        <div id="mapid-1" style="float: bottom; width: 950px; height: 600px; margin-top: 10px"></div>
-        <div id="heatmap" style="width: 950px; height: 600px; margin-top: 10px;"></div>      
-      </div>
-
-<!--       <div style="float:bottom; margin-left: 3px; margin-top: 10px">
-
-        
-      </div> -->
-
-      <div id="maps_legends" style="float:left; margin-left: 3px; margin-top: 80px">
-        <div id="legend_map" style="float:left; margin-left: -55px">Legende</div>
-        <div id="tick_prix_m2" style="float:bottom; margin-left: -25px; margin-top: 200px">Tick</div>
-      </div>
-      
-      
-      
-
-  <script type="text/javascript" src="lib/gestionVega_quartiers_4_6.js"></script>
-
-
-  <script>
-    //init carte 
-    var button_init_map = document.getElementById('init-map');
-    var div_heatmap = document.getElementById("heatmap");
-    var div_map = document.getElementById("mapid-1");
-    var div_message_bar_quartiers = document.getElementById("message_bar_quartiers");
-    var div_message_map1 = document.getElementById("text-map-annonces");
-    var div_message_heatmap = document.getElementById("text-heatmap");
-
-    var button_display_heatmap = document.getElementById('button_display_heatmap');
-/*    button_display_heatmap.addEventListener('click', valueHandler)*/
-    
-    function heatmap_handleDisplay() {
-      //affiche heatmap et masque map normale
-      if (div_heatmap.style.display === 'none') {
-        heatmap1.flyToBounds(list_lat_lng);
-        div_heatmap.style.display = 'block';
-        div_map.style.display = 'none';
-        button_display_heatmap.innerText = 'Retour à la carte précédante';
-        colorScheme = "redyellowgreen";
-        init_vlSpec_legend_map_1();
-        div_message_map1.style.display = "none";
-        div_message_heatmap.style.display = "block";
-      }
-      //affiche map normale et masque heatmap
-      else if (div_heatmap.style.display === 'block') {
-        div_heatmap.style.display = 'none';
-        div_map.style.display = 'block';
-        button_display_heatmap.innerText = 'Afficher carte de chaleur';
-        colorScheme = "blues";
-        init_vlSpec_legend_map_1();
-        div_message_map1.style.display = "block";
-        div_message_heatmap.style.display = "none";
-
-      }
-    };
-
-  
-
-
-
-
-  </script>
-
-<script type="text/javascript" src="lib/heatmap_app.js"></script>
-
-</div>
-
-</div>
-<script>
-  window.onload = function() {
-    document.getElementById('application').style.display = 'none';
-  };
-
-  var button_display_application = document.getElementById('button_display_application');
-  let div_message = document.getElementById('message');
-  let div_application = document.getElementById('application');
-  
-  function heatmap_applicationDisplay() {
-
-      //affiche l'application
-      if (div_application.style.display === 'none') {
-        div_application.style.display = 'block';
-        div_message_heatmap.style.display = "none";
-        div_message_bar_quartiers.style.display = "none";
-        div_message.style.display = 'none';
-        button_display_application.innerText = 'Retour au message';
-        button_display_application.style.marginTop = "1px";
-        
-        if (mymap1 == false) {
-          setMap();
-          setTimeout(configMap, 1000);
-          init_heatmap()
-
-          document.getElementById('maps').style.display = 'none';
-          document.getElementById('maps_legends').style.display = 'none'
-
-        };
-      
-      }
-      //affiche le message d'acceuil
-      else if (div_application.style.display === 'block') {
-        div_application.style.display = 'none';
-        div_message.style.display = 'block';
-        button_display_application.innerText = 'Afficher les graphiques';
-        button_display_application.style.marginTop = "15px";
       };
-  };
-</script>
+
+
+/*      function activate_sidebar() {
+          element2 = document.getElementById("dw-s1")
+          if (element2) {
+              toggle_sidebar()
+
+              console.log("activate_sidebar ok")
+          }
+          else {
+              console.log("attente activate_sidebar")
+              setTimeout(toggle_sidebar, 1000)
+          }
+      };
+
+      setTimeout(activate_sidebar, 100)*/
+
+      element.addEventListener("click", function(evt){                 
+        var element = document.getElementById("toggle_sidebar");
+        adjust_icon_sideBar(element)
+      } )
+
+      function adjust_icon_sideBar(element) {
+        if (element.ariaExpanded === "true") {
+          document.getElementById('sideBar_icon').innerHTML = 'menu'
+          document.getElementById('zone_recherche').innerHTML = 'Zone de recherche'
+        }
+        else if (element.ariaExpanded === "false") {
+          document.getElementById('sideBar_icon').innerHTML = 'chevron_left'
+          document.getElementById('zone_recherche').innerHTML = 'Fermer'
+        }        
+      }
+
+      //change display of lateral bar      
+      function adjust_display_lateral_bar() {
+        document.querySelector("#accordion > div").style.display = 'contents'
+      }
+      setInterval(adjust_display_lateral_bar, 3)
+
+      setTimeout(toggle_sidebar, 100)
+      setTimeout(toggle_sidebar, 500)
+      setTimeout(toggle_sidebar, 1500)
+      setTimeout(toggle_sidebar, 3000)
+      setTimeout(toggle_sidebar, 4500)
+      setTimeout(toggle_sidebar, 6000)
+      setTimeout(toggle_sidebar, 8500)
+      setTimeout(toggle_sidebar, 9000)
+      setTimeout(toggle_sidebar, 10500)
+
+
+
+
+      //get chart nodes        
+        var ctx_1 = document.getElementById('myChart_id1');    
+        var ctx_2 = document.getElementById('myChart_id2');    
+        var ctx_3 = document.getElementById('myChart_id3'); 
+        var ctx_4 = document.getElementById('myChart_id4');
+        var ctx_5 = document.getElementById('myChart_id5');
+        var ctx_6 = document.getElementById('myChart_id6'); 
+        var ctx_7 = document.getElementById('myChart_id7');
+        var ctx_8 = document.getElementById('myChart_id8');
+        var ctx_9 = document.getElementById('myChart_id9');
+        var ctx_10 = document.getElementById('myChart_id10');
+        var ctx_11 = document.getElementById('myChart_id11');
+        var htmlNode1 = document.getElementById('brush1');
+
+      
+    </script>
+
+    <script type="text/javascript" src="lib/search_communes.js"></script>
+
+    <!-- leaflet + heatmap JS -->
+    <script>L_PREFER_CANVAS = true;</script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
+    <script src="lib/heatmap/build/heatmap.js"></script>
+    <script src="lib/heatmap/plugins/leaflet-heatmap/leaflet-heatmap.js"></script>
+
+    <script type="text/javascript" src="lib/leaflet_custom/gestionMap_3.js"></script>
+    <script type="text/javascript" src="lib/leaflet_custom/adapt_tailleCercles_zoom.js"></script>
+    <script type="text/javascript" src="lib/leaflet_custom/gestionLayer_4.js"></script>
+    <script type="text/javascript" src="lib/leaflet_custom/color_teinte_match.js"></script>
+    
+    <script type="text/javascript" src="lib/generateLegends.js"></script>
+      <script type="text/javascript" src="lib/brush/d3_brush.js"></script>
+      <script type="text/javascript" src="lib/brush/d3_brush_curveChartJS.js"></script>
+      <script type="text/javascript" src="lib/d3-legend.js"></script>
+      <link rel="stylesheet" href="css/bootstrap_4/css/bootstrap.css">
+        
+    <script type="text/javascript" src="lib/stats_functions_v2.js"></script>    
+    <script type="text/javascript" src="lib/CrossFilterDataSource.js"></script>
+    <script type="text/javascript" src="lib/bin_custom_func_v_0_1.js"></script>
+    <script type="text/javascript" src="lib/interpolateColors.js"></script>
+    <script type="text/javascript" src="lib/color_generator.js"></script>
+    
+    <script type="text/javascript" src="lib/lodash.min.js"></script>
+    <script type="text/javascript" src="lib/ramda.min.js"></script>
+    <script type="text/javascript" src="lib/func_utiles.js"></script>
+    <script type="text/javascript" src="lib/class_sharedParams.js"></script>
+    <script type="text/javascript" src="lib/param_customSpec_PieChartsJS_v2.js"></script>
+    <script type="text/javascript" src="lib/param_customSpec_BarChartsJS.js"></script>
+    <script type="text/javascript" src="lib/param_customSpec_CurveChartsJS.js"></script>
+    <script type="text/javascript" src="lib/params_mixed_BarLineChart.js"></script>
+    <script type="text/javascript" src="lib/params_scatterChart.js"></script>
+    <script type="text/javascript" src="lib/pieChart_class_v2.js"></script>
+    <script type="text/javascript" src="lib/simpleBarChart_class.js"></script>    
+    <script type="text/javascript" src="lib/grouped_barChart_class_4.js"></script>
+    <script type="text/javascript" src="lib/stacked_barChart_class.js"></script>
+    <script type="text/javascript" src="lib/curveChart_class.js"></script>
+    <script type="text/javascript" src="lib/mixed_BarLineChart_singleScale_class.js"></script>
+    <script type="text/javascript" src="lib/mixed_BarLineChart_doubleScale_class.js"></script>
+    <script type="text/javascript" src="lib/scatterChart_class.js"></script>
+    <script type="text/javascript" src="lib/stateManagement_9.js"></script>
+    <script type="text/javascript" src="lib/params_map.js"></script>
+    <script type="text/javascript" src="lib/map_class_v2.js"></script>
+    <script type="text/javascript" src="lib/map_choroplethe_class_v1.js"></script>
+    <script type="text/javascript" src="lib/params_label.js"></script>
+    <script type="text/javascript" src="lib/label_class.js"></script>
+    <script type="text/javascript" src="lib/labelGroup_class.js"></script>
+    <script type="text/javascript" src="lib/decode_fields.js"></script>
+    <script type="text/javascript" src="lib/setup_graphics.js"></script>
+
+    <!-- <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script> -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/6.6.4/math.min.js"></script> -->
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+
+
 </body>
+
+</html>

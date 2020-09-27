@@ -1,0 +1,11 @@
+//1.source & target chart share the same legend fields, and one of them has hidden legends:
+restore original datasets for both charts & sync legends
+
+//2.source & target chart do not share the same legend fields
+	//2.1.check if source chart has hidden legends:
+	collect the active ones & restore
+
+	//2.2.check if target chart has hidden legends:
+	collect the active ones
+
+

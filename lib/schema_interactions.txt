@@ -1,0 +1,19 @@
+schema interaction charts (2 charts, A & B)
+1.clic on chart A
+-> refresh chart B with the label provided by the chart A (label: INSEE_COM = 64445)
+
+2.with above selection maintained on chart A, clic on slice of chart B (nb_pieces = 1)
+-> maintain the filter of chart A (label: INSEE_COM = 64445)
+-> filter chart A with the label(s) provided by the chart B (label: nb_pieces = 1)
+
+deselect slice clicked on chart B:
+-> deactivate filter on chart A fired by chart B (label: nb_pieces = 1)
+-> maintain original filter of chart A (label: INSEE_COM = 64445)
+
+deselect original slice clicked on chart A:
+-> deactivate filter on chart B fired by chart A (label: INSEE_COM = 64445)
+
+
+
+
+

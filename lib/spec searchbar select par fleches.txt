@@ -1,0 +1,12 @@
+var global pos_focus pour save en permanence la pos du dernier elemt ayant le focus
+
+listener attaché a l'input pour capturer l'evenmt fleche bas-haut
+
+activer le déplacement dans les 2 cas suivants:
+1.si fleche bas appuyé, incrementer la var pos_focus +1, pour se pre-positionner sur le prochain elemnt de la liste ref
+
+2.si fleche haut appuyé, decrementer la var pos_focus -1, pour se pre-positionner sur le precedent elemnt de la liste ref
+
+arrêter le déplacement dans les 2 cas suivants:
+1.si fleche bas appuyé et pos du dernier elemnt de la liste ref = à la borne sup de la liste; ne plus incrementer la var pos_focus +1, pour se pre-positionner sur le prochain elemnt de la liste ref
+2.si fleche haut appuyé et pos du 1er elemnt de la liste ref = borne inf de la liste; incrementer la var pos_focus +1, pour sepre-positionner sur le prochain elemnt de la liste ref

@@ -1,0 +1,96 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A simple bar chart with embedded data.",
+ "data": {
+  "url": "https://raw.githubusercontent.com/klopstock-dviz/immo_vis/master/data/df_annonces_gps_iris_ventes_75.csv", "format":{"type": "dsv", "delimiter": ";"}
+},
+        "transform": [
+        {"filter": "datum.nb_pieces <= 8"},
+        {"filter": "datum.INSEE_COM === '64122' || datum.INSEE_COM === '64445'"}
+        
+        ],
+
+	
+    "columns": 2,
+    "spacing": 40,
+    "concat":
+        [  {     
+
+			"selection": {
+	              "clic_commune": {"fields": ["INSEE_COM"], "on": "click", "type": "multi"}, 
+	              "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+              },
+              "transform": [
+                {"filter":{"selection": "clic_comm_nb_pieces"}},
+                {"filter":{"selection": "clic_dpeL"}}
+              ],          
+			  "mark": {"type":"bar", "tooltip":true},
+			  "encoding": {
+			    "x": {"field": "INSEE_COM", "type": "ordinal"},
+			    "y": {"aggregate":"mean", "field": "prix_m2_vente", "type": "quantitative"},
+	            "color":{
+	                    "condition":{"selection": "clic_commune",
+	                    "field": "INSEE_COM",
+	                    "title": "commune",
+	                    "type":"nominal",
+	                    "legend": null},
+	                    "value": "#eeedef"
+	                  }			  
+
+			  }
+			},
+
+			{
+			"selection": {
+	              "clic_comm_nb_pieces": {"fields": ["nb_pieces"], "on": "click", "type": "multi"}, 
+	              "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+              },
+              "transform": [
+                {"filter":{"selection": "clic_commune"}},
+                {"filter":{"selection": "clic_dpeL"}}
+              ],
+			  "mark": {"type":"bar", "tooltip":true},
+			  "encoding": {
+			    "y": {
+			      "aggregate": "mean", "field": "prix_m2_vente", "type": "quantitative"},
+			    "x": {
+			      "field": "INSEE_COM", "type": "ordinal",
+			      "axis": {"title": "INSEE_COM"}
+			    },
+	            "color":{
+	                    "condition":{"selection": "clic_comm_nb_pieces",
+	                    "field": "nb_pieces",
+	                    "title": "nb_pieces",
+	                    "type":"nominal",
+	                    "legend": null},
+	                    "value": "#eeedef"
+	                  }			  
+
+			  }
+			  },
+			{   
+			"selection": {
+	              "clic_dpeL": {"fields": ["dpeL"], "on": "click", "type": "multi"}, 
+	              "highlight": {"type": "single", "empty": "none", "on": "mouseover"}
+              },
+              "transform": [
+                {"filter":{"selection": "clic_commune"}},
+                {"filter":{"selection": "clic_comm_nb_pieces"}}
+              ],			    
+			  "mark": {"type":"bar", "tooltip":true},
+			  "encoding": {
+			    "x": {"field": "dpeL", "type": "ordinal"},
+			    "y": {"aggregate":"mean", "field": "prix_m2_vente", "type": "quantitative"}
+			  },
+			    "color": {
+			      "field": "dpeL", "type": "nominal"
+			    }			  
+			}
+
+
+		]
+
+
+
+
+}
