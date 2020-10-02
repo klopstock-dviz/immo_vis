@@ -124,27 +124,27 @@
                                                   </div>
 
 
-<div class="row">
-  <div class="col-12">
-                <div id="preloader_data" class="d-flex justify-content-center">
-                  <div id="preloader_data1" class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
-                    <span class="sr-only">Loading...</span>
-                  </div>
-                </div>
-  </div>
-  <div class="col-12">
-                <p id="preloader_data_comment" class="d-flex justify-content-center"></p>
-  </div>
-</div>
-
-
                                                   <div class="row">
+                                                    <div class="col-12">
+                                                                  <div id="preloader_data" class="d-flex justify-content-center">
+                                                                    <div id="preloader_data1" class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                                                                      <span class="sr-only">Loading...</span>
+                                                                    </div>
+                                                                  </div>
+                                                    </div>
+                                                    <div class="col-12">
+                                                                  <p id="preloader_data_comment" class="d-flex justify-content-center"></p>
+                                                    </div>
+                                                  </div>
+
+
+<!--                                                   <div class="row">
                                                     <div class="col-sm">                     
                                                       <div id="decaler">          
                                                         ...
                                                       </div>
                                                     </div>
-                                                  </div>
+                                                  </div> -->
 
 
 
@@ -152,6 +152,38 @@
                             </div>
                           </div>
                         </div>
+
+
+
+
+
+                        <div class="card">
+                          <div class="card-header" id="headingTwo" style="background-color: #ea454b;">
+
+                              <button class="btn btn-light" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="margin-left: 60px;">
+                                Filtrer
+                              </button>
+                          </div>
+                          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div class="card-body">
+
+
+                              <div class="container-flex">
+                                <div class="row">
+                                  <div class="col-12">
+                                    <h7 id="slider1_title" style="justify-content: center" >Taux de rendement</h7>
+                                    <div id="slider1" style="margin-top: 45px"></div>
+                                  </div>
+                                </div>
+
+                              </div>
+
+
+                              
+                            </div>
+                          </div>
+                        
+                        </div>                        
 
 
                 
@@ -533,6 +565,11 @@
     
     <script type="text/javascript" src="lib/lodash.min.js"></script>
     <script type="text/javascript" src="lib/ramda.min.js"></script>
+    <script type="text/javascript" src="lib/external_libs/nouislider.min.js"></script>
+    <script type="text/javascript" src="lib/external_libs/wNumb.min.js"></script>
+
+    <link rel="stylesheet" href="css/nouislider.min.css">
+
     <script type="text/javascript" src="lib/func_utiles.js"></script>
     <script type="text/javascript" src="lib/class_sharedParams.js"></script>
     <script type="text/javascript" src="lib/param_customSpec_PieChartsJS_v2.js"></script>
@@ -556,14 +593,36 @@
     <script type="text/javascript" src="lib/label_class.js"></script>
     <script type="text/javascript" src="lib/labelGroup_class.js"></script>
     <script type="text/javascript" src="lib/decode_fields.js"></script>
+    <script type="text/javascript" src="lib/params_Slider.js"></script>
+    <script type="text/javascript" src="lib/SliderDoubleRange_class.js"></script>
+
     <script type="text/javascript" src="lib/setup_graphics.js"></script>
+
+
 
     <!-- <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script> -->
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/6.6.4/math.min.js"></script> -->
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 
+    <script>
+      /*var slider = document.getElementById('slider1');
 
+      noUiSlider.create(slider, {
+          start: [20, 80],
+          tooltips: [wNumb({decimals: 1}), true],
+          connect: true,
+          range: {
+              'min': 0,
+              'max': 100
+          },
+          format: wNumb({
+                  decimals: 3,
+                  thousand: '.',
+                  suffix: ' (%)'
+              })          
+      });    */
+    </script>
 </body>
 
 </html>
