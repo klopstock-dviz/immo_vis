@@ -1,0 +1,189 @@
+TYPEQU;Lib_TYPEQU;Regroup1
+A101;Police;Services publics
+A104;Gendarmerie;Services publics
+A105;'Cour d''appel (CA)';Services publics
+A106;Tribunal de grande instance (TGI);Services publics
+A107;'Tribunal d''instance (TI)';Services publics
+A108;'Conseil de prud''hommes (CPH)';Services publics
+A109;Tribunal de commerce (TCO);Services publics
+A115;Réseau spécialisé Pôle emploi;Services publics
+A119;DGFiP (Direction générale des Finances publiques);Services publics
+A120;DRFiP (Direction régionale des Finances publiques);Services publics
+A121;DDFiP (Direction départementale des Finances publiques);Services publics
+A122;Réseau de proximité Pôle emploi;Services publics
+A123;Réseau partenarial Pôle emploi;Services publics
+A124;Maison de justice et du droit;Services publics
+A125;Antenne de justice;Services publics
+A126;'Conseil départemental d''accès au droit (CDAD)';Services publics
+A127;Maison de services au public (MSAP);Services publics
+A203;'Banque-Caisse d''épargne';Banques
+A205;Pompes funèbres;Pompes funèbres
+A206;Bureau de poste;Services publics
+A207;Relais poste;Services publics
+A208;Agence postale;Services publics
+A301;Réparation automobile et de matériel agricole;Services particuliers
+A302;Contrôle technique automobile;Services particuliers
+A303;Location auto-utilitaires légers;Services particuliers
+A304;École de conduite;Services particuliers
+A401;Maçon;Services particuliers
+A402;Plâtrier peintre;Services particuliers
+A403;Menuisier charpentier serrurier;Services particuliers
+A404;Plombier couvreur chauffagiste;Services particuliers
+A405;Électricien;Services particuliers
+A406;Entreprise générale du bâtiment;Services particuliers
+A501;Coiffure;Services particuliers
+A502;Vétérinaire;Services particuliers
+A503;Agence de travail temporaire;Services particuliers
+A504;Restaurant-Restauration rapide;Alimentation
+A505;Agence immobilière;Services particuliers
+A506;Pressing-Laverie automatique;Services particuliers
+A507;Institut de beauté-Onglerie;Services particuliers
+B101;Hypermarché;Alimentation
+B102;Supermarché;Alimentation
+B103;Grande surface de bricolage;Alimentation
+B201;Supérette;Alimentation
+B202;Épicerie;Alimentation
+B203;Boulangerie;Alimentation
+B204;Boucherie charcuterie;Alimentation
+B205;Produits surgelés;Alimentation
+B206;Poissonnerie;Alimentation
+B301;Librairie papeterie journaux;Presse
+B302;Magasin de vêtements;Magasin de vêtements
+B303;'Magasin d''équipements du foyer';'Magasin d''équipements du foyer'
+B304;Magasin de chaussures;Magasin de chaussures
+B305;'Magasin d''électroménager et de matériel audio-vidéo';'Magasin d''électroménager et de matériel audio-vidéo'
+B306;Magasin de meubles;Magasin de meubles
+B307;'Magasin d''articles de sports et de loisirs';'Magasin d''articles de sports et de loisirs'
+B308;Magasin de revêtements murs et sols;Magasin de revêtements murs et sols
+B309;Droguerie quincaillerie bricolage;Droguerie quincaillerie bricolage
+B310;Parfumerie-Cosmétique;Parfumerie-Cosmétique
+B311;Horlogerie-Bijouterie;Horlogerie-Bijouterie
+B312;Fleuriste-Jardinerie-Animalerie;Fleuriste-Jardinerie-Animalerie
+B313;'Magasin d''optique';'Magasin d''optique'
+B315;Magasin de matériel médical et orthopédique;Magasin de matériel médical et orthopédique
+B316;Station-service;Station-service
+C101;École maternelle;Education
+C102;École maternelle de regroupement pédagogique intercommunal (RPI) dispersé;Education
+C104;École élémentaire;Education
+C105;École élémentaire de regroupement pédagogique intercommunal (RPI) dispersé;Education
+C201;Collège;Education
+C301;'Lycée d''enseignement général et/ou technologique';Education
+C302;'Lycée d''enseignement professionnel';Education
+C303;'Lycée d''enseignement technique et/ou professionnel agricole';Education
+C304;'SGT Section d''enseignement général et technologique';Education
+C305;'SEP Section d''enseignement professionnel';Education
+C401;STS CPGE;Education
+C402;Formation santé;Education
+C403;Formation commerce;Education
+C409;Autre formation post bac non universitaire;Education
+C501;UFR;Education
+C502;Institut universitaire;Education
+C503;'École d''ingénieurs';Education
+C504;Enseignement général supérieur privé;Education
+C505;'École d''enseignement supérieur agricole';Education
+C509;Autre enseignement supérieur;Education
+C601;'Centre de formation d''apprentis hors agriculture';Education
+C602;GRETA;Education
+C603;Centre dispensant de la formation continue agricole;Education
+C604;Formation aux métiers du sport;Education
+C605;'Centre dispensant des formations d''apprentissage agricole';Education
+C609;Autre formation continue;Education
+C701;Résidence universitaire;Education
+C702;Restaurant universitaire;Education
+D101;Établissement santé court séjour;Santé
+D102;Établissement santé moyen séjour;Santé
+D103;Établissement santé long séjour;Santé
+D104;Établissement psychiatrique;Santé
+D105;Centre lutte cancer;Santé
+D106;Urgences;Santé
+D107;Maternité;Santé
+D108;Centre de santé;Santé
+D109;Structure psychiatrique en ambulatoire;Santé
+D110;Centre médecine préventive;Santé
+D111;Dialyse;Santé
+D112;Hospitalisation à domicile;Santé
+D113;Maison de santé pluridisciplinaire;Santé
+D201;Médecin généraliste;Santé
+D202;Spécialiste en cardiologie;Santé
+D203;Spécialiste en dermatologie vénéréologie;Santé
+D206;Spécialiste en gastro-entérologie hépatologie;Santé
+D207;Spécialiste en psychiatrie;Santé
+D208;Spécialiste en ophtalmologie;Santé
+D209;Spécialiste en oto-rhino-laryngologie;Santé
+D210;Spécialiste en pédiatrie;Santé
+D211;Spécialiste en pneumologie;Santé
+D212;Spécialiste en radiodiagnostic et imagerie médicale;Santé
+D213;Spécialiste en stomatologie;Santé
+D214;Spécialiste en gynécologie (médicale et/ou obstétrique);Santé
+D221;Chirurgien dentiste;Santé
+D231;Sage-femme;Santé
+D232;Infirmier;Santé
+D233;Masseur-kinésithérapeute;Santé
+D235;Orthophoniste;Santé
+D236;Orthoptiste;Santé
+D237;Pédicure-podologue;Santé
+D238;Audio-prothésiste;Santé
+D239;Ergothérapeute;Santé
+D240;Psychomotricien;Santé
+D241;Manipulateur ERM;Santé
+D242;Diététicien;Santé
+D243;Psychologue;Santé
+D301;Pharmacie;Santé
+D302;'Laboratoire d''analyses et de biologie médicale';Santé
+D303;Ambulance;Santé
+D304;Transfusion sanguine;Santé
+D305;Établissement thermal;Santé
+D401;Personnes âgées : hébergement;Personnes âgées
+D402;Personnes âgées : soins à domicile;Personnes âgées
+D403;'Personnes âgées : services d''aide';Personnes âgées
+D404;Personnes âgées : foyers restaurants;Personnes âgées
+D502;Crèche;Education
+D601;Enfants handicapés : hébergement;Handicap
+D602;Enfants handicapés : services à domicile ou ambulatoires;Handicap
+D603;Adultes handicapés : accueil-hébergement;Handicap
+D604;'Adultes handicapés : services d''aide';Handicap
+D605;Travail protégé;Travail protégé
+D606;Adultes handicapés : services de soins à domicile;Handicap
+D701;'Aide sociale à l''enfance : hébergement';Services publics
+D702;'Aide sociale à l''enfance : action éducative';Services publics
+D703;'CHRS Centre d''hébergement et de réadaptation sociale';Services publics
+D704;'Centre provisoire d''hébergement';Services publics
+D705;'Centre accueil demandeur d''asile';Services publics
+D709;Autres établissements pour adultes et familles en difficulté;Transports
+E101;Taxi-VTC;Transports
+E102;Aéroport;Transports
+E107;'Gare de voyageurs d''intérêt national';Transports
+E108;'Gare de voyageurs d''intérêt régional';Transports
+E109;'Gare de voyageurs d''intérêt local';Transports
+F101;Bassin de natation;Sports
+F102;Boulodrome;Sports
+F103;Tennis;Sports
+F104;Équipement de cyclisme;Sports
+F105;Domaine skiable;Sports
+F106;Centre équestre;Sports
+F107;Athlétisme;Sports
+F108;Terrain de golf;Sports
+F109;Parcours sportif/santé;Sports
+F110;Sports de glace;Sports
+F111;Plateaux et terrains de jeux extérieurs;Sports
+F112;Salles spécialisées;Sports
+F113;Terrains de grands jeux;Sports
+F114;Salles de combat;Sports
+F116;Salles non spécialisées;Sports
+F117;Roller-Skate-Vélo-Bicross ou freestyle;Sports
+F118;Sports nautiques;Sports
+F119;Bowling;Sports
+F120;Salles de remise en forme;Sports
+F121;Salles multisports (gymnases);Sports
+F201;Baignade aménagée;Loisirs
+F202;Port de plaisance - Mouillage;Loisirs
+F203;Boucle de randonnée;Loisirs
+F303;Cinéma;Culture
+F304;Musée;Culture
+F305;Conservatoire;Culture
+F306;Théâtre-Arts de rue-Pôle cirque;Culture
+F307;Bibliothèque;Culture
+G101;Agence de voyage;Culture
+G102;Hôtel;Tourisme
+G103;Camping;Tourisme
+G104;Information touristique;Tourisme
