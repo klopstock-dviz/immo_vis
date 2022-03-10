@@ -367,7 +367,7 @@ Sports, loisirs et culture;Équipements sportifs;F;F1;F101;"Bassin de natation
 + Éclairé";"Bassin de natation, sportive et/ou ludique.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de bassins.";OUI;swimming-pool;green
+nombre d’équipements identiques : nombre de bassins.";OUI;swimming-pool;white
 Sports, loisirs et culture;Équipements sportifs;F;F1;F102;"Boulodrome
 + Couvert
 + Éclairé";"Terrain de boules, de pétanque.
@@ -464,7 +464,7 @@ Sports, loisirs et culture;Équipements sportifs;F;F1;F118;"Sports nautiques
 + Éclairé";"Site d'activités aquatiques et nautiques, stade de ski nautique et/ou d'aviron, stade mixte.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;swimmer;green
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;swimmer;blue
 Sports, loisirs et culture;Équipements sportifs;F;F1;F119;"Bowling
 + Couvert
 + Éclairé";"Piste de bowling.
@@ -485,8 +485,8 @@ Sports, loisirs et culture;Équipements sportifs;F;F1;F121;"Salles multisports
 1=Au moins 1 équipement est éclairé";"(source : RES)
 nombre d’équipements identiques : nombre de salles.";OUI;dumbbell;green
 Sports, loisirs et culture;Équipements de loisirs;F;F2;F201;Baignade aménagée;"Zone délimitée (matériellement, par des bouées, des lignes d'eau, etc) pour la baignade surveillée.
-En rivière, mer, plan d'eau intérieur.";(source : RES);OUI;swimmer;green
-Sports, loisirs et culture;Équipements de loisirs;F;F2;F202;Port de plaisance - Mouillage;Port de plaisance, zone de mouillage.;(source : RES);OUI;anchor;green
+En rivière, mer, plan d'eau intérieur.";(source : RES);OUI;swimmer;blue
+Sports, loisirs et culture;Équipements de loisirs;F;F2;F202;Port de plaisance - Mouillage;Port de plaisance, zone de mouillage.;(source : RES);OUI;anchor;blue
 Sports, loisirs et culture;Équipements de loisirs;F;F2;F203;Boucle de randonnée;Uniquement les boucles de randonnée dont les points de départ et d'arrivée se situent sur la même commune (règle du RES). ;(source : RES);OUI;hiking;green
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F303;"Cinéma
 + NB_SALLES";"Est considéré comme cinéma tout lieu de projection disposant d'une autorisation d'exercice au sens du code de l'industrie cinématographique, et présent dans la base du CNC.
