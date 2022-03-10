@@ -494,24 +494,24 @@ Est inclus dans cette base tout cinéma disposant d'une autorisation administrat
 Y compris cinéma classé « art et essai » géré par le CNC.
 Ne sont pas pris en compte les cinémas itinérants.";"(source : CNC)
 capacité : nombre de salles par cinéma 
-À partir de 2019, le champ géographique des cinémas s’est enrichi avec l’intégration des données des DOM.";OUI ;film;green
-Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F304;Musée;Musée relevant de l'appellation musée de France et appartenant à l’État ou à une personne morale de droit public ou privé à but non lucratif, dont la conservation et la présentation au public des collections présentent un intérêt public.;(source : Culture);OUI;university;green
-Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F305;Conservatoire;Lieu dispensant un enseignement initial de musique, de danse et/ou d’art dramatique. Le ministère de la Culture les classe en trois catégories : les conservatoires à rayonnement communal ou intercommunal (CRC), les conservatoires à rayonnement départemental (CRD) et ceux à rayonnement régional (CRR).;(source : Culture);OUI;university;green
+À partir de 2019, le champ géographique des cinémas s’est enrichi avec l’intégration des données des DOM.";OUI ;film;cadetblue
+Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F304;Musée;Musée relevant de l'appellation musée de France et appartenant à l’État ou à une personne morale de droit public ou privé à but non lucratif, dont la conservation et la présentation au public des collections présentent un intérêt public.;(source : Culture);OUI;university;cadetblue
+Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F305;Conservatoire;Lieu dispensant un enseignement initial de musique, de danse et/ou d’art dramatique. Le ministère de la Culture les classe en trois catégories : les conservatoires à rayonnement communal ou intercommunal (CRC), les conservatoires à rayonnement départemental (CRD) et ceux à rayonnement régional (CRR).;(source : Culture);OUI;university;cadetblue
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F306;"Théâtre-Arts de rue-Pôle cirque
 + NB_SALLES";Ensemble de structures culturelles (théâtres, centres nationaux des arts de la rue et de l’espace public, pôles nationaux du cirque) gérées par ARTCENA (alliance du Centre national du théâtre et du centre de ressources Horslesmurs consacré au cirque et aux arts de la rue) où une représentation culturelle peut se tenir. Ces lieux peuvent être labellisés (théâtres nationaux et privés, scènes nationales et conventionnées, compagnies avec lieux d’accueil, compagnies dramatiques nationales et régionales, pôles nationaux du cirque, centres chorégraphiques) ou non.;"(source : ARTCENA)
 Nombre de salles par structure culturelle.
-Suite à un défaut de fournitures des données par le producteur, les données 2018 sont reconduites pour l’année 2019.";OUI;university;green
+Suite à un défaut de fournitures des données par le producteur, les données 2018 sont reconduites pour l’année 2019.";OUI;university;cadetblue
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F307;Bibliothèque;"Ensemble des points d’accès au livre (médiathèque, bibliothèque, point lecture, dépôt lecture…) relevant des collectivités territoriales : bibliothèques publiques de statut départemental, municipal, intercommunal et municipal classé (central ou annexe).
 Ces points d’accès au livre sont ouverts à tous et permettent la consultation sur place et le prêt à domicile.";"(source : Culture)
 Ne comprend pas les bibliothèques nationales sous tutelle directe du ministère de la Culture (ex. la Bibliothèque nationale de France, la Bibliothèque publique d’information…).
-Création en 2019";OUI ;university;green
+Création en 2019";OUI ;university;cadetblue
 Tourisme;Tourisme;G;G1;G101;Agence de voyage;Agences de voyage et voyagistes.;"(source : SIRENE)
-Ne comprend pas les services de réservation et d'information touristique.";OUI;globe;green
+Ne comprend pas les services de réservation et d'information touristique.";OUI;globe;darkpurple
 Tourisme;Tourisme;G;G1;G102;Hôtel;Hôtel classé et hôtel de tourisme non classé de 5 chambres et plus.;"(source : enquêtes TOURISME) 
-Ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.";OUI;bed;green
+Ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.";OUI;bed;darkpurple
 Tourisme;Tourisme;G;G1;G103;Camping;"Camping ou aire naturelle qui dispose d’au moins 10 emplacements dont au moins 1 de passage.
 Comprend les campings des comités d'entreprise, à clientèle spécifique (ouvriers, colonies de vacances, forains…) si cette clientèle est de passage, c’est-à-dire ne restant pas pendant toute la période d'ouverture du camping.";"(source : enquêtes TOURISME)
-Ne comprend pas les services de réservation et activités liées.";OUI;campground;green
+Ne comprend pas les services de réservation et activités liées.";OUI;campground;darkpurple
 Tourisme;Tourisme;G;G1;G104;Information touristique;"Activités d'information touristique.
 Comprend les services de réservation et d'information touristique, y compris les offices de tourisme, et les guides touristiques.";"(source : SIRENE)
-Ne comprend pas les agences de voyage et les voyagistes.";OUI ;info;green
+Ne comprend pas les agences de voyage et les voyagistes.";OUI ;info;darkpurple
