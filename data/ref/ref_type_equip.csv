@@ -72,7 +72,7 @@ possibilité d'une seule activité ou de multi-activité.";OUI;user-friends;;whi
 Services aux particuliers;Autres services a la population;A;A5;A501;Coiffure;Comprend les salons et la coiffure à domicile.;(source : SIRENE);OUI;cut;black;white
 Services aux particuliers;Autres services a la population;A;A5;A502;Vétérinaire;Services en clinique, en cabinet ou en visite pour animaux d'élevage ou de compagnie.;(source : SIRENE);OUI;dog;black;white
 Services aux particuliers;Autres services a la population;A;A5;A503;Agence de travail temporaire;Fourniture, sur une base temporaire, de personnel intérimaire.;(source : SIRENE);OUI;user-friends;black;white
-Services aux particuliers;Autres services a la population;A;A5;A504;Restaurant-Restauration rapide;"Comprend la restauration traditionnelle, la restauration de type rapide et depuis 2019, les cafétérias.
+Services aux particuliers;Restaurant-Restauration rapide;A;A5;A504;Restaurant-Restauration rapide;"Comprend la restauration traditionnelle, la restauration de type rapide et depuis 2019, les cafétérias.
 Comprend également les salons de thé.";"(source : SIRENE) 
 Activité parfois exercée en annexe de celle d'hôtel. Ne comprend pas les hôtels-restaurants, classés avec les hôtels seuls (G102).";OUI ;utensils;lightred;white
 Services aux particuliers;Autres services a la population;A;A5;A505;Agence immobilière;Activités intermédiaires en achat, vente et location de biens immobiliers, fonciers et commerciaux.;(source : SIRENE);OUI;user-friends;black;white
