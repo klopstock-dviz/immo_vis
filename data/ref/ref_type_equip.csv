@@ -96,7 +96,7 @@ Commerces;Commerces alimentaires;B;B2;B204;Boucherie charcuterie;"Commerce de d�
 Ne comprend pas les traiteurs exclusifs.";(source : SIRENE);OUI;shopping-bag;red;white;B204;#a13336
 Commerces;Commerces alimentaires;B;B2;B205;Produits surgelés;Commerce de détail de produits surgelés, en magasin ou par livraison à domicile.;(source : SIRENE);OUI ;snowflake;blue;white;B205;#37a6d8
 Commerces;Commerces alimentaires;B;B2;B206;Poissonnerie;"Commerce de détail alimentaire en magasin spécialisé (poisson, crustacés et mollusques).
-Ne comprend pas les entreprises de transformations et conservations industrielles, les exploitations d’aquaculture et les activités de pêche.";(source : SIRENE);OUI;fish-fins;blue;white;B206;#37a6d8
+Ne comprend pas les entreprises de transformations et conservations industrielles, les exploitations d’aquaculture et les activités de pêche.";(source : SIRENE);OUI;fish;blue;white;B206;#37a6d8
 Commerces;Commerces spécialisés non alimentaires;B;B3;B301;Librairie, papeterie, journaux;"Commerce de détail en magasin spécialisé de journaux, papeterie et livres.
 Y.c. journaux et périodiques.";(source : SIRENE);OUI;newspaper;black;white;B301;black
 Commerces;Commerces spécialisés non alimentaires;B;B3;B302;Magasin de vêtements;"Commerce de détail d’habillement en magasin spécialisé.
