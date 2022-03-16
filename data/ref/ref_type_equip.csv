@@ -1,127 +1,127 @@
-niv_1;niv_2;dom;sous_dom;type;libelle_equipement;contenu;observations;geoloc;category_iconMarker;colorMarker;colorIcon
+niv_1;niv_2;dom;sous_dom;type;libelle_equipement;contenu;observations;geoloc;category_iconMarker;colorMarker;colorIcon;subset_list
 Services aux particuliers;Services publics;A;A1;A101;Police;Ces services de la sécurité publique (hors CRS, police de l'air et des frontières, services régionaux des renseignements généraux, services de contrôle de l'immigration, services généraux d'administration de la police) ne comprennent pas les services de police municipale.;"(source : site de la préfecture de police de Paris et SIRENE dans les autres départements)
 Qualité fiable pour Paris.
-Qualité peu fiable dans le répertoire SIRENE pour tous les autres départements.";OUI;user-shield;blue;white
+Qualité peu fiable dans le répertoire SIRENE pour tous les autres départements.";OUI;user-shield;blue;white;A101
 Services aux particuliers;Services publics;A;A1;A104;Gendarmerie;"Unité de gendarmerie recevant du public.
-Comprend les brigades territoriales autonomes et les brigades territoriales de proximité.";(source : OED-Min Défense);OUI;user-shield;blue;white
+Comprend les brigades territoriales autonomes et les brigades territoriales de proximité.";(source : OED-Min Défense);OUI;user-shield;blue;white;A104
 Services aux particuliers;Services publics;A;A1;A105;Cour d’appel (CA);"La cour d'appel réexamine les affaires déjà jugées en premier degré (1er ressort ou 1ère instance) en matière civile, commerciale, sociale ou pénale. Seule exception : les appels des décisions des cours d'assises sont jugés par une autre cour d'assises.
 La cour d’appel est composée uniquement de magistrats professionnels.
-Elle intègre depuis 2014 les chambres détachées de la cour d’appel (CDCA).";(source : Ministère de la Justice);OUI ;user-friends;black;white
+Elle intègre depuis 2014 les chambres détachées de la cour d’appel (CDCA).";(source : Ministère de la Justice);OUI ;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A106;Tribunal de grande instance (TGI);"Le tribunal de grande instance a large compétence en matière civile. Il tranche :
 les litiges civils opposant des personnes privées (physiques ou morales) qui ne sont pas attribués par la loi à une autre juridiction civile ;
 les litiges civils portant sur des sommes supérieures à 10 000 euros. 
 
 Le tribunal de grande instance a aussi compétence exclusive pour de nombreuses affaires quel que soit le montant de la demande : état des personnes, famille, rectifications d’actes civils, successions, actions civiles pour diffamation ou injures, immobilier, brevets d’invention, droit des marques.
 Il est composé d’un ou plusieurs juges professionnels.
-Il intègre depuis 2014 les chambres détachées du tribunal de grande instance (CDTGI).";(source : Ministère de la Justice);OUI;user-friends;black;white
+Il intègre depuis 2014 les chambres détachées du tribunal de grande instance (CDTGI).";(source : Ministère de la Justice);OUI;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A107;Tribunal d’instance (TI);"Le tribunal d’instance a une compétence générale pour tous les petits délits civils. Il juge toutes les affaires conflictuelles (accidents de la circulation, charges de copropriétés, dettes, malfaçons, crédits à la consommation…) où les demandes portent sur des sommes inférieures à 10 000 euros.
 Il juge des tutelles et statue sur les demandes d’ouverture d’un régime de protection.
 Il juge également les conflits non réglés par le juge de proximité.
-Il est composé d’un ou plusieurs juges professionnels.";(source : Ministère de la Justice);OUI ;user-friends;black;white
+Il est composé d’un ou plusieurs juges professionnels.";(source : Ministère de la Justice);OUI ;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A108;Conseil de prud’hommes (CPH);"Le conseil de prud'hommes règle les litiges individuels (congés payés, salaires, primes, licenciement, clause de non-concurrence, durée du préavis) qui surviennent entre salariés ou apprentis et employeurs, à l'occasion du contrat de travail ou d'apprentissage…, à l'exception des litiges collectifs, comme l'exercice du droit de grève.
 Ce tribunal est composé de juges non professionnels élus, représentant, en nombre égal et pour moitié, les employeurs et les salariés.
-Chaque conseil de prud’hommes est divisé en 5 sections, représentant les principaux secteurs du monde du travail : encadrement, industrie, commerce et services commerciaux, agriculture, activités diverses.";(source : Ministère de la Justice);OUI;user-friends;black;white
+Chaque conseil de prud’hommes est divisé en 5 sections, représentant les principaux secteurs du monde du travail : encadrement, industrie, commerce et services commerciaux, agriculture, activités diverses.";(source : Ministère de la Justice);OUI;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A109;Tribunal de commerce (TCO);"Le tribunal de commerce tranche, de manière générale, les litiges entre commerçants ou entre commerçants et sociétés commerciales, et ceux qui portent sur les actes de commerce.
 Il est composé de juges non professionnels, des commerçants bénévoles, élus pour 2 ou 4 ans par d’autres commerçants.
-Il intègre depuis 2014 les tribunaux mixtes de commerce (TMX) et les tribunaux de grande instance à compétence commerciale (TGIC).";(source : Ministère de la Justice);OUI;user-friends;black;white
-Services aux particuliers;Services publics;A;A1;A115;Réseau spécialisé Pôle emploi;Il intervient sur des segments spécifiques de public : handicap, audiovisuel et spectacle.;(source : Pôle emploi);OUI;user-friends;black;white
-Services aux particuliers;Services publics;A;A1;A119;DGFiP (Direction générale des finances publiques);La DGFiP est issue de la fusion de la direction générale des impôts (DGI) et de la direction dénérale de la comptabilité publique (DGCP) au niveau national.;(source : SIRENE);OUI ;user-friends;black;white
-Services aux particuliers;Services publics;A;A1;A120;DRFiP (Direction régionale des finances publiques);Les DRFiP sont issues de la démarche nationale de rapprochement des deux administrations des impôts et de la comptabilité publique dans chaque région.;(source : SIRENE);OUI;user-friends;black;white
-Services aux particuliers;Services publics;A;A1;A121;DDFiP (Direction départementale des finances publiques);Les DDFiP sont issues de la démarche nationale de rapprochement des deux administrations des impôts et de la comptabilité publique. Dans les départements, les trésoreries générales et les directions des services fiscaux ont fusionné au sein d’une direction départementale avec à leur tête un responsable unique.;(source : SIRENE);OUI;user-friends;black;white
+Il intègre depuis 2014 les tribunaux mixtes de commerce (TMX) et les tribunaux de grande instance à compétence commerciale (TGIC).";(source : Ministère de la Justice);OUI;user-friends;black;white;N
+Services aux particuliers;Services publics;A;A1;A115;Réseau spécialisé Pôle emploi;Il intervient sur des segments spécifiques de public : handicap, audiovisuel et spectacle.;(source : Pôle emploi);OUI;user-friends;black;white;N
+Services aux particuliers;Services publics;A;A1;A119;DGFiP (Direction générale des finances publiques);La DGFiP est issue de la fusion de la direction générale des impôts (DGI) et de la direction dénérale de la comptabilité publique (DGCP) au niveau national.;(source : SIRENE);OUI ;user-friends;black;white;N
+Services aux particuliers;Services publics;A;A1;A120;DRFiP (Direction régionale des finances publiques);Les DRFiP sont issues de la démarche nationale de rapprochement des deux administrations des impôts et de la comptabilité publique dans chaque région.;(source : SIRENE);OUI;user-friends;black;white;N
+Services aux particuliers;Services publics;A;A1;A121;DDFiP (Direction départementale des finances publiques);Les DDFiP sont issues de la démarche nationale de rapprochement des deux administrations des impôts et de la comptabilité publique. Dans les départements, les trésoreries générales et les directions des services fiscaux ont fusionné au sein d’une direction départementale avec à leur tête un responsable unique.;(source : SIRENE);OUI;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A122;Réseau de proximité Pôle emploi;"Il comprend les agences, les relais et les permanences Pôle emploi.
-Présence d’un conseiller Pôle emploi en continu ou de façon planifiée et régulière.";(source : Pôle emploi);OUI;user-friends;black;white
+Présence d’un conseiller Pôle emploi en continu ou de façon planifiée et régulière.";(source : Pôle emploi);OUI;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A123;Réseau partenarial Pôle emploi;"Il comprend les relais et maisons de service public, les PIMMS (Points d’Information et de Médiation Multiservices) et les espaces numériques ayant passé une convention avec Pôle emploi.
-Il s’agit de lieux partenariaux de délivrance des services de Pôle emploi, mutualisés avec des partenaires tels les mairies, les maisons et relais de service public.";(source : Pôle emploi);OUI;user-friends;black;white
-Services aux particuliers;Services publics;A;A1;A124;Maison de justice et du droit;La maison de justice et du droit qui dépend du tribunal de grande instance intervient dans le domaine de la prévention et du traitement de la petite délinquance. Elle favorise le traitement amiable des conflits et organise des permanences gratuites d’information et de consultation juridique.;(source : Ministère de la Justice);OUI;user-friends;black;white
-Services aux particuliers;Services publics;A;A1;A125;Antenne de justice;L'antenne de justice offre un service de proximité d’information et d’accès au droit, gratuit et confidentiel. Certaines fonctionnent comme de véritables maisons de justice et du droit, d’autres s’apparentent à des points d’accès au droit.;(source : Ministère de la Justice);OUI ;user-friends;black;white
+Il s’agit de lieux partenariaux de délivrance des services de Pôle emploi, mutualisés avec des partenaires tels les mairies, les maisons et relais de service public.";(source : Pôle emploi);OUI;user-friends;black;white;N
+Services aux particuliers;Services publics;A;A1;A124;Maison de justice et du droit;La maison de justice et du droit qui dépend du tribunal de grande instance intervient dans le domaine de la prévention et du traitement de la petite délinquance. Elle favorise le traitement amiable des conflits et organise des permanences gratuites d’information et de consultation juridique.;(source : Ministère de la Justice);OUI;user-friends;black;white;N
+Services aux particuliers;Services publics;A;A1;A125;Antenne de justice;L'antenne de justice offre un service de proximité d’information et d’accès au droit, gratuit et confidentiel. Certaines fonctionnent comme de véritables maisons de justice et du droit, d’autres s’apparentent à des points d’accès au droit.;(source : Ministère de la Justice);OUI ;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A126;Conseil départemental d’accès au droit (CDAD);"Le conseil départemental d’accès au droit est chargé de définir, de piloter et de coordonner les actions en matière d’aide à l’accès au droit. Il est chargé de recenser les dispositifs existants et les faire connaître, d’identifier les besoins non satisfaits, d’évaluer la qualité et l’efficacité des dispositifs d’actions locales et de participer éventuellement à leur financement.
-Il propose à l’usager différents types de services : information des personnes sur leurs droits et obligations, aide à l’accomplissement de toute démarche, consultation juridique gratuite, assistance à la rédaction et à la conclusion d’actes.";(source : Ministère de la Justice);OUI;user-friends;black;white
+Il propose à l’usager différents types de services : information des personnes sur leurs droits et obligations, aide à l’accomplissement de toute démarche, consultation juridique gratuite, assistance à la rédaction et à la conclusion d’actes.";(source : Ministère de la Justice);OUI;user-friends;black;white;N
 Services aux particuliers;Services publics;A;A1;A127;Maison de services au public (MSAP);Les maisons de services au public délivrent une offre de proximité à l'attention de tous les publics. En un lieu unique, les usagers sont accompagnés par des agents dans leurs démarches de la vie quotidienne. L’objectif est de permettre à l’ensemble des habitants d’accéder à un service de proximité et/ou de bénéficier d’un accompagnement administratif sur de nombreuses thématiques de la vie quotidienne : emploi, retraite, famille, social, santé, logement, énergie, services postaux, accès au droit, etc. ;"(source : CGET)
-Création en 2019 avec introduction d’une nouvelle source : CGET (Commissariat général à l’égalité des territoires)";OUI;user-friends;black;white
+Création en 2019 avec introduction d’une nouvelle source : CGET (Commissariat général à l’égalité des territoires)";OUI;user-friends;black;white;N
 Services aux particuliers;Services généraux;A;A2;A203;Banque, Caisse d'épargne;"Établissements de crédit agréés, y.c. banques mutualistes ou coopératives et caisses d'épargne et de prévoyance.
 Ne comprend pas les guichets financiers de La Poste.";"(source : SIRENE)
-Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;orange;white
+Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;orange;white;A203
 Services aux particuliers;Services généraux;A;A2;A205;Pompes funèbres;"Il s’agit de l’activité principale déclarée.
 Comprend les activités de pompes funèbres quelle que soit la forme juridique (mise en bière, transport, services d'inhumation ou de crémation).";"(source : SIRENE)
-Activité parfois exercée en annexe avec celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.";OUI;user-friends;orange;white
-Services aux particuliers;Services généraux;A;A2;A206;Bureau de poste;Le bureau de poste, en gestion directe par La Poste, offre la totalité des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (courrier simple, recommandé, réexpédition, prêt à poster…) que pour les services financiers (ouverture de comptes, dépôts, retraits, assurances-vie, PEL, actions…).;(source : LA POSTE);OUI;envelope;beige;white
+Activité parfois exercée en annexe avec celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.";OUI;user-friends;orange;white;N
+Services aux particuliers;Services généraux;A;A2;A206;Bureau de poste;Le bureau de poste, en gestion directe par La Poste, offre la totalité des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (courrier simple, recommandé, réexpédition, prêt à poster…) que pour les services financiers (ouverture de comptes, dépôts, retraits, assurances-vie, PEL, actions…).;(source : LA POSTE);OUI;envelope;beige;white;A206
 Services aux particuliers;Services généraux;A;A2;A207;Relais poste;"Le relais poste est géré principalement par une personne privée dans le cadre de conventions de partenariat signées entre La Poste et des partenaires privés.
-Il offre une grande partie des produits et services de proximité délivrés à la population concernant le courrier et les colis (courrier simple, recommandé, prêt à poster, à l’exception de l’établissement d’une procuration postale…). Les services financiers sont limités au retrait d’espèces (maximum 150 euros par semaine) et au paiement de mandat cash.";(source : LA POSTE);OUI;envelope;beige;white
+Il offre une grande partie des produits et services de proximité délivrés à la population concernant le courrier et les colis (courrier simple, recommandé, prêt à poster, à l’exception de l’établissement d’une procuration postale…). Les services financiers sont limités au retrait d’espèces (maximum 150 euros par semaine) et au paiement de mandat cash.";(source : LA POSTE);OUI;envelope;beige;white;A207
 Services aux particuliers;Services généraux;A;A2;A208;Agence postale;"L’agence postale est gérée par une personne publique, représentée par des agents territoriaux dans le cadre de conventions de partenariat signées entre La Poste et les communes ou EPCI concernées.
-Elle offre une grande partie des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (comparable aux prestations des bureaux de poste) que pour les services financiers (légèrement moindres aux prestations des bureaux de poste : ouverture de compte et produits financiers tels que assurance-vie, PEL ou actions impossibles).";(source : LA POSTE);OUI ;envelope;beige;white
+Elle offre une grande partie des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (comparable aux prestations des bureaux de poste) que pour les services financiers (légèrement moindres aux prestations des bureaux de poste : ouverture de compte et produits financiers tels que assurance-vie, PEL ou actions impossibles).";(source : LA POSTE);OUI ;envelope;beige;white;A208
 Services aux particuliers;Services automobiles;A;A3;A301;Réparation automobile et de matériel agricole;"Le code APE principal ne suffit pas pour distinguer l'activité, notamment en zone rurale. On complète la recherche sur le code APRM (activité artisanale), cette activité étant souvent une activité secondaire, l’activité principale étant « commerce ».
 Dans ce cas, seules les unités exerçant une activité de réparation complémentaire du commerce de véhicules automobiles, du commerce de détail de carburants et du commerce de gros de matériel agricole sont retenues.
-Non compris réparation de tondeuses à gazon.";(source : SIRENE);OUI;user-friends;;white
-Services aux particuliers;Services automobiles;A;A3;A302;Contrôle technique automobile;Contrôle périodique des véhicules avec délivrance d'un certificat.;(source : SIRENE);OUI;user-friends;;white
+Non compris réparation de tondeuses à gazon.";(source : SIRENE);OUI;user-friends;;white;N
+Services aux particuliers;Services automobiles;A;A3;A302;Contrôle technique automobile;Contrôle périodique des véhicules avec délivrance d'un certificat.;(source : SIRENE);OUI;user-friends;;white;N
 Services aux particuliers;Services automobiles;A;A3;A303;Location auto-utilitaires légers;"Il s’agit de l’activité principale déclarée.
 Location sans chauffeur, y.c. d'utilitaires légers.";"(source : SIRENE)
-Activité parfois exercée en annexe avec celle de super ou hypermarché. Elle ne figure alors pas dans la BPE.";OUI;user-friends;;white
-Services aux particuliers;Services automobiles;A;A3;A304;École de conduite;Inclut les écoles de formation à la conduite sportive, au pilotage (autre que professionnel) de bateaux et d'avions.;(source : SIRENE);OUI;user-friends;;white
+Activité parfois exercée en annexe avec celle de super ou hypermarché. Elle ne figure alors pas dans la BPE.";OUI;user-friends;;white;N
+Services aux particuliers;Services automobiles;A;A3;A304;École de conduite;Inclut les écoles de formation à la conduite sportive, au pilotage (autre que professionnel) de bateaux et d'avions.;(source : SIRENE);OUI;user-friends;;white;N
 Services aux particuliers;Artisanat du bâtiment;A;A4;A401;Maçon;Il s'agit de l'activité principale déclarée;"(source : SIRENE)
-Il y a souvent multi-activité chez les artisans.";NON;user-friends;;white
+Il y a souvent multi-activité chez les artisans.";NON;user-friends;;white;N
 Services aux particuliers;Artisanat du bâtiment;A;A4;A402;Plâtrier peintre;Il s'agit de l'activité principale déclarée;"(source : SIRENE)
-Possibilité d'une seule des activités citées ou de multi-activité. ";OUI ;user-friends;;white
+Possibilité d'une seule des activités citées ou de multi-activité. ";OUI ;user-friends;;white;N
 Services aux particuliers;Artisanat du bâtiment;A;A4;A403;Menuisier charpentier serrurier;Il s'agit de l'activité principale déclarée;"(source : SIRENE)
-Possibilité d'une seule des activités citées ou de multi-activité.";OUI;user-friends;;white
+Possibilité d'une seule des activités citées ou de multi-activité.";OUI;user-friends;;white;N
 Services aux particuliers;Artisanat du bâtiment;A;A4;A404;Plombier couvreur chauffagiste;Il s'agit de l'activité principale déclarée;"(source : SIRENE)
-Possibilité d'une seule des activités citées ou de multi-activité.";OUI;user-friends;;white
+Possibilité d'une seule des activités citées ou de multi-activité.";OUI;user-friends;;white;N
 Services aux particuliers;Artisanat du bâtiment;A;A4;A405;Électricien;Il s'agit de l'activité principale déclarée;"(source : SIRENE)
-Il y a souvent multi-activité chez les artisans. ";OUI;user-friends;;white
+Il y a souvent multi-activité chez les artisans. ";OUI;user-friends;;white;N
 Services aux particuliers;Artisanat du bâtiment;A;A4;A406;Entreprise générale du bâtiment;Il s'agit de l'activité principale déclarée;"(source : SIRENE)
-possibilité d'une seule activité ou de multi-activité.";OUI;user-friends;;white
-Services aux particuliers;Autres services a la population;A;A5;A501;Coiffure;Comprend les salons et la coiffure à domicile.;(source : SIRENE);OUI;cut;black;white
-Services aux particuliers;Autres services a la population;A;A5;A502;Vétérinaire;Services en clinique, en cabinet ou en visite pour animaux d'élevage ou de compagnie.;(source : SIRENE);OUI;dog;black;white
-Services aux particuliers;Autres services a la population;A;A5;A503;Agence de travail temporaire;Fourniture, sur une base temporaire, de personnel intérimaire.;(source : SIRENE);OUI;user-friends;black;white
-Services aux particuliers;Restaurant-Restauration rapide;A;A5;A504;Restaurant-Restauration rapide;"Comprend la restauration traditionnelle, la restauration de type rapide et depuis 2019, les cafétérias.
+possibilité d'une seule activité ou de multi-activité.";OUI;user-friends;;white;N
+Services aux particuliers;Autres services a la population;A;A5;A501;Coiffure;Comprend les salons et la coiffure à domicile.;(source : SIRENE);OUI;cut;black;white;N
+Services aux particuliers;Autres services a la population;A;A5;A502;Vétérinaire;Services en clinique, en cabinet ou en visite pour animaux d'élevage ou de compagnie.;(source : SIRENE);OUI;dog;black;white;N
+Services aux particuliers;Autres services a la population;A;A5;A503;Agence de travail temporaire;Fourniture, sur une base temporaire, de personnel intérimaire.;(source : SIRENE);OUI;user-friends;black;white;N
+Services aux particuliers;Restaurant / Fast-food;A;A5;A504;Restaurant / Fast-food;"Comprend la restauration traditionnelle, la restauration de type rapide et depuis 2019, les cafétérias.
 Comprend également les salons de thé.";"(source : SIRENE) 
-Activité parfois exercée en annexe de celle d'hôtel. Ne comprend pas les hôtels-restaurants, classés avec les hôtels seuls (G102).";OUI ;utensils;lightred;white
-Services aux particuliers;Autres services a la population;A;A5;A505;Agence immobilière;Activités intermédiaires en achat, vente et location de biens immobiliers, fonciers et commerciaux.;(source : SIRENE);OUI;user-friends;black;white
-Services aux particuliers;Autres services a la population;A;A5;A506;Pressing-Laverie automatique;Comprend l'activité des blanchisseries de détail, y.c. les dépôts, le service des laveries automatiques en libre service, le nettoyage des vêtements (pressing).;(source : SIRENE);OUI;user-friends;black;white
+Activité parfois exercée en annexe de celle d'hôtel. Ne comprend pas les hôtels-restaurants, classés avec les hôtels seuls (G102).";OUI ;utensils;lightred;white;A504
+Services aux particuliers;Autres services a la population;A;A5;A505;Agence immobilière;Activités intermédiaires en achat, vente et location de biens immobiliers, fonciers et commerciaux.;(source : SIRENE);OUI;user-friends;black;white;N
+Services aux particuliers;Autres services a la population;A;A5;A506;Pressing-Laverie automatique;Comprend l'activité des blanchisseries de détail, y.c. les dépôts, le service des laveries automatiques en libre service, le nettoyage des vêtements (pressing).;(source : SIRENE);OUI;user-friends;black;white;N
 Services aux particuliers;Autres services a la population;A;A5;A507;Institut de beauté-Onglerie;"Il s’agit de l’activité principale déclarée.
 Soins esthétiques, de manucure et de pédicure.";"(source : SIRENE)
-Activité parfois exercée en annexe avec celle de parfumerie. Elle ne figure alors pas dans la BPE.";OUI;user-friends;red;white
-Commerces;Grandes surfaces;B;B1;B101;Hypermarché;Commerce de détail à prédominance alimentaire avec une surface de vente déclarée supérieure à 2500 m².;(source : SIRENE);OUI;shopping-cart;lightred;white
+Activité parfois exercée en annexe avec celle de parfumerie. Elle ne figure alors pas dans la BPE.";OUI;user-friends;red;white;N
+Commerces;Grandes surfaces;B;B1;B101;Hypermarché;Commerce de détail à prédominance alimentaire avec une surface de vente déclarée supérieure à 2500 m².;(source : SIRENE);OUI;shopping-cart;lightred;white;B101
 Commerces;Grandes surfaces;B;B1;B102;Supermarché;Commerce de détail à prédominance alimentaire avec une surface de vente déclarée entre 400 et 2500 m².;"(source : SIRENE)
-La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI;shopping-cart;lightred;white
+La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI;shopping-cart;lightred;white;B102
 Commerces;Grandes surfaces;B;B1;B103;Grande surface de bricolage;Surface de vente déclarée supérieure à 400 m².;"(source : SIRENE)
-La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI ;shopping-bag;lightred;white
+La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI ;shopping-bag;lightred;white;N
 Commerces;Commerces alimentaires;B;B2;B201;Supérette;Commerce de détail non spécialisé à prédominance alimentaire avec une surface de vente déclarée entre 120 et 400 m². Même remarque que pour B102 pour le seuil de 400 m². La limite de 120 m² n'est utilisée que par la NAF : il est recommandé de regrouper B201 avec les épiceries (B202).;"(source : SIRENE)
-La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI;shopping-cart;lightred;white
+La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI;shopping-cart;lightred;white;B201
 Commerces;Commerces alimentaires;B;B2;B202;Épicerie;Commerce de détail non spécialisé à prédominance alimentaire en surface de vente déclarée inférieure à 120 m². Il est recommandé de regrouper B202 avec les supérettes (B201).;"(source : SIRENE) 
-Les multiservices en zone rurale, à la fois épicerie, café, vente de tabac, vente de journaux, restaurant, etc. n'apparaissent ici que si la déclaration effectuée à SIRENE mentionne épicerie en activité principale.";OUI;shopping-cart;lightred;white
+Les multiservices en zone rurale, à la fois épicerie, café, vente de tabac, vente de journaux, restaurant, etc. n'apparaissent ici que si la déclaration effectuée à SIRENE mentionne épicerie en activité principale.";OUI;shopping-cart;lightred;white;B202
 Commerces;Commerces alimentaires;B;B2;B203;Boulangerie;"Commerce dédié à la vente de produits de boulangerie (pain, viennoiserie), artisanale ou pas, avec ou sans pâtisserie. 
 Y compris terminaux de cuisson, vente sans fabrication de produits de boulangerie.
-Ne comprend pas la vente de pizzas à emporter et les confiseurs spécialisés.";(source : SIRENE);OUI;utensils;beige;white
+Ne comprend pas la vente de pizzas à emporter et les confiseurs spécialisés.";(source : SIRENE);OUI;utensils;beige;white;B203
 Commerces;Commerces alimentaires;B;B2;B204;Boucherie charcuterie;"Commerce de détail spécialisé de viande et préparation à base de viande, y.c. vente de volailles, de triperie et plats préparés à base de viande.
-Ne comprend pas les traiteurs exclusifs.";(source : SIRENE);OUI;shopping-bag;red;white
-Commerces;Commerces alimentaires;B;B2;B205;Produits surgelés;Commerce de détail de produits surgelés, en magasin ou par livraison à domicile.;(source : SIRENE);OUI ;shopping-bag;white;black
+Ne comprend pas les traiteurs exclusifs.";(source : SIRENE);OUI;shopping-bag;red;white;B204
+Commerces;Commerces alimentaires;B;B2;B205;Produits surgelés;Commerce de détail de produits surgelés, en magasin ou par livraison à domicile.;(source : SIRENE);OUI ;shopping-bag;white;black;B205
 Commerces;Commerces alimentaires;B;B2;B206;Poissonnerie;"Commerce de détail alimentaire en magasin spécialisé (poisson, crustacés et mollusques).
-Ne comprend pas les entreprises de transformations et conservations industrielles, les exploitations d’aquaculture et les activités de pêche.";(source : SIRENE);OUI;shopping-bag;white;black
+Ne comprend pas les entreprises de transformations et conservations industrielles, les exploitations d’aquaculture et les activités de pêche.";(source : SIRENE);OUI;shopping-bag;white;black;B206
 Commerces;Commerces spécialisés non alimentaires;B;B3;B301;Librairie, papeterie, journaux;"Commerce de détail en magasin spécialisé de journaux, papeterie et livres.
-Y.c. journaux et périodiques.";(source : SIRENE);OUI;newspaper;;white
+Y.c. journaux et périodiques.";(source : SIRENE);OUI;newspaper;;white;B301
 Commerces;Commerces spécialisés non alimentaires;B;B3;B302;Magasin de vêtements;"Commerce de détail d’habillement en magasin spécialisé.
-Y.c. accessoires du vêtement : gants, cravates, ceintures... ";(source : SIRENE);OUI;tshirt;;white
-Commerces;Commerces spécialisés non alimentaires;B;B3;B303;Magasin d'équipements du foyer;Commerce de détail d'appareils d'éclairage, d'ustensiles ménagers, de vaisselle, d'instruments de musique et de partitions, de systèmes de sécurité à alarmes électriques sans services d'installation ou de maintenance…;(source : SIRENE);OUI;shopping-bag;;white
+Y.c. accessoires du vêtement : gants, cravates, ceintures... ";(source : SIRENE);OUI;tshirt;;white;N
+Commerces;Commerces spécialisés non alimentaires;B;B3;B303;Magasin d'équipements du foyer;Commerce de détail d'appareils d'éclairage, d'ustensiles ménagers, de vaisselle, d'instruments de musique et de partitions, de systèmes de sécurité à alarmes électriques sans services d'installation ou de maintenance…;(source : SIRENE);OUI;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B304;Magasin de chaussures;"Commerce de détail de chaussures, y.c. chaussures de sport.
-NB : ne comprend pas le commerce de détail de chaussures à usage exclusif sportif, telles que des chaussures de ski, chaussures à crampons, etc. ";(source : SIRENE);OUI;shopping-bag;;white
+NB : ne comprend pas le commerce de détail de chaussures à usage exclusif sportif, telles que des chaussures de ski, chaussures à crampons, etc. ";(source : SIRENE);OUI;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B305;Magasin d'électroménager et de mat. audio-vidéo;"Commerce de détail de matériel ""blanc"" (réfrigérateurs, appareils de cuisson électriques ou mixtes, lave-vaisselle, lave-linge, petit électroménager…) et ""brun"" (téléviseurs, radios, magnétophones, magnétoscopes, lecteurs DVD, caméscopes, chaînes HI-FI…).";"(source : SIRENE)
-Ne comprend pas la vente d'instruments de musique, de CD ou de disques, DVD, bandes et cassettes vierges ou enregistrées.";OUI;shopping-bag;;white
+Ne comprend pas la vente d'instruments de musique, de CD ou de disques, DVD, bandes et cassettes vierges ou enregistrées.";OUI;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B306;Magasin de meubles;"Commerce de détail essentiellement de mobilier domestique, de bureau ou de literie.
-Y.c. commerce de sommiers et matelas.";(source : SIRENE);OUI ;shopping-bag;;white
+Y.c. commerce de sommiers et matelas.";(source : SIRENE);OUI ;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B307;Magasin d'articles de sports et de loisirs;"Commerce d’articles de sports et loisirs (vêtements, équipements).
-Y.c. vêtements et chaussures à usage sportif exclusif.";(source : SIRENE);OUI;shopping-bag;;white
-Commerces;Commerces spécialisés non alimentaires;B;B3;B308;Magasin de revêtements murs et sols;Commerce de détail de tapis et moquettes, de rideaux et de voilages, de papiers peints et de revêtements de sols.;(source : SIRENE);OUI;shopping-bag;;white
-Commerces;Commerces spécialisés non alimentaires;B;B3;B309;Droguerie quincaillerie bricolage;Commerce de détail de quincaillerie, peintures et verres en surface de vente déclarée inférieure à 400 m².;(source : SIRENE);OUI;shopping-bag;;white
+Y.c. vêtements et chaussures à usage sportif exclusif.";(source : SIRENE);OUI;shopping-bag;;white;N
+Commerces;Commerces spécialisés non alimentaires;B;B3;B308;Magasin de revêtements murs et sols;Commerce de détail de tapis et moquettes, de rideaux et de voilages, de papiers peints et de revêtements de sols.;(source : SIRENE);OUI;shopping-bag;;white;N
+Commerces;Commerces spécialisés non alimentaires;B;B3;B309;Droguerie quincaillerie bricolage;Commerce de détail de quincaillerie, peintures et verres en surface de vente déclarée inférieure à 400 m².;(source : SIRENE);OUI;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B310;Parfumerie-Cosmétique;"Commerce de détail de parfumerie, de produits de beauté et de cosmétique en magasin spécialisé.
 Il s'agit de l'activité principale déclarée.";"(source : SIRENE) 
-Activité parfois exercée en annexe de celle d'institut de beauté. Elle ne figure alors pas dans la BPE.";OUI;shopping-bag;;white
-Commerces;Commerces spécialisés non alimentaires;B;B3;B311;Horlogerie-Bijouterie;Commerce de vente au détail d'articles d’horlogerie et de bijouterie, en magasin spécialisé.;(source : SIRENE);OUI;shopping-bag;;white
-Commerces;Commerces spécialisés non alimentaires;B;B3;B312;Fleuriste-Jardinerie-Animalerie;Commerce de détail en magasin spécialisé de fleurs, plants, arbres, arbustes, graines, engrais, animaux de compagnie et aliments pour ces animaux.;(source : SIRENE);OUI;shopping-bag;;white
+Activité parfois exercée en annexe de celle d'institut de beauté. Elle ne figure alors pas dans la BPE.";OUI;shopping-bag;;white;N
+Commerces;Commerces spécialisés non alimentaires;B;B3;B311;Horlogerie-Bijouterie;Commerce de vente au détail d'articles d’horlogerie et de bijouterie, en magasin spécialisé.;(source : SIRENE);OUI;shopping-bag;;white;N
+Commerces;Commerces spécialisés non alimentaires;B;B3;B312;Fleuriste-Jardinerie-Animalerie;Commerce de détail en magasin spécialisé de fleurs, plants, arbres, arbustes, graines, engrais, animaux de compagnie et aliments pour ces animaux.;(source : SIRENE);OUI;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B313;Magasin d’optique;Commerce de détail de lunettes correctives ou non, d’appareils photographiques et pellicules, de microscopes, de télescopes.;"(source : SIRENE)
-Hors commerce exclusivement dédié à l’activité des photographes.";OUI;shopping-bag;;white
+Hors commerce exclusivement dédié à l’activité des photographes.";OUI;shopping-bag;;white;N
 Commerces;Commerces spécialisés non alimentaires;B;B3;B315;Magasin de matériel médical et orthopédique;"Commerce de détail d'articles médicaux et d'orthopédie en magasin spécialisé.
-Comprend aussi le commerce de détail de prothèses, d'orthèses, de véhicules pour invalides et la vente au détail de prothèses auditives.";(source : SIRENE);OUI ;shopping-bag;;white
-Commerces;Commerces spécialisés non alimentaires;B;B3;B316;Station-service;Commerce de détail de carburant ayant vendu au moins 500 000 litres de carburant au cours de l'année n-1. Les plus petites stations ne sont comprises que sur la base du volontariat.;(Source : Ministère de l'Économie et des Finances – data.gouv.fr);OUI;gas-pump;;white
+Comprend aussi le commerce de détail de prothèses, d'orthèses, de véhicules pour invalides et la vente au détail de prothèses auditives.";(source : SIRENE);OUI ;shopping-bag;;white;N
+Commerces;Commerces spécialisés non alimentaires;B;B3;B316;Station-service;Commerce de détail de carburant ayant vendu au moins 500 000 litres de carburant au cours de l'année n-1. Les plus petites stations ne sont comprises que sur la base du volontariat.;(Source : Ministère de l'Économie et des Finances – data.gouv.fr);OUI;gas-pump;;white;N
 Enseignement;Enseignement du premier degré;C;C1;C101;"École maternelle
 + Cantine
 + École en RPI concentré
@@ -131,14 +131,14 @@ Enseignement;Enseignement du premier degré;C;C1;C101;"École maternelle
 (RPIC=1, sinon RPIC=0)
 (EP=1, sinon EP=0)
 (Public=PU, privé=PR)";"(source : RAMSESE)
-Y compris écoles en regroupement pédagogique intercommunal (RPI) concentré (soit toutes les classes regroupées), nc classes de RPI dispersés (cf. C102).";OUI;child;darkred;white
+Y compris écoles en regroupement pédagogique intercommunal (RPI) concentré (soit toutes les classes regroupées), nc classes de RPI dispersés (cf. C102).";OUI;child;darkred;white;C101
 Enseignement;Enseignement du premier degré;C;C1;C102;"École maternelle de regroupement pédagogique intercommunal (RPI) dispersé
 + Cantine
 + EP
 + Secteur";"Tous les niveaux de maternelle ne sont pas assurés dans l'établissement
 (CANTINE=1, sinon CANTINE=0)
 (EP=1, sinon EP=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI ;child;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI ;child;darkred;white;C102
 Enseignement;Enseignement du premier degré;C;C1;C104;"École élémentaire
 + Cantine
 + École en RPI concentré
@@ -151,7 +151,7 @@ Y compris annexe d'ESPE, élémentaire d'application, spécialisée ou régional
 (CL_PELEM=1, sinon CL_PELEM=0)
 (EP=1, sinon EP=0) 
 (Public=PU, privé=PR)";"(source : RAMSESE)
-Y compris écoles en regroupement pédagogique intercommunal (RPI) concentré (soit toutes les classes regroupées), non compris classes de RPI dispersés (cf. C105).";OUI;child;darkred;white
+Y compris écoles en regroupement pédagogique intercommunal (RPI) concentré (soit toutes les classes regroupées), non compris classes de RPI dispersés (cf. C105).";OUI;child;darkred;white;C104
 Enseignement;Enseignement du premier degré;C;C1;C105;"École élémentaire de regroupement pédagogique intercommunal (RPI) dispersé
 + Cantine
 + Classe pré-élémentaire
@@ -160,7 +160,7 @@ Enseignement;Enseignement du premier degré;C;C1;C105;"École élémentaire de r
 (CANTINE=1, sinon CANTINE=0)
 (CL_PELEM=1, sinon CL_PELEM=0)
 (EP=1, sinon EP=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;child;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;child;darkred;white;C105
 Enseignement;Enseignement du second degré premier cycle;C;C2;C201;"Collège
 + Cantine
 + Internat
@@ -169,7 +169,7 @@ Enseignement;Enseignement du second degré premier cycle;C;C2;C201;"Collège
 (CANTINE=1, sinon CANTINE=0)
 (INTERNAT=1, sinon INTERNAT=0)
 (EP=1, sinon EP=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white;C201
 Enseignement;Enseignement du second degré second cycle;C;C3;C301;"Lycée d’enseignement général et/ou technologique
 + Cantine
 + Internat
@@ -180,7 +180,7 @@ Enseignement;Enseignement du second degré second cycle;C;C3;C301;"Lycée d’en
 (INTERNAT=1, sinon INTERNAT=0)
 (CL_PGE=1, sinon CL_PGE=0)
 (EP=1, sinon EP=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white;C301
 Enseignement;Enseignement du second degré second cycle;C;C3;C302;"Lycée d’enseignement professionnel
 + Cantine
 + Internat
@@ -191,327 +191,327 @@ Enseignement;Enseignement du second degré second cycle;C;C3;C302;"Lycée d’en
 (INTERNAT=1, sinon INTERNAT=0)
 (CL_PGE=1, sinon CL_PGE=0)
 (EP=1, sinon EP=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI ;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI ;school;darkred;white;C302
 Enseignement;Enseignement du second degré second cycle;C;C3;C303;"Lycée d'enseignement technique et/ou professionnel agricole
 + Internat
 + Cl prépa gdes écoles
 + Secteur";"Sous tutelle du ministère de l'agriculture. Maisons familiales et rurales y compris autre enseignement agricole privé.
 (INTERNAT=1, sinon INTERNAT=0)
 (CL_PGE=1, sinon CL_PGE=0)
-(Public=PU, privé=PR)";(source : DGER);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : DGER);OUI;school;darkred;white;N
 Enseignement;Enseignement du second degré second cycle;C;C3;C304;"SGT Section d'enseignement général et technologique
 + Cantine
 + Internat
 + Secteur";"Présence d'enseignement général et technologique au sein d'un lycée professionnel.
 (CANTINE=1, sinon CANTINE=0)
 (INTERNAT=1, sinon INTERNAT=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white;N
 Enseignement;Enseignement du second degré second cycle;C;C3;C305;"SEP Section d'enseignement professionnel
 + Cantine
 + Internat
 + Secteur";"Présence d'enseignement professionnel au sein d'un lycée d’enseignement général et/ou technologique.
 (CANTINE=1, sinon CANTINE=0)
 (INTERNAT=1, sinon INTERNAT=0)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI ;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI ;school;darkred;white;N
 Enseignement;Enseignement supérieur non universitaire;C;C4;C401;"STS CPGE
 + Secteur ";"Établissement proposant spécifiquement des formations au diplôme de technicien supérieur et classes préparatoires aux grandes écoles.
 À noter : la majorité des CPGE sont identifiées par la variable CL_PGE des types d’équipement C301, C302 et C303.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur non universitaire;C;C4;C402;"Formation santé
 + Secteur";"Écoles de formation sanitaire et sociale (y compris établissements sous tutelle du ministère de la santé) publiques ou privées : formation de personnels médicaux et para-médicaux, techniques (laborantins), sanitaires (aides-soignants, ambulanciers), sociaux (service social, éducateurs…)
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur non universitaire;C;C4;C403;"Formation commerce
 + Secteur";"Écoles de commerce, gestion, administration d'entreprises, comptabilité, vente. Comprend notamment les réseaux d'écoles des CCI.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur non universitaire;C;C4;C409;"Autre formation post bac non universitaire
 + Secteur";"Écoles de formation d’enseignants non ESPE, d’administration publique (y compris de fonctionnaires), technico professionnelles des services, de formation artistique, d’architecture, de formation agricole ou halieutique, technico professionnelles industrielles, juridiques.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur universitaire;C;C5;C501;"UFR
 + Secteur";"Y compris UFR de médecine, odontologie, pharmacie. Y compris antennes délocalisées des UFR ou autres composantes.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI ;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI ;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur universitaire;C;C5;C502;"Institut universitaire
 + Secteur";"IUP, IUT y compris antennes délocalisées, ESPE y compris antennes d’ESPE. 
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur universitaire;C;C5;C503;"École d'ingénieurs
 + Secteur";"Écoles d'ingénieurs publiques sous tutelle du ministère de l'enseignement supérieur et de la recherche ou d'un autre ministère, et écoles privées d'ingénieurs.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur universitaire;C;C5;C504;"Enseignement général supérieur privé
 + Secteur";"Établissements privés d'enseignement universitaire, centres ou facultés privés, instituts catholiques.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur universitaire;C;C5;C505;"École d’enseignement supérieur agricole
 + Secteur
 + Internat";"Écoles post-bac d’enseignement supérieur long (école nationale vétérinaire, école supérieure d'agriculture...).
 (Public=PU, privé=PR)
-(INTERNAT=1, sinon INTERNAT=0)";(source DGER);OUI;graduation-cap;darkred;white
+(INTERNAT=1, sinon INTERNAT=0)";(source DGER);OUI;graduation-cap;darkred;white;N
 Enseignement;Enseignement supérieur universitaire;C;C5;C509;"Autre enseignement supérieur
 + Secteur";"Écoles normales supérieures, instituts nationaux polytechniques, instituts d'administration des entreprises, instituts de préparation à l'administration générale, instituts d'études politiques, institut du travail, centres régionaux associés au CNAM (Conservatoire National des Arts et Métiers), Université de technologie et centre universitaire de formation et de recherche.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;graduation-cap;darkred;white;N
 Enseignement;Formation continue;C;C6;C601;"Centre de formation d'apprentis hors agriculture
 + Secteur";"Centre de formation d'apprentis avec convention régionale ou nationale, y compris antennes et sections d'apprentissage, non compris l'apprentissage agricole.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI ;graduation-cap;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI ;graduation-cap;darkred;white;N
 Enseignement;Formation continue;C;C6;C602;"GRETA
 + Secteur";"Groupements d'établissements pour la formation continue. Ils sont toujours rattachés à un EPLE (Établissement public local d'enseignement). Les annexes des GRETA ne sont pas immatriculées. 
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white;N
 Enseignement;Formation continue;C;C6;C603;"Centre dispensant de la formation continue agricole
 + Secteur";"Centres de formation professionnelle et de promotion agricole ou de formation continue agricole (toujours rattachés à un EPLE agricole).
-(Public=PU, privé=PR)";(source : DGER);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : DGER);OUI;school;darkred;white;N
 Enseignement;Formation continue;C;C6;C604;"Formation aux métiers du sport
 + Secteur";"Établissements de formation aux métiers du sport : écoles et instituts nationaux de la jeunesse et des sports (INSEP, INJEP, ENSA, ENEV, ENSFS, ENE), centres régionaux d'éducation populaire et de sport (CREPS). Ils sont sous la tutelle du ministère en charge des sports.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI;school;darkred;white;N
 Enseignement;Formation continue;C;C6;C605;"Centre dispensant des formations d'apprentissage agricole
 + Internat 
 + Secteur";"Centre de formation agricole d’apprentis.
 (INTERNAT=1, sinon INTERNAT=0)
-(Public=PU, privé=PR)";(source : DGER);OUI;school;darkred;white
+(Public=PU, privé=PR)";(source : DGER);OUI;school;darkred;white;N
 Enseignement;Formation continue;C;C6;C609;"Autre formation continue
 + Secteur";"Établissements de formation continue autres : regroupe les centres d'enseignement à distance (CNED et ses centres d'enseignement, centres privés soumis à déclaration), les établissements de formation continue hors Éducation nationale ou hors Agriculture.
-(Public=PU, privé=PR)";(source : RAMSESE);OUI ;school;darkred;white
+(Public=PU, privé=PR)";(source : RAMSESE);OUI ;school;darkred;white;N
 Enseignement;Autres services de l'éducation;C;C7;C701;"Résidence universitaire
-+ Secteur";(Public=PU);(source : RAMSESE);OUI;building;darkred;white
++ Secteur";(Public=PU);(source : RAMSESE);OUI;building;darkred;white;N
 Enseignement;Autres services de l'éducation;C;C7;C702;"Restaurant universitaire
-+ Secteur";(Public=PU, privé=PR);(source : RAMSESE);OUI;utensils;darkred;white
++ Secteur";(Public=PU, privé=PR);(source : RAMSESE);OUI;utensils;darkred;white;N
 Santé;Établissements et services de santé;D;D1;D101;Établissement santé court séjour;Établissement hospitalier (y compris cliniques privées) exerçant des soins de courte durée en médecine et/ou chirurgie. Contient centres hospitaliers et hôpitaux locaux, hôpitaux des armées. Les syndicats inter-hospitaliers avec discipline de soins et les autres établissements de la loi hospitalière figurent dans ce groupe.;"(source : FINESS)
 Les établissements de soins du Service de santé des armées ne sont pas suivis.
-Non compris les maternités autonomes classées en D107. On trouve à la même adresse établissements hospitaliers et syndicats inter-hospitaliers ou unités de médecine et de chirurgie ou unités avec adresse « administrative » commune.";OUI ;hospital-alt;purple;white
+Non compris les maternités autonomes classées en D107. On trouve à la même adresse établissements hospitaliers et syndicats inter-hospitaliers ou unités de médecine et de chirurgie ou unités avec adresse « administrative » commune.";OUI ;hospital-alt;purple;white;N
 Santé;Établissements et services de santé;D;D1;D102;Établissement santé moyen séjour;"Établissement hospitalier (y compris cliniques privées) exerçant des soins de suite et de réadaptation (ou moyen séjour). 
 Contient les mêmes établissements que D101 s'ils disposent d'un tel service de soins, plus les maisons de régime, les établissements de lutte contre la tuberculose et ceux de lutte contre l'alcoolisme, les établissements de convalescence et de repos et ceux de réadaptation fonctionnelle. Sont rajoutés les établissements pour enfants à caractère sanitaire, estimés de moyen séjour (Maisons d'enfants et pouponnières) ainsi que les groupements de coopération sanitaire - établissement de santé.";"(source : FINESS) 
-Pour les hôpitaux des armées, l’information concernant la présence ou non d’un service de moyen séjour n’est pas disponible. Ils n'ont été retenus qu'en court séjour (D101).";OUI;hospital-alt;purple;white
-Santé;Établissements et services de santé;D;D1;D103;Établissement santé long séjour;Établissement hospitalier (y compris cliniques privées) exerçant des soins de longue durée.;(source : FINESS);OUI;hospital-alt;purple;white
+Pour les hôpitaux des armées, l’information concernant la présence ou non d’un service de moyen séjour n’est pas disponible. Ils n'ont été retenus qu'en court séjour (D101).";OUI;hospital-alt;purple;white;N
+Santé;Établissements et services de santé;D;D1;D103;Établissement santé long séjour;Établissement hospitalier (y compris cliniques privées) exerçant des soins de longue durée.;(source : FINESS);OUI;hospital-alt;purple;white;N
 Santé;Établissements et services de santé;D;D1;D104;Établissement psychiatrique;"Centre hospitalier spécialisé contre les maladies mentales (CHS) ou établissements hospitaliers (y compris cliniques privées) exerçant des soins de psychiatrie adulte et/ou infanto juvénile.
-Structures avec hébergement : y compris les maisons de santé pour maladies mentales et les centres de postcure pour malades mentaux.";(source : FINESS);OUI;hospital-alt;purple;white
-Santé;Établissements et services de santé;D;D1;D105;Centre lutte cancer;Établissement de santé privé à but non lucratif exclusivement dédié aux soins, à la recherche et à l’enseignement en cancérologie. ;(source : FINESS);OUI;hospital-alt;purple;white
+Structures avec hébergement : y compris les maisons de santé pour maladies mentales et les centres de postcure pour malades mentaux.";(source : FINESS);OUI;hospital-alt;purple;white;N
+Santé;Établissements et services de santé;D;D1;D105;Centre lutte cancer;Établissement de santé privé à but non lucratif exclusivement dédié aux soins, à la recherche et à l’enseignement en cancérologie. ;(source : FINESS);OUI;hospital-alt;purple;white;N
 Santé;Établissements et services de santé;D;D1;D106;Urgences;Services d'intervention (SAMU - SMUR) et d'accueil des urgences.;"(source : FINESS)
-On trouve le service d'intervention et le service d'accueil à la même adresse.";OUI;hospital-alt;purple;white
-Santé;Établissements et services de santé;D;D1;D107;Maternité;Soins en gynécologie et obstétrique. Établissement autonome ou activité parmi d'autres au sein d'un établissement hospitalier.;(source : FINESS);OUI ;hospital-alt;purple;white
+On trouve le service d'intervention et le service d'accueil à la même adresse.";OUI;hospital-alt;purple;white;D106
+Santé;Établissements et services de santé;D;D1;D107;Maternité;Soins en gynécologie et obstétrique. Établissement autonome ou activité parmi d'autres au sein d'un établissement hospitalier.;(source : FINESS);OUI ;hospital-alt;purple;white;D107
 Santé;Établissements et services de santé;D;D1;D108;Centre de santé;Dispensaire ou centre de soins dentaires, médicaux, infirmiers ou polyvalents.;"(source : FINESS)
 Les centres d'examen ne peuvent être assimilés à des centres de soins et ont été classés en D110.
-On trouve à la même adresse centre médical et centre dentaire ou centre infirmier…";OUI;hospital-alt;purple;white
+On trouve à la même adresse centre médical et centre dentaire ou centre infirmier…";OUI;hospital-alt;purple;white;D108
 Santé;Établissements et services de santé;D;D1;D109;Structure psychiatrique en ambulatoire;Établissements sans hébergement relevant de la loi hospitalière tels que centre médico-psychologique, atelier ou appartement thérapeutique, accueil thérapeutique à temps partiel, centre de crise.;"(source : FINESS) 
-On trouve à la même adresse des unités soumises à des gestions différentes (tarification, tutelle …)";OUI;hospital-alt;purple;white
-Santé;Établissements et services de santé;D;D1;D110;Centre médecine préventive;Dispensaires antituberculeux, antivénérien, antihansénien, centre de vaccination BCG, de consultation pour le cancer, d'examens de santé et polyvalents. ;(source : FINESS);OUI;hospital-alt;purple;white
+On trouve à la même adresse des unités soumises à des gestions différentes (tarification, tutelle …)";OUI;hospital-alt;purple;white;N
+Santé;Établissements et services de santé;D;D1;D110;Centre médecine préventive;Dispensaires antituberculeux, antivénérien, antihansénien, centre de vaccination BCG, de consultation pour le cancer, d'examens de santé et polyvalents. ;(source : FINESS);OUI;hospital-alt;purple;white;D110
 Santé;Établissements et services de santé;D;D1;D111;Dialyse;Relève de la loi hospitalière. Centres de dialyse ambulatoire, qu’ils soient autonomes ou que ce soit une activité parmi d'autres au sein d'un établissement.;"(source : FINESS)
-On trouve à la même adresse le centre de dialyse et la structure alternative de dialyse à domicile.";OUI;plus-square;purple;white
+On trouve à la même adresse le centre de dialyse et la structure alternative de dialyse à domicile.";OUI;plus-square;purple;white;N
 Santé;Établissements et services de santé;D;D1;D112;Hospitalisation à domicile;"Établissement d’hospitalisation à domicile autonome ou service d’hospitalisation à domicile rattaché à un établissement de santé, public ou privé. 
 Relève de la loi hospitalière. Hors dialyse.
-Il y a peu d'établissements pratiquant uniquement l'hospitalisation à domicile.";(source : FINESS);OUI;user-nurse;purple;white
-Santé;Établissements et services de santé;D;D1;D113;Maison de santé pluridisciplinaire;Une maison de santé pluridisciplinaire (MSP) regroupe dans un cadre d’exercice libéral des professionnels médicaux et paramédicaux.;(source : FINESS);OUI ;hospital-alt;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D201;Médecin généraliste ;Médecin « généraliste », y compris médecins non-spécialistes ayant une compétence particulière (acupuncteurs, homéopathes, allergologues, gynécologues…).;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D202;Spécialiste en cardiologie;Sont inclus les chirurgiens thoraciques.;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D203;Spécialiste en dermatologie vénéréologie;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D206;Spécialiste en gastro-entérologie hépatologie;Sont inclus les chirurgiens vasculaires.;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D207;Spécialiste en psychiatrie;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D208;Spécialiste en ophtalmologie;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D209;Spécialiste en oto-rhino-laryngologie;;(source : RPPS);OUI ;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D210;Spécialiste en pédiatrie;Sont inclus les chirurgiens pédiatriques.;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D211;Spécialiste en pneumologie;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D212;Spécialiste en radiodiagnostic et imagerie médicale;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D213;Spécialiste en stomatologie;;(source : RPPS);OUI;user-md;purple;white
+Il y a peu d'établissements pratiquant uniquement l'hospitalisation à domicile.";(source : FINESS);OUI;user-nurse;purple;white;D112
+Santé;Établissements et services de santé;D;D1;D113;Maison de santé pluridisciplinaire;Une maison de santé pluridisciplinaire (MSP) regroupe dans un cadre d’exercice libéral des professionnels médicaux et paramédicaux.;(source : FINESS);OUI ;hospital-alt;purple;white;D113
+Santé;Fonctions médicales et para - médicales;D;D2;D201;Médecin généraliste ;Médecin « généraliste », y compris médecins non-spécialistes ayant une compétence particulière (acupuncteurs, homéopathes, allergologues, gynécologues…).;(source : RPPS);OUI;user-md;purple;white;D201
+Santé;Fonctions médicales et para - médicales;D;D2;D202;Spécialiste en cardiologie;Sont inclus les chirurgiens thoraciques.;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D203;Spécialiste en dermatologie vénéréologie;;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D206;Spécialiste en gastro-entérologie hépatologie;Sont inclus les chirurgiens vasculaires.;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D207;Spécialiste en psychiatrie;;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D208;Spécialiste en ophtalmologie;;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D209;Spécialiste en oto-rhino-laryngologie;;(source : RPPS);OUI ;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D210;Spécialiste en pédiatrie;Sont inclus les chirurgiens pédiatriques.;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D211;Spécialiste en pneumologie;;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D212;Spécialiste en radiodiagnostic et imagerie médicale;;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D213;Spécialiste en stomatologie;;(source : RPPS);OUI;user-md;purple;white;N
 Santé;Fonctions médicales et para - médicales;D;D2;D214;Spécialiste en gynécologie (médicale et/ou obstétrique);;"(source : RPPS)
-(Regroupe le D204 « spécialiste en gynécologie médicale » et le D205 « spécialiste en gynécologie obstétrique » depuis 2017).";OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D221;Chirurgien dentiste;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D231;Sage-femme;;(source : RPPS);OUI;user-nurse;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D232;Infirmier;;(source : ADELI);OUI;user-nurse;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D233;Masseur kinésithérapeute;;(source : RPPS);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D235;Orthophoniste;;(source : ADELI);OUI ;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D236;Orthoptiste;;(source : ADELI);OUI;user-md;purple;white
+(Regroupe le D204 « spécialiste en gynécologie médicale » et le D205 « spécialiste en gynécologie obstétrique » depuis 2017).";OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D221;Chirurgien dentiste;;(source : RPPS);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D231;Sage-femme;;(source : RPPS);OUI;user-nurse;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D232;Infirmier;;(source : ADELI);OUI;user-nurse;purple;white;D232
+Santé;Fonctions médicales et para - médicales;D;D2;D233;Masseur kinésithérapeute;;(source : RPPS);OUI;user-md;purple;white;D233
+Santé;Fonctions médicales et para - médicales;D;D2;D235;Orthophoniste;;(source : ADELI);OUI ;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D236;Orthoptiste;;(source : ADELI);OUI;user-md;purple;white;N
 Santé;Fonctions médicales et para - médicales;D;D2;D237;Pédicure-podologue;;"(source : RPPS)
-Depuis la BPE 2018, les pédicures-podologues sont enregistrés dans le RPPS et non plus dans ADELI.";OUI;user-md;purple;white
+Depuis la BPE 2018, les pédicures-podologues sont enregistrés dans le RPPS et non plus dans ADELI.";OUI;user-md;purple;white;N
 Santé;Fonctions médicales et para - médicales;D;D2;D238;Audio prothésiste;Pour appréhender tous les lieux où le service est rendu, ont été retenus tous les professionnels exerçant à titre libéral ou comme salariés du privé, à l'exclusion des structures ne recevant pas habituellement du public (établissement d'enseignement, administration, entreprises…).;"(source : ADELI)
-Possibilité d'avoir un ou plusieurs libéraux et/ou un ou plusieurs salariés à la même adresse.";OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D239;Ergothérapeute;;(source : ADELI);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D240;Psychomotricien;;(source : ADELI);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D241;Manipulateur ERM;;(source : ADELI);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D242;Diététicien;;(source : ADELI);OUI;user-md;purple;white
-Santé;Fonctions médicales et para - médicales;D;D2;D243;Psychologue;;(source : ADELI);OUI;user-md;purple;white
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D301;Pharmacie;Commerce de détail de médicaments, produits paramédicaux, appareillages, produits d'hygiène et de produits vétérinaires.;(source : SIRENE);OUI;medkit;purple;white
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D302;Laboratoire d'analyses et de biologie médicale;Laboratoires ouverts au public et autres laboratoires non autorisés à générer des feuilles de soins électroniques. Les services d'analyses biologiques des établissements hospitaliers n'y figurent pas.;(source : FINESS);OUI ;plus-square;purple;white
+Possibilité d'avoir un ou plusieurs libéraux et/ou un ou plusieurs salariés à la même adresse.";OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D239;Ergothérapeute;;(source : ADELI);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D240;Psychomotricien;;(source : ADELI);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D241;Manipulateur ERM;;(source : ADELI);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D242;Diététicien;;(source : ADELI);OUI;user-md;purple;white;N
+Santé;Fonctions médicales et para - médicales;D;D2;D243;Psychologue;;(source : ADELI);OUI;user-md;purple;white;N
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D301;Pharmacie;Commerce de détail de médicaments, produits paramédicaux, appareillages, produits d'hygiène et de produits vétérinaires.;(source : SIRENE);OUI;medkit;purple;white;D301
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D302;Laboratoire d'analyses et de biologie médicale;Laboratoires ouverts au public et autres laboratoires non autorisés à générer des feuilles de soins électroniques. Les services d'analyses biologiques des établissements hospitaliers n'y figurent pas.;(source : FINESS);OUI ;plus-square;purple;white;N
 Santé;Autres établissements et services a caractère sanitaire;D;D3;D303;Ambulance;Il s’agit de l’activité principale déclarée.;"(source : SIRENE)
-Activité parfois exercée en annexe de celle de taxi en milieu rural et plus rarement avec celle de pompes funèbres. Elle ne figure alors pas dans la BPE.";OUI;ambulance;purple;white
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D304;Transfusion sanguine;Établissements autonomes.;(source : FINESS);OUI;plus-square;purple;white
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D305;Établissement thermal;Relève de la loi hospitalière.;(source : FINESS);OUI;hospital-alt;purple;white
+Activité parfois exercée en annexe de celle de taxi en milieu rural et plus rarement avec celle de pompes funèbres. Elle ne figure alors pas dans la BPE.";OUI;ambulance;purple;white;N
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D304;Transfusion sanguine;Établissements autonomes.;(source : FINESS);OUI;plus-square;purple;white;N
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D305;Établissement thermal;Relève de la loi hospitalière.;(source : FINESS);OUI;hospital-alt;purple;white;N
 Santé;Action sociale pour personnes âgées;D;D4;D401;Personnes âgées : hébergement;"Établissement d'hébergement pour personnes âgées.
 Hospices, maisons de retraite, EHPA, EHPAD, résidences autonomie (les logements foyers requalifiés en résidence autonomie par la loi ASV) et résidences d'hébergement temporaire.";"(source : FINESS)
-On trouve à la même adresse des structures de types différents : maison de retraite, résidence autonomie, hospice, résidence…";OUI;hospital-user;purple;white
-Santé;Action sociale pour personnes âgées;D;D4;D402;Personnes âgées : soins à domicile;Services de soins à domicile pour personnes âgées. Localisé au siège du service.;(source : FINESS);OUI;hospital-user;purple;white
+On trouve à la même adresse des structures de types différents : maison de retraite, résidence autonomie, hospice, résidence…";OUI;hospital-user;purple;white;N
+Santé;Action sociale pour personnes âgées;D;D4;D402;Personnes âgées : soins à domicile;Services de soins à domicile pour personnes âgées. Localisé au siège du service.;(source : FINESS);OUI;hospital-user;purple;white;N
 Santé;Action sociale pour personnes âgées;D;D4;D403;Personnes âgées : services d’aide;"Services d'aide ménagère à domicile, alarme médico-sociale, services d'aide aux personnes âgées et portage de repas à domicile.
 Localisé au siège du service.";"(source : FINESS)
-On trouve à la même adresse des services d'aide ménagère, d'alarme médico-sociale ou toute autre forme d’aide.";OUI;hospital-user;purple;white
+On trouve à la même adresse des services d'aide ménagère, d'alarme médico-sociale ou toute autre forme d’aide.";OUI;hospital-user;purple;white;N
 Santé;Action sociale pour personnes âgées;D;D4;D404;"Personnes âgées :
-Foyers restaurants";Foyer club restaurant.;(source : FINESS);OUI ;hospital-user;purple;white
+Foyers restaurants";Foyer club restaurant.;(source : FINESS);OUI ;hospital-user;purple;white;N
 Santé;Action sociale pour enfants en bas-âge;D;D5;D502;Crèche ;Structure autorisée à accueillir, de manière non permanente, des enfants de moins de 6 ans, et percevant une prestation de service CAF : crèche collective ou parentale, halte garderie, jardin d'enfants.;"(source : CNAF)
-Données au 1er janvier 2018";OUI;baby;purple;white
-Santé;Action sociale pour handicapés;D;D6;D601;Enfants handicapés : hébergement;Institut médico-éducatif, médico-pédagogique, médico-professionnel, jardin d'enfants spécialisé, institut de rééducation, établissement pour déficients moteurs et/ou cérébraux, visuels et/ou auditifs, centre d'accueil familial spécialisé, foyer d'hébergement et établissement expérimental pour personnes handicapées.;Source : FINESS;OUI;hospital-user;purple;white
-Santé;Action sociale pour handicapés;D;D6;D602;Enfants handicapés : services à domicile ou ambulatoires;Service d'éducation spéciale et de soins à domicile, centre médico psycho-pédagogique (CMPP), centre action médico-sociale précoce (CAMSP), bureau d'aide psychologique universitaire (BAPU).;Source : FINESS;OUI;accessible-icon;purple;white
-Santé;Action sociale pour handicapés;D;D6;D603;Adultes handicapés : accueil/hébergement;Centre de placement familial, foyer d'hébergement, maison d’accueil spécialisée (MAS), foyer occupationnel, foyer d'accueil médicalisé (FAM), établissement expérimental pour personne handicapée, établissement d’accueil (médicalisé ou non) pour personne handicapée.;Source : FINESS;OUI;hospital-user;purple;white
-Santé;Action sociale pour handicapés;D;D6;D604;Adultes handicapés : services d'aide;Centre de pré-orientation, de rééducation professionnelle, service auxiliaire de vie, service d'accompagnement à la vie sociale (SAVS), Service d'accompagnement médico-social adulte handicapé (SAMSAH), service prestataire d'aide à domicile (SAAD).;Source : FINESS;OUI;accessible-icon;purple;white
-Santé;Action sociale pour handicapés;D;D6;D605;Travail protégé;Établissement social d'aide par le travail (ESAT) et atelier protégé.;Source : FINESS;OUI ;accessible-icon;purple;white
-Santé;Action sociale pour handicapés;D;D6;D606;Adultes handicapés : services de soins à domicile;Activité de soins d'accompagnement et de réhabilitation : Service polyvalent d’aide et de soins à domicile pour personnes handicapées (SPASAD) et Service de soins infirmiers à domicile (SSIAD) pour personnes handicapées.;Source : FINESS;OUI;accessible-icon;purple;white
+Données au 1er janvier 2018";OUI;baby;purple;white;D502
+Santé;Action sociale pour handicapés;D;D6;D601;Enfants handicapés : hébergement;Institut médico-éducatif, médico-pédagogique, médico-professionnel, jardin d'enfants spécialisé, institut de rééducation, établissement pour déficients moteurs et/ou cérébraux, visuels et/ou auditifs, centre d'accueil familial spécialisé, foyer d'hébergement et établissement expérimental pour personnes handicapées.;Source : FINESS;OUI;hospital-user;purple;white;N
+Santé;Action sociale pour handicapés;D;D6;D602;Enfants handicapés : services à domicile ou ambulatoires;Service d'éducation spéciale et de soins à domicile, centre médico psycho-pédagogique (CMPP), centre action médico-sociale précoce (CAMSP), bureau d'aide psychologique universitaire (BAPU).;Source : FINESS;OUI;accessible-icon;purple;white;N
+Santé;Action sociale pour handicapés;D;D6;D603;Adultes handicapés : accueil/hébergement;Centre de placement familial, foyer d'hébergement, maison d’accueil spécialisée (MAS), foyer occupationnel, foyer d'accueil médicalisé (FAM), établissement expérimental pour personne handicapée, établissement d’accueil (médicalisé ou non) pour personne handicapée.;Source : FINESS;OUI;hospital-user;purple;white;N
+Santé;Action sociale pour handicapés;D;D6;D604;Adultes handicapés : services d'aide;Centre de pré-orientation, de rééducation professionnelle, service auxiliaire de vie, service d'accompagnement à la vie sociale (SAVS), Service d'accompagnement médico-social adulte handicapé (SAMSAH), service prestataire d'aide à domicile (SAAD).;Source : FINESS;OUI;accessible-icon;purple;white;N
+Santé;Action sociale pour handicapés;D;D6;D605;Travail protégé;Établissement social d'aide par le travail (ESAT) et atelier protégé.;Source : FINESS;OUI ;accessible-icon;purple;white;N
+Santé;Action sociale pour handicapés;D;D6;D606;Adultes handicapés : services de soins à domicile;Activité de soins d'accompagnement et de réhabilitation : Service polyvalent d’aide et de soins à domicile pour personnes handicapées (SPASAD) et Service de soins infirmiers à domicile (SSIAD) pour personnes handicapées.;Source : FINESS;OUI;accessible-icon;purple;white;N
 Santé;Autres services d’action sociale;D;D7;D701;Aide sociale à l’enfance : hébergement;"Établissement d'accueil mère-enfant, pouponnière à caractère social, foyer de l'enfance, village et maison d'enfants à caractère social, centre de placement familial socio-éducatif.
-Tous ces équipements sont sous tutelle des conseils départementaux.";(source : FINESS);OUI;user-friends;purple;white
+Tous ces équipements sont sous tutelle des conseils départementaux.";(source : FINESS);OUI;user-friends;purple;white;N
 Santé;Autres services d’action sociale;D;D7;D702;Aide sociale à l’enfance : action éducative;"Foyer d'action éducative (FAE), service éducatif auprès des tribunaux (SEAT), centre d'action éducative (CAE), service d'action éducative en milieu ouvert (AEMO)
 Tous ces équipements sont sous tutelle de l'administration judiciaire.";"(source : FINESS)
-Exhaustivité non garantie";OUI;user-friends;purple;white
-Santé;Autres services d’action sociale;D;D7;D703;CHRS Centre d’hébergement et de réadaptation sociale;;(source : FINESS);OUI;building;purple;white
-Santé;Autres services d’action sociale;D;D7;D704;Centre provisoire d’hébergement;;(source : FINESS);OUI;building;purple;white
-Santé;Autres services d’action sociale;D;D7;D705;Centre accueil demandeur d'asile;;(source : FINESS);OUI;user-friends;purple;white
+Exhaustivité non garantie";OUI;user-friends;purple;white;N
+Santé;Autres services d’action sociale;D;D7;D703;CHRS Centre d’hébergement et de réadaptation sociale;;(source : FINESS);OUI;building;purple;white;N
+Santé;Autres services d’action sociale;D;D7;D704;Centre provisoire d’hébergement;;(source : FINESS);OUI;building;purple;white;N
+Santé;Autres services d’action sociale;D;D7;D705;Centre accueil demandeur d'asile;;(source : FINESS);OUI;user-friends;purple;white;N
 Santé;Autres services d’action sociale;D;D7;D709;Autres établissements pour adultes et familles en difficulté;Aire de stationnement pour nomades, foyer d'hébergement de travailleurs migrants, foyer de jeunes travailleurs, hébergement des familles de malades, logement-foyer non spécialisé et les MAH (maison d’accueil hospitalière).;"(source : FINESS)
-Exhaustivité non garantie";OUI ;user-friends;purple;white
+Exhaustivité non garantie";OUI ;user-friends;purple;white;N
 Transports et déplacements;Infrastructures de transports;E;E1;E101;Taxi-VTC;Il s’agit de l’activité principale déclarée.;"(source : SIRENE)
-Activité parfois exercée en annexe de celle d'ambulance et plus rarement avec celle de pompes funèbres. Elle ne figure alors pas dans la BPE.";OUI;taxi;darkgreen;white
-Transports et déplacements;Infrastructures de transports;E;E1;E102;Aéroport;Aéroport en activité avec plus de 1 000 passagers (mouvement commercial au départ ou à l’arrivée de l’aéroport hors transit durant l’année n-1).;(source : DGAC);OUI;plane;darkgreen;white
-Transports et déplacements;Infrastructures de transports;E;E1;E107;Gare de voyageurs d’intérêt national;Gare des services nationaux et internationaux de voyageurs dont la fréquentation par les voyageurs est au moins égale à 250 000 par an.;(source : SNCF);OUI;train;darkgreen;white
-Transports et déplacements;Infrastructures de transports;E;E1;E108;Gare de voyageurs d’intérêt régional;Gare de voyageurs dont la fréquentation totale par les voyageurs est au moins égale à 100 000 par an.;(source : SNCF);OUI;train;darkgreen;white
-Transports et déplacements;Infrastructures de transports;E;E1;E109;Gare de voyageurs d’intérêt local;Regroupe toutes les autres gares de voyageurs.;(source : SNCF);OUI;train;darkgreen;white
+Activité parfois exercée en annexe de celle d'ambulance et plus rarement avec celle de pompes funèbres. Elle ne figure alors pas dans la BPE.";OUI;taxi;darkgreen;white;N
+Transports et déplacements;Infrastructures de transports;E;E1;E102;Aéroport;Aéroport en activité avec plus de 1 000 passagers (mouvement commercial au départ ou à l’arrivée de l’aéroport hors transit durant l’année n-1).;(source : DGAC);OUI;plane;darkgreen;white;E102
+Transports et déplacements;Infrastructures de transports;E;E1;E107;Gare de voyageurs d’intérêt national;Gare des services nationaux et internationaux de voyageurs dont la fréquentation par les voyageurs est au moins égale à 250 000 par an.;(source : SNCF);OUI;train;darkgreen;white;N
+Transports et déplacements;Infrastructures de transports;E;E1;E108;Gare de voyageurs d’intérêt régional;Gare de voyageurs dont la fréquentation totale par les voyageurs est au moins égale à 100 000 par an.;(source : SNCF);OUI;train;darkgreen;white;N
+Transports et déplacements;Infrastructures de transports;E;E1;E109;Gare de voyageurs d’intérêt local;Regroupe toutes les autres gares de voyageurs.;(source : SNCF);OUI;train;darkgreen;white;N
 Sports, loisirs et culture;Équipements sportifs;F;F1;F101;"Bassin de natation
 + Couvert
 + Éclairé";"Bassin de natation, sportive et/ou ludique.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de bassins.";OUI;swimming-pool;blue;white
+nombre d’équipements identiques : nombre de bassins.";OUI;swimming-pool;blue;white;F101
 Sports, loisirs et culture;Équipements sportifs;F;F1;F102;"Boulodrome
 + Couvert
 + Éclairé";"Terrain de boules, de pétanque.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de terrains.";OUI;bowling-ball;green;white
+nombre d’équipements identiques : nombre de terrains.";OUI;bowling-ball;green;white;F102
 Sports, loisirs et culture;Équipements sportifs;F;F1;F103;"Tennis
 + Couvert
 + Éclairé";"Court(s) de tennis.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de courts.";OUI;table-tennis;green;white
+nombre d’équipements identiques : nombre de courts.";OUI;table-tennis;green;white;F103
 Sports, loisirs et culture;Équipements sportifs;F;F1;F104;"Équipement de cyclisme
 + Couvert
 + Éclairé";"Vélodrome, anneau/piste.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes. ";OUI;biking;green;white
+nombre d’équipements identiques : nombre de pistes. ";OUI;biking;green;white;F104
 Sports, loisirs et culture;Équipements sportifs;F;F1;F105;"Domaine skiable
 + Couvert
 + Éclairé";"Station de ski, domaine nordique.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes.";OUI;skiing;white;black
+nombre d’équipements identiques : nombre de pistes.";OUI;skiing;white;black;F105
 Sports, loisirs et culture;Équipements sportifs;F;F1;F106;"Centre équestre
 + Couvert
 + Éclairé";"Carrière, manège, carrière de dressage/rond de longe, structure de tourisme équestre, parcours d’obstacles
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de carrières, manèges.";OUI ;horse;green;white
+nombre d’équipements identiques : nombre de carrières, manèges.";OUI ;horse;green;white;F106
 Sports, loisirs et culture;Équipements sportifs;F;F1;F107;"Athlétisme
 + Couvert
 + Éclairé";"Stade d'athlétisme, aire de lancer, aire de saut, piste.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;running;green;white
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;running;green;white;F107
 Sports, loisirs et culture;Équipements sportifs;F;F1;F108;"Terrain de golf
 + Couvert
 + Éclairé";"Parcours 9 ou 18 trous, parcours d'initiation, practice
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;golf-ball;green;white
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;golf-ball;green;white;F108
 Sports, loisirs et culture;Équipements sportifs;F;F1;F109;"Parcours sportif/santé
 + Couvert
 + Éclairé";"Parcours sportif/santé. 
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de parcours.";OUI;running;green;white
+nombre d’équipements identiques : nombre de parcours.";OUI;running;green;white;F109
 Sports, loisirs et culture;Équipements sportifs;F;F1;F110;"Sports de glace
 + Couvert
 + Éclairé";"Aire de sports de glace, sportive et/ou ludique.
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;skiing;white;black
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;skiing;white;black;N
 Sports, loisirs et culture;Équipements sportifs;F;F1;F111;"Plateaux et terrains de jeux extérieurs
 + Couvert
 + Éclairé";"Plateau EPS, multisports, city-stade, terrain de basket-ball, de beach-volley, de handball, de volley-ball.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;futbol;green;white
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;futbol;green;white;F111
 Sports, loisirs et culture;Équipements sportifs;F;F1;F112;"Salles spécialisées
 + Couvert
 + Éclairé";"Salle de basket-ball, de beach-volley, de handball, de volley-ball, de badminton, salle de tennis de table, de culturisme, de danse, de gymnastique sportive, de patinage sur roulettes, de raquetball, de trampoline, d’haltérophilie, de squash, de blocs artificiels d’escalade, structure artificielle d’escalade.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI ;basketball-ball;green;white
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI ;basketball-ball;green;white;F112
 Sports, loisirs et culture;Équipements sportifs;F;F1;F113;"Terrains de grands jeux
 + Couvert
 + Éclairé";"Terrain de football, de rugby, de football américain, de rugby à XIII, de base-ball/softball, de cricket, de hockey sur gazon. 
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de terrains.";OUI;futbol;green;white
+nombre d’équipements identiques : nombre de terrains.";OUI;futbol;green;white;F113
 Sports, loisirs et culture;Équipements sportifs;F;F1;F114;"Salles de combat
 + Couvert
 + Éclairé";"Dojo, salle de boxe, d'arts martiaux, de lutte, d'escrime.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;mitten;green;white
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;mitten;green;white;F114
 Sports, loisirs et culture;Équipements sportifs;F;F1;F116;"Salles non spécialisées
 + Couvert
 + Éclairé";"Salle polyvalente, des fêtes, autre salle non spécialisée. 
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de salles où s'exerce au moins une activité physique et/ou sportive.";OUI;warehouse;green;white
+nombre d’équipements identiques : nombre de salles où s'exerce au moins une activité physique et/ou sportive.";OUI;warehouse;green;white;N
 Sports, loisirs et culture;Équipements sportifs;F;F1;F117;"Roller-Skate-Vélo
 Bicross ou freestyle
 + Couvert
 + Éclairé";"Anneau de roller, skate-park, piste de bicross, espace de vélo freestyle.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes, parcours, circuits.";OUI;skating;green;white
+nombre d’équipements identiques : nombre de pistes, parcours, circuits.";OUI;skating;green;white;N
 Sports, loisirs et culture;Équipements sportifs;F;F1;F118;"Sports nautiques
 + Couvert
 + Éclairé";"Site d'activités aquatiques et nautiques, stade de ski nautique et/ou d'aviron, stade mixte.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;swimmer;blue;white
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;swimmer;blue;white;F118
 Sports, loisirs et culture;Équipements sportifs;F;F1;F119;"Bowling
 + Couvert
 + Éclairé";"Piste de bowling.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes.";OUI ;bowling-ball;green;white
+nombre d’équipements identiques : nombre de pistes.";OUI ;bowling-ball;green;white;N
 Sports, loisirs et culture;Équipements sportifs;F;F1;F120;"Salles de remise en forme
 + Couvert
 + Éclairé";"Salle de cours collectifs, de musculation/cardiotraining, abdos, etc…
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de salles";OUI;dumbbell;green;white
+nombre d’équipements identiques : nombre de salles";OUI;dumbbell;green;white;F120
 Sports, loisirs et culture;Équipements sportifs;F;F1;F121;"Salles multisports
 (gymnases)
 + Couvert
 + Éclairé";"Salle multisports (gymnase).
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de salles.";OUI;dumbbell;green;white
+nombre d’équipements identiques : nombre de salles.";OUI;dumbbell;green;white;F121
 Sports, loisirs et culture;Équipements de loisirs;F;F2;F201;Baignade aménagée;"Zone délimitée (matériellement, par des bouées, des lignes d'eau, etc) pour la baignade surveillée.
-En rivière, mer, plan d'eau intérieur.";(source : RES);OUI;swimmer;blue;white
-Sports, loisirs et culture;Équipements de loisirs;F;F2;F202;Port de plaisance - Mouillage;Port de plaisance, zone de mouillage.;(source : RES);OUI;anchor;blue;white
-Sports, loisirs et culture;Équipements de loisirs;F;F2;F203;Boucle de randonnée;Uniquement les boucles de randonnée dont les points de départ et d'arrivée se situent sur la même commune (règle du RES). ;(source : RES);OUI;hiking;green;white
+En rivière, mer, plan d'eau intérieur.";(source : RES);OUI;swimmer;blue;white;F201
+Sports, loisirs et culture;Équipements de loisirs;F;F2;F202;Port de plaisance - Mouillage;Port de plaisance, zone de mouillage.;(source : RES);OUI;anchor;blue;white;F202
+Sports, loisirs et culture;Équipements de loisirs;F;F2;F203;Boucle de randonnée;Uniquement les boucles de randonnée dont les points de départ et d'arrivée se situent sur la même commune (règle du RES). ;(source : RES);OUI;hiking;green;white;F203
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F303;"Cinéma
 + NB_SALLES";"Est considéré comme cinéma tout lieu de projection disposant d'une autorisation d'exercice au sens du code de l'industrie cinématographique, et présent dans la base du CNC.
 Est inclus dans cette base tout cinéma disposant d'une autorisation administrative et qui a envoyé au moins un bordereau de recettes dans l'année.
 Y compris cinéma classé « art et essai » géré par le CNC.
 Ne sont pas pris en compte les cinémas itinérants.";"(source : CNC)
 capacité : nombre de salles par cinéma 
-À partir de 2019, le champ géographique des cinémas s’est enrichi avec l’intégration des données des DOM.";OUI ;film;cadetblue;white
-Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F304;Musée;Musée relevant de l'appellation musée de France et appartenant à l’État ou à une personne morale de droit public ou privé à but non lucratif, dont la conservation et la présentation au public des collections présentent un intérêt public.;(source : Culture);OUI;university;cadetblue;white
-Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F305;Conservatoire;Lieu dispensant un enseignement initial de musique, de danse et/ou d’art dramatique. Le ministère de la Culture les classe en trois catégories : les conservatoires à rayonnement communal ou intercommunal (CRC), les conservatoires à rayonnement départemental (CRD) et ceux à rayonnement régional (CRR).;(source : Culture);OUI;university;cadetblue;white
+À partir de 2019, le champ géographique des cinémas s’est enrichi avec l’intégration des données des DOM.";OUI ;film;cadetblue;white;F303
+Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F304;Musée;Musée relevant de l'appellation musée de France et appartenant à l’État ou à une personne morale de droit public ou privé à but non lucratif, dont la conservation et la présentation au public des collections présentent un intérêt public.;(source : Culture);OUI;university;cadetblue;white;F304
+Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F305;Conservatoire;Lieu dispensant un enseignement initial de musique, de danse et/ou d’art dramatique. Le ministère de la Culture les classe en trois catégories : les conservatoires à rayonnement communal ou intercommunal (CRC), les conservatoires à rayonnement départemental (CRD) et ceux à rayonnement régional (CRR).;(source : Culture);OUI;university;cadetblue;white;F305
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F306;"Théâtre-Arts de rue-Pôle cirque
 + NB_SALLES";Ensemble de structures culturelles (théâtres, centres nationaux des arts de la rue et de l’espace public, pôles nationaux du cirque) gérées par ARTCENA (alliance du Centre national du théâtre et du centre de ressources Horslesmurs consacré au cirque et aux arts de la rue) où une représentation culturelle peut se tenir. Ces lieux peuvent être labellisés (théâtres nationaux et privés, scènes nationales et conventionnées, compagnies avec lieux d’accueil, compagnies dramatiques nationales et régionales, pôles nationaux du cirque, centres chorégraphiques) ou non.;"(source : ARTCENA)
 Nombre de salles par structure culturelle.
-Suite à un défaut de fournitures des données par le producteur, les données 2018 sont reconduites pour l’année 2019.";OUI;university;cadetblue;white
+Suite à un défaut de fournitures des données par le producteur, les données 2018 sont reconduites pour l’année 2019.";OUI;university;cadetblue;white;F306
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F307;Bibliothèque;"Ensemble des points d’accès au livre (médiathèque, bibliothèque, point lecture, dépôt lecture…) relevant des collectivités territoriales : bibliothèques publiques de statut départemental, municipal, intercommunal et municipal classé (central ou annexe).
 Ces points d’accès au livre sont ouverts à tous et permettent la consultation sur place et le prêt à domicile.";"(source : Culture)
 Ne comprend pas les bibliothèques nationales sous tutelle directe du ministère de la Culture (ex. la Bibliothèque nationale de France, la Bibliothèque publique d’information…).
-Création en 2019";OUI ;university;cadetblue;white
+Création en 2019";OUI ;university;cadetblue;white;F307
 Tourisme;Tourisme;G;G1;G101;Agence de voyage;Agences de voyage et voyagistes.;"(source : SIRENE)
-Ne comprend pas les services de réservation et d'information touristique.";OUI;globe;darkpurple;white
+Ne comprend pas les services de réservation et d'information touristique.";OUI;globe;darkpurple;white;N
 Tourisme;Tourisme;G;G1;G102;Hôtel;Hôtel classé et hôtel de tourisme non classé de 5 chambres et plus.;"(source : enquêtes TOURISME) 
-Ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.";OUI;bed;darkpurple;white
+Ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.";OUI;bed;darkpurple;white;G102
 Tourisme;Tourisme;G;G1;G103;Camping;"Camping ou aire naturelle qui dispose d’au moins 10 emplacements dont au moins 1 de passage.
 Comprend les campings des comités d'entreprise, à clientèle spécifique (ouvriers, colonies de vacances, forains…) si cette clientèle est de passage, c’est-à-dire ne restant pas pendant toute la période d'ouverture du camping.";"(source : enquêtes TOURISME)
-Ne comprend pas les services de réservation et activités liées.";OUI;campground;darkpurple;white
+Ne comprend pas les services de réservation et activités liées.";OUI;campground;darkpurple;white;N
 Tourisme;Tourisme;G;G1;G104;Information touristique;"Activités d'information touristique.
 Comprend les services de réservation et d'information touristique, y compris les offices de tourisme, et les guides touristiques.";"(source : SIRENE)
-Ne comprend pas les agences de voyage et les voyagistes.";OUI ;info;darkpurple;white
+Ne comprend pas les agences de voyage et les voyagistes.";OUI ;info;darkpurple;white;N
