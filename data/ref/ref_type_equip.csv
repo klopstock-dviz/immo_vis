@@ -40,15 +40,15 @@ Services aux particuliers;Services publics;A;A1;A127;Maison de services au publi
 Création en 2019 avec introduction d’une nouvelle source : CGET (Commissariat général à l’égalité des territoires)";OUI;user-friends;black;white;N;
 Services aux particuliers;Services généraux;A;A2;A203;Banque, Caisse d'épargne;"Établissements de crédit agréés, y.c. banques mutualistes ou coopératives et caisses d'épargne et de prévoyance.
 Ne comprend pas les guichets financiers de La Poste.";"(source : SIRENE)
-Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;orange;white;A203;
+Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;beige;white;A203;ffcb92
 Services aux particuliers;Services généraux;A;A2;A205;Pompes funèbres;"Il s’agit de l’activité principale déclarée.
 Comprend les activités de pompes funèbres quelle que soit la forme juridique (mise en bière, transport, services d'inhumation ou de crémation).";"(source : SIRENE)
-Activité parfois exercée en annexe avec celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.";OUI;user-friends;orange;white;N;
-Services aux particuliers;Services généraux;A;A2;A206;Bureau de poste;Le bureau de poste, en gestion directe par La Poste, offre la totalité des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (courrier simple, recommandé, réexpédition, prêt à poster…) que pour les services financiers (ouverture de comptes, dépôts, retraits, assurances-vie, PEL, actions…).;(source : LA POSTE);OUI;envelope;beige;white;A206;
+Activité parfois exercée en annexe avec celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.";OUI;user-friends;black;white;N;black
+Services aux particuliers;Services généraux;A;A2;A206;Bureau de poste;Le bureau de poste, en gestion directe par La Poste, offre la totalité des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (courrier simple, recommandé, réexpédition, prêt à poster…) que pour les services financiers (ouverture de comptes, dépôts, retraits, assurances-vie, PEL, actions…).;(source : LA POSTE);OUI;envelope;beige;white;A206;ffcb92
 Services aux particuliers;Services généraux;A;A2;A207;Relais poste;"Le relais poste est géré principalement par une personne privée dans le cadre de conventions de partenariat signées entre La Poste et des partenaires privés.
-Il offre une grande partie des produits et services de proximité délivrés à la population concernant le courrier et les colis (courrier simple, recommandé, prêt à poster, à l’exception de l’établissement d’une procuration postale…). Les services financiers sont limités au retrait d’espèces (maximum 150 euros par semaine) et au paiement de mandat cash.";(source : LA POSTE);OUI;envelope;beige;white;A207;
+Il offre une grande partie des produits et services de proximité délivrés à la population concernant le courrier et les colis (courrier simple, recommandé, prêt à poster, à l’exception de l’établissement d’une procuration postale…). Les services financiers sont limités au retrait d’espèces (maximum 150 euros par semaine) et au paiement de mandat cash.";(source : LA POSTE);OUI;envelope;beige;white;A207;ffcb93
 Services aux particuliers;Services généraux;A;A2;A208;Agence postale;"L’agence postale est gérée par une personne publique, représentée par des agents territoriaux dans le cadre de conventions de partenariat signées entre La Poste et les communes ou EPCI concernées.
-Elle offre une grande partie des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (comparable aux prestations des bureaux de poste) que pour les services financiers (légèrement moindres aux prestations des bureaux de poste : ouverture de compte et produits financiers tels que assurance-vie, PEL ou actions impossibles).";(source : LA POSTE);OUI ;envelope;beige;white;A208;
+Elle offre une grande partie des produits et services délivrés à la population tant pour ce qui concerne le courrier et les colis (comparable aux prestations des bureaux de poste) que pour les services financiers (légèrement moindres aux prestations des bureaux de poste : ouverture de compte et produits financiers tels que assurance-vie, PEL ou actions impossibles).";(source : LA POSTE);OUI ;envelope;beige;white;A208;ffcb94
 Services aux particuliers;Services automobiles;A;A3;A301;Réparation automobile et de matériel agricole;"Le code APE principal ne suffit pas pour distinguer l'activité, notamment en zone rurale. On complète la recherche sur le code APRM (activité artisanale), cette activité étant souvent une activité secondaire, l’activité principale étant « commerce ».
 Dans ce cas, seules les unités exerçant une activité de réparation complémentaire du commerce de véhicules automobiles, du commerce de détail de carburants et du commerce de gros de matériel agricole sont retenues.
 Non compris réparation de tondeuses à gazon.";(source : SIRENE);OUI;user-friends;;white;N;
@@ -91,14 +91,14 @@ Commerces;Commerces alimentaires;B;B2;B202;Épicerie;Commerce de détail non sp�
 Les multiservices en zone rurale, à la fois épicerie, café, vente de tabac, vente de journaux, restaurant, etc. n'apparaissent ici que si la déclaration effectuée à SIRENE mentionne épicerie en activité principale.";OUI;shopping-cart;red;white;B202;#a13336
 Commerces;Commerces alimentaires;B;B2;B203;Boulangerie;"Commerce dédié à la vente de produits de boulangerie (pain, viennoiserie), artisanale ou pas, avec ou sans pâtisserie. 
 Y compris terminaux de cuisson, vente sans fabrication de produits de boulangerie.
-Ne comprend pas la vente de pizzas à emporter et les confiseurs spécialisés.";(source : SIRENE);OUI;pizza-slice;beige;white;B203;
+Ne comprend pas la vente de pizzas à emporter et les confiseurs spécialisés.";(source : SIRENE);OUI;pizza-slice;orange;white;B203;#f0932f
 Commerces;Commerces alimentaires;B;B2;B204;Boucherie charcuterie;"Commerce de détail spécialisé de viande et préparation à base de viande, y.c. vente de volailles, de triperie et plats préparés à base de viande.
-Ne comprend pas les traiteurs exclusifs.";(source : SIRENE);OUI;shopping-bag;red;white;B204;
-Commerces;Commerces alimentaires;B;B2;B205;Produits surgelés;Commerce de détail de produits surgelés, en magasin ou par livraison à domicile.;(source : SIRENE);OUI ;shopping-bag;white;black;B205;
+Ne comprend pas les traiteurs exclusifs.";(source : SIRENE);OUI;shopping-bag;red;white;B204;#a13336
+Commerces;Commerces alimentaires;B;B2;B205;Produits surgelés;Commerce de détail de produits surgelés, en magasin ou par livraison à domicile.;(source : SIRENE);OUI ;snowflake;blue;white;B205;#37a6d8
 Commerces;Commerces alimentaires;B;B2;B206;Poissonnerie;"Commerce de détail alimentaire en magasin spécialisé (poisson, crustacés et mollusques).
-Ne comprend pas les entreprises de transformations et conservations industrielles, les exploitations d’aquaculture et les activités de pêche.";(source : SIRENE);OUI;shopping-bag;white;black;B206;
+Ne comprend pas les entreprises de transformations et conservations industrielles, les exploitations d’aquaculture et les activités de pêche.";(source : SIRENE);OUI;shopping-bag;blue;black;B206;#37a6d8
 Commerces;Commerces spécialisés non alimentaires;B;B3;B301;Librairie, papeterie, journaux;"Commerce de détail en magasin spécialisé de journaux, papeterie et livres.
-Y.c. journaux et périodiques.";(source : SIRENE);OUI;newspaper;;white;B301;
+Y.c. journaux et périodiques.";(source : SIRENE);OUI;newspaper;black;white;B301;black
 Commerces;Commerces spécialisés non alimentaires;B;B3;B302;Magasin de vêtements;"Commerce de détail d’habillement en magasin spécialisé.
 Y.c. accessoires du vêtement : gants, cravates, ceintures... ";(source : SIRENE);OUI;tshirt;;white;N;
 Commerces;Commerces spécialisés non alimentaires;B;B3;B303;Magasin d'équipements du foyer;Commerce de détail d'appareils d'éclairage, d'ustensiles ménagers, de vaisselle, d'instruments de musique et de partitions, de systèmes de sécurité à alarmes électriques sans services d'installation ou de maintenance…;(source : SIRENE);OUI;shopping-bag;;white;N;
@@ -339,7 +339,7 @@ On trouve à la même adresse des services d'aide ménagère, d'alarme médico-s
 Santé;Action sociale pour personnes âgées;D;D4;D404;"Personnes âgées :
 Foyers restaurants";Foyer club restaurant.;(source : FINESS);OUI ;hospital-user;purple;white;N;
 Santé;Action sociale pour enfants en bas-âge;D;D5;D502;Crèche ;Structure autorisée à accueillir, de manière non permanente, des enfants de moins de 6 ans, et percevant une prestation de service CAF : crèche collective ou parentale, halte garderie, jardin d'enfants.;"(source : CNAF)
-Données au 1er janvier 2018";OUI;baby;purple;white;D502;#d051b8
+Données au 1er janvier 2018";OUI;baby;darkred;white;D502;#9b3134
 Santé;Action sociale pour handicapés;D;D6;D601;Enfants handicapés : hébergement;Institut médico-éducatif, médico-pédagogique, médico-professionnel, jardin d'enfants spécialisé, institut de rééducation, établissement pour déficients moteurs et/ou cérébraux, visuels et/ou auditifs, centre d'accueil familial spécialisé, foyer d'hébergement et établissement expérimental pour personnes handicapées.;Source : FINESS;OUI;hospital-user;purple;white;N;
 Santé;Action sociale pour handicapés;D;D6;D602;Enfants handicapés : services à domicile ou ambulatoires;Service d'éducation spéciale et de soins à domicile, centre médico psycho-pédagogique (CMPP), centre action médico-sociale précoce (CAMSP), bureau d'aide psychologique universitaire (BAPU).;Source : FINESS;OUI;accessible-icon;purple;white;N;
 Santé;Action sociale pour handicapés;D;D6;D603;Adultes handicapés : accueil/hébergement;Centre de placement familial, foyer d'hébergement, maison d’accueil spécialisée (MAS), foyer occupationnel, foyer d'accueil médicalisé (FAM), établissement expérimental pour personne handicapée, établissement d’accueil (médicalisé ou non) pour personne handicapée.;Source : FINESS;OUI;hospital-user;purple;white;N;
@@ -358,7 +358,7 @@ Santé;Autres services d’action sociale;D;D7;D709;Autres établissements pour 
 Exhaustivité non garantie";OUI ;user-friends;purple;white;N;
 Transports et déplacements;Infrastructures de transports;E;E1;E101;Taxi-VTC;Il s’agit de l’activité principale déclarée.;"(source : SIRENE)
 Activité parfois exercée en annexe de celle d'ambulance et plus rarement avec celle de pompes funèbres. Elle ne figure alors pas dans la BPE.";OUI;taxi;darkgreen;white;N;
-Transports et déplacements;Infrastructures de transports;E;E1;E102;Aéroport;Aéroport en activité avec plus de 1 000 passagers (mouvement commercial au départ ou à l’arrivée de l’aéroport hors transit durant l’année n-1).;(source : DGAC);OUI;plane;darkgreen;white;E102;
+Transports et déplacements;Infrastructures de transports;E;E1;E102;Aéroport;Aéroport en activité avec plus de 1 000 passagers (mouvement commercial au départ ou à l’arrivée de l’aéroport hors transit durant l’année n-1).;(source : DGAC);OUI;plane;gray;white;E102;gray
 Transports et déplacements;Infrastructures de transports;E;E1;E107;Gare de voyageurs d’intérêt national;Gare des services nationaux et internationaux de voyageurs dont la fréquentation par les voyageurs est au moins égale à 250 000 par an.;(source : SNCF);OUI;train;darkgreen;white;N;
 Transports et déplacements;Infrastructures de transports;E;E1;E108;Gare de voyageurs d’intérêt régional;Gare de voyageurs dont la fréquentation totale par les voyageurs est au moins égale à 100 000 par an.;(source : SNCF);OUI;train;darkgreen;white;N;
 Transports et déplacements;Infrastructures de transports;E;E1;E109;Gare de voyageurs d’intérêt local;Regroupe toutes les autres gares de voyageurs.;(source : SNCF);OUI;train;darkgreen;white;N;
@@ -373,49 +373,49 @@ Sports, loisirs et culture;Équipements sportifs;F;F1;F102;"Boulodrome
 + Éclairé";"Terrain de boules, de pétanque.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de terrains.";OUI;bowling-ball;green;white;F102;
+nombre d’équipements identiques : nombre de terrains.";OUI;bowling-ball;gray;white;F102;gray
 Sports, loisirs et culture;Équipements sportifs;F;F1;F103;"Tennis
 + Couvert
 + Éclairé";"Court(s) de tennis.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de courts.";OUI;table-tennis;green;white;F103;
+nombre d’équipements identiques : nombre de courts.";OUI;table-tennis;green;white;F103;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F104;"Équipement de cyclisme
 + Couvert
 + Éclairé";"Vélodrome, anneau/piste.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes. ";OUI;biking;green;white;F104;
+nombre d’équipements identiques : nombre de pistes. ";OUI;biking;green;white;F104;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F105;"Domaine skiable
 + Couvert
 + Éclairé";"Station de ski, domaine nordique.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes.";OUI;skiing;white;black;F105;
+nombre d’équipements identiques : nombre de pistes.";OUI;skiing;white;black;F105;white
 Sports, loisirs et culture;Équipements sportifs;F;F1;F106;"Centre équestre
 + Couvert
 + Éclairé";"Carrière, manège, carrière de dressage/rond de longe, structure de tourisme équestre, parcours d’obstacles
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de carrières, manèges.";OUI ;horse;green;white;F106;
+nombre d’équipements identiques : nombre de carrières, manèges.";OUI ;horse;green;white;F106;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F107;"Athlétisme
 + Couvert
 + Éclairé";"Stade d'athlétisme, aire de lancer, aire de saut, piste.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;running;green;white;F107;
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;running;green;white;F107;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F108;"Terrain de golf
 + Couvert
 + Éclairé";"Parcours 9 ou 18 trous, parcours d'initiation, practice
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;golf-ball;green;white;F108;
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;golf-ball;green;white;F108;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F109;"Parcours sportif/santé
 + Couvert
 + Éclairé";"Parcours sportif/santé. 
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de parcours.";OUI;running;green;white;F109;
+nombre d’équipements identiques : nombre de parcours.";OUI;running;green;white;F109;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F110;"Sports de glace
 + Couvert
 + Éclairé";"Aire de sports de glace, sportive et/ou ludique.
@@ -427,38 +427,38 @@ Sports, loisirs et culture;Équipements sportifs;F;F1;F111;"Plateaux et terrains
 + Éclairé";"Plateau EPS, multisports, city-stade, terrain de basket-ball, de beach-volley, de handball, de volley-ball.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;futbol;green;white;F111;
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;futbol;green;white;F111;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F112;"Salles spécialisées
 + Couvert
 + Éclairé";"Salle de basket-ball, de beach-volley, de handball, de volley-ball, de badminton, salle de tennis de table, de culturisme, de danse, de gymnastique sportive, de patinage sur roulettes, de raquetball, de trampoline, d’haltérophilie, de squash, de blocs artificiels d’escalade, structure artificielle d’escalade.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI ;basketball-ball;green;white;F112;
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI ;basketball-ball;green;white;F112;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F113;"Terrains de grands jeux
 + Couvert
 + Éclairé";"Terrain de football, de rugby, de football américain, de rugby à XIII, de base-ball/softball, de cricket, de hockey sur gazon. 
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de terrains.";OUI;futbol;green;white;F113;
+nombre d’équipements identiques : nombre de terrains.";OUI;futbol;green;white;F113;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F114;"Salles de combat
 + Couvert
 + Éclairé";"Dojo, salle de boxe, d'arts martiaux, de lutte, d'escrime.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre d'aires de pratique.";OUI;mitten;green;white;F114;
+nombre d’équipements identiques : nombre d'aires de pratique.";OUI;mitten;green;white;F114;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F116;"Salles non spécialisées
 + Couvert
 + Éclairé";"Salle polyvalente, des fêtes, autre salle non spécialisée. 
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de salles où s'exerce au moins une activité physique et/ou sportive.";OUI;warehouse;green;white;N;
+nombre d’équipements identiques : nombre de salles où s'exerce au moins une activité physique et/ou sportive.";OUI;warehouse;green;white;N;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F117;"Roller-Skate-Vélo
 Bicross ou freestyle
 + Couvert
 + Éclairé";"Anneau de roller, skate-park, piste de bicross, espace de vélo freestyle.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes, parcours, circuits.";OUI;skating;green;white;N;
+nombre d’équipements identiques : nombre de pistes, parcours, circuits.";OUI;skating;green;white;N;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F118;"Sports nautiques
 + Couvert
 + Éclairé";"Site d'activités aquatiques et nautiques, stade de ski nautique et/ou d'aviron, stade mixte.
@@ -470,24 +470,24 @@ Sports, loisirs et culture;Équipements sportifs;F;F1;F119;"Bowling
 + Éclairé";"Piste de bowling.
 1=Au moins 1 équipement est couvert
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de pistes.";OUI ;bowling-ball;green;white;N;
+nombre d’équipements identiques : nombre de pistes.";OUI ;bowling-ball;green;white;N;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F120;"Salles de remise en forme
 + Couvert
 + Éclairé";"Salle de cours collectifs, de musculation/cardiotraining, abdos, etc…
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de salles";OUI;dumbbell;green;white;F120;
+nombre d’équipements identiques : nombre de salles";OUI;dumbbell;green;white;F120;#6fab25
 Sports, loisirs et culture;Équipements sportifs;F;F1;F121;"Salles multisports
 (gymnases)
 + Couvert
 + Éclairé";"Salle multisports (gymnase).
 1=Au moins 1 équipement est couvert 
 1=Au moins 1 équipement est éclairé";"(source : RES)
-nombre d’équipements identiques : nombre de salles.";OUI;dumbbell;green;white;F121;
+nombre d’équipements identiques : nombre de salles.";OUI;dumbbell;green;white;F121;#6fab25
 Sports, loisirs et culture;Équipements de loisirs;F;F2;F201;Baignade aménagée;"Zone délimitée (matériellement, par des bouées, des lignes d'eau, etc) pour la baignade surveillée.
 En rivière, mer, plan d'eau intérieur.";(source : RES);OUI;swimmer;blue;white;F201;#37a6d8
 Sports, loisirs et culture;Équipements de loisirs;F;F2;F202;Port de plaisance - Mouillage;Port de plaisance, zone de mouillage.;(source : RES);OUI;anchor;blue;white;F202;#37a6d8
-Sports, loisirs et culture;Équipements de loisirs;F;F2;F203;Boucle de randonnée;Uniquement les boucles de randonnée dont les points de départ et d'arrivée se situent sur la même commune (règle du RES). ;(source : RES);OUI;hiking;green;white;F203;
+Sports, loisirs et culture;Équipements de loisirs;F;F2;F203;Boucle de randonnée;Uniquement les boucles de randonnée dont les points de départ et d'arrivée se situent sur la même commune (règle du RES). ;(source : RES);OUI;hiking;green;white;F203;#6fab25
 Sports, loisirs et culture;Équipements culturels et socioculturels;F;F3;F303;"Cinéma
 + NB_SALLES";"Est considéré comme cinéma tout lieu de projection disposant d'une autorisation d'exercice au sens du code de l'industrie cinématographique, et présent dans la base du CNC.
 Est inclus dans cette base tout cinéma disposant d'une autorisation administrative et qui a envoyé au moins un bordereau de recettes dans l'année.
@@ -508,7 +508,7 @@ Création en 2019";OUI ;university;cadetblue;white;F307;#416578
 Tourisme;Tourisme;G;G1;G101;Agence de voyage;Agences de voyage et voyagistes.;"(source : SIRENE)
 Ne comprend pas les services de réservation et d'information touristique.";OUI;globe;darkpurple;white;N;
 Tourisme;Tourisme;G;G1;G102;Hôtel;Hôtel classé et hôtel de tourisme non classé de 5 chambres et plus.;"(source : enquêtes TOURISME) 
-Ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.";OUI;bed;darkpurple;white;G102;
+Ne comprend pas les hôtels à vocation sociale uniquement, les résidences de tourisme et les résidences hôtelières.";OUI;bed;cadetblue;white;G102;#416575
 Tourisme;Tourisme;G;G1;G103;Camping;"Camping ou aire naturelle qui dispose d’au moins 10 emplacements dont au moins 1 de passage.
 Comprend les campings des comités d'entreprise, à clientèle spécifique (ouvriers, colonies de vacances, forains…) si cette clientèle est de passage, c’est-à-dire ne restant pas pendant toute la période d'ouverture du camping.";"(source : enquêtes TOURISME)
 Ne comprend pas les services de réservation et activités liées.";OUI;campground;darkpurple;white;N;
