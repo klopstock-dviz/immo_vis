@@ -281,11 +281,11 @@ Santé;Établissements et services de santé;D;D1;D104;Établissement psychiatri
 Structures avec hébergement : y compris les maisons de santé pour maladies mentales et les centres de postcure pour malades mentaux.";(source : FINESS);OUI;hospital-alt;purple;white;N;
 Santé;Établissements et services de santé;D;D1;D105;Centre lutte cancer;Établissement de santé privé à but non lucratif exclusivement dédié aux soins, à la recherche et à l’enseignement en cancérologie. ;(source : FINESS);OUI;hospital-alt;purple;white;N;
 Santé;Établissements et services de santé;D;D1;D106;Urgences;Services d'intervention (SAMU - SMUR) et d'accueil des urgences.;"(source : FINESS)
-On trouve le service d'intervention et le service d'accueil à la même adresse.";OUI;hospital-alt;purple;white;D106;#d051b8
+On trouve le service d'intervention et le service d'accueil à la même adresse.";OUI;clinic-medical;purple;white;D106;#d051b8
 Santé;Établissements et services de santé;D;D1;D107;Maternité;Soins en gynécologie et obstétrique. Établissement autonome ou activité parmi d'autres au sein d'un établissement hospitalier.;(source : FINESS);OUI ;hospital-alt;purple;white;D107;#d051b8
 Santé;Établissements et services de santé;D;D1;D108;Centre de santé;Dispensaire ou centre de soins dentaires, médicaux, infirmiers ou polyvalents.;"(source : FINESS)
 Les centres d'examen ne peuvent être assimilés à des centres de soins et ont été classés en D110.
-On trouve à la même adresse centre médical et centre dentaire ou centre infirmier…";OUI;hospital-alt;purple;white;D108;#d051b8
+On trouve à la même adresse centre médical et centre dentaire ou centre infirmier…";OUI;clinic-medical;purple;white;D108;#d051b8
 Santé;Établissements et services de santé;D;D1;D109;Structure psychiatrique en ambulatoire;Établissements sans hébergement relevant de la loi hospitalière tels que centre médico-psychologique, atelier ou appartement thérapeutique, accueil thérapeutique à temps partiel, centre de crise.;"(source : FINESS) 
 On trouve à la même adresse des unités soumises à des gestions différentes (tarification, tutelle …)";OUI;hospital-alt;purple;white;N;
 Santé;Établissements et services de santé;D;D1;D110;Centre médecine préventive;Dispensaires antituberculeux, antivénérien, antihansénien, centre de vaccination BCG, de consultation pour le cancer, d'examens de santé et polyvalents. ;(source : FINESS);OUI;hospital-alt;purple;white;D110;#d051b8
@@ -323,11 +323,11 @@ Santé;Fonctions médicales et para - médicales;D;D2;D240;Psychomotricien;;(sou
 Santé;Fonctions médicales et para - médicales;D;D2;D241;Manipulateur ERM;;(source : ADELI);OUI;user-md;purple;white;N;
 Santé;Fonctions médicales et para - médicales;D;D2;D242;Diététicien;;(source : ADELI);OUI;user-md;purple;white;N;
 Santé;Fonctions médicales et para - médicales;D;D2;D243;Psychologue;;(source : ADELI);OUI;user-md;purple;white;N;
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D301;Pharmacie;Commerce de détail de médicaments, produits paramédicaux, appareillages, produits d'hygiène et de produits vétérinaires.;(source : SIRENE);OUI;medkit;purple;white;D301;#d051b8
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D302;Laboratoire d'analyses et de biologie médicale;Laboratoires ouverts au public et autres laboratoires non autorisés à générer des feuilles de soins électroniques. Les services d'analyses biologiques des établissements hospitaliers n'y figurent pas.;(source : FINESS);OUI ;plus-square;purple;white;N;
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D301;Pharmacie;Commerce de détail de médicaments, produits paramédicaux, appareillages, produits d'hygiène et de produits vétérinaires.;(source : SIRENE);OUI;prescription-bottle-alt;purple;white;D301;#d051b8
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D302;Laboratoire d'analyses et de biologie médicale;Laboratoires ouverts au public et autres laboratoires non autorisés à générer des feuilles de soins électroniques. Les services d'analyses biologiques des établissements hospitaliers n'y figurent pas.;(source : FINESS);OUI ;syringe;purple;white;N;
 Santé;Autres établissements et services a caractère sanitaire;D;D3;D303;Ambulance;Il s’agit de l’activité principale déclarée.;"(source : SIRENE)
 Activité parfois exercée en annexe de celle de taxi en milieu rural et plus rarement avec celle de pompes funèbres. Elle ne figure alors pas dans la BPE.";OUI;ambulance;purple;white;N;
-Santé;Autres établissements et services a caractère sanitaire;D;D3;D304;Transfusion sanguine;Établissements autonomes.;(source : FINESS);OUI;plus-square;purple;white;N;
+Santé;Autres établissements et services a caractère sanitaire;D;D3;D304;Transfusion sanguine;Établissements autonomes.;(source : FINESS);OUI;syringe;purple;white;N;
 Santé;Autres établissements et services a caractère sanitaire;D;D3;D305;Établissement thermal;Relève de la loi hospitalière.;(source : FINESS);OUI;hospital-alt;purple;white;N;
 Santé;Action sociale pour personnes âgées;D;D4;D401;Personnes âgées : hébergement;"Établissement d'hébergement pour personnes âgées.
 Hospices, maisons de retraite, EHPA, EHPAD, résidences autonomie (les logements foyers requalifiés en résidence autonomie par la loi ASV) et résidences d'hébergement temporaire.";"(source : FINESS)
