@@ -40,7 +40,7 @@ Services aux particuliers;Services publics;A;A1;A127;Maison de services au publi
 Création en 2019 avec introduction d’une nouvelle source : CGET (Commissariat général à l’égalité des territoires)";OUI;user-friends;black;white;N;
 Services aux particuliers;Services généraux;A;A2;A203;Banque, Caisse d'épargne;"Établissements de crédit agréés, y.c. banques mutualistes ou coopératives et caisses d'épargne et de prévoyance.
 Ne comprend pas les guichets financiers de La Poste.";"(source : SIRENE)
-Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;lightred;white;A203;#d3d3d3
+Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;lightred;white;A203;#ff8c7d
 Services aux particuliers;Services généraux;A;A2;A205;Pompes funèbres;"Il s’agit de l’activité principale déclarée.
 Comprend les activités de pompes funèbres quelle que soit la forme juridique (mise en bière, transport, services d'inhumation ou de crémation).";"(source : SIRENE)
 Activité parfois exercée en annexe avec celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.";OUI;user-friends;black;white;N;black
