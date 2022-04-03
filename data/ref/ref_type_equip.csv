@@ -40,7 +40,7 @@ Services aux particuliers;Services publics;A;A1;A127;Maison de services au publi
 Création en 2019 avec introduction d’une nouvelle source : CGET (Commissariat général à l’égalité des territoires)";OUI;user-friends;black;white;N;
 Services aux particuliers;Services généraux;A;A2;A203;Banque, Caisse d'épargne;"Établissements de crédit agréés, y.c. banques mutualistes ou coopératives et caisses d'épargne et de prévoyance.
 Ne comprend pas les guichets financiers de La Poste.";"(source : SIRENE)
-Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;#d3d3d3;white;A203;#d3d3d3
+Fait apparaître, en plus des agences recherchées, des services administratifs ou des points-contacts que l'on ne peut pas distinguer des guichets. À noter que la déclaration au RCS des établissements secondaires (les agences) des organismes bancaires n'est pas obligatoire.";OUI ;euro-sign;lightred;white;A203;#d3d3d3
 Services aux particuliers;Services généraux;A;A2;A205;Pompes funèbres;"Il s’agit de l’activité principale déclarée.
 Comprend les activités de pompes funèbres quelle que soit la forme juridique (mise en bière, transport, services d'inhumation ou de crémation).";"(source : SIRENE)
 Activité parfois exercée en annexe avec celle de taxi ou d'ambulance en secteur rural. Elle ne figure alors pas dans la BPE.";OUI;user-friends;black;white;N;black
@@ -84,7 +84,7 @@ Commerces;Grandes surfaces;B;B1;B101;Hypermarché;Commerce de détail à prédom
 Commerces;Grandes surfaces;B;B1;B102;Supermarché;Commerce de détail à prédominance alimentaire avec une surface de vente déclarée entre 400 et 2500 m².;"(source : SIRENE)
 La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI;shopping-cart;red;white;B102;#cf3c29
 Commerces;Grandes surfaces;B;B1;B103;Grande surface de bricolage;Surface de vente déclarée supérieure à 400 m².;"(source : SIRENE)
-La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI ;shopping-bag;lightred;white;N;
+La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI ;shopping-bag;gray;white;N;
 Commerces;Commerces alimentaires;B;B2;B201;Supérette;Commerce de détail non spécialisé à prédominance alimentaire avec une surface de vente déclarée entre 120 et 400 m². Même remarque que pour B102 pour le seuil de 400 m². La limite de 120 m² n'est utilisée que par la NAF : il est recommandé de regrouper B201 avec les épiceries (B202).;"(source : SIRENE)
 La NAF a conservé le seuil de 400 m², différent du seuil administratif de la DGCCRF fixé à 300 m².";OUI;shopping-cart;red;white;B201;#cf3c29
 Commerces;Commerces alimentaires;B;B2;B202;Épicerie;Commerce de détail non spécialisé à prédominance alimentaire en surface de vente déclarée inférieure à 120 m². Il est recommandé de regrouper B202 avec les supérettes (B201).;"(source : SIRENE) 
